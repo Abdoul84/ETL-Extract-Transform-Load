@@ -28,3 +28,4 @@ Final tables/collections that we used in the production database:
 			• View created to show positive affect vs obesity.
 
 
+Positive affect comprises the average frequency of happiness, laughter and enjoyment on the previous day, and negative affect comprises the average frequency of worry, sadness and anger on the previous day. The affect measures thus lie between 0 and 1. ((Helliwell et al., 2019)
