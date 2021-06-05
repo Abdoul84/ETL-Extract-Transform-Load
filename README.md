@@ -50,7 +50,6 @@ Final tables/collections that we used in the production database:
 			• All graphical outputs can be found in the "Resources" folder
 
 <h2>Conclusion:</h2>
-<h3>Happiest countries based on "Positive Affect":</h3>
  <ul>
 	<li>There does not seem to be a strong correlation between "Positive Affect" from the Happiness Dataset and the Obesity % of Obesity Dataset. But there is a slight positive correlation between all the years where the higher the positive affect the higher the obesity level.</li> <ul>
  
