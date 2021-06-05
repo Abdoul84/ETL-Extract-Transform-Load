@@ -22,7 +22,7 @@ World Happiness Dataset:
 
 Type of final production database data is loaded into:
 
-			• We used PostgreSQL to link the data by our common identifier, Country.
+			• We used PostgreSQL to link the data by our common identifier, Country and year.
 
 
 Final tables/collections that we used in the production database:
