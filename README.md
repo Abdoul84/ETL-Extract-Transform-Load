@@ -14,7 +14,7 @@ Sources of data (Raw Data Folder):
     •	Obesity Dataset (https://www.kaggle.com/amanarora/obesity-among-adults-by-country-19752016) (csv)
     •	World Happiness (https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv) (csv)
 
-<h2>Transformation:</2>
+<h2>Transformation:</h2>
 
 Obesity Dataset:
 			• Columns "Obesity (%)" were split and renamed "Obesity"
