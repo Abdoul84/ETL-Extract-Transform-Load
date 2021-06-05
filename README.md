@@ -69,7 +69,7 @@ Final tables/collections that we used in the production database:
  
  <li>Happiest Country is Paraguay in 2014 with a Positive Affect of 0.944.</li>
  
- <li>Happiest Country is Thailand in 2015 with a Positive Affect of 0.910.</li> </ul>
+ <li>Happiest Country is Thailand in 2015 with a Positive Affect of 0.910.</li> 
  
- Happiest Country is Paraguay in 2016 with a Positive Affect of 0.925.
+ <li> Happiest Country is Paraguay in 2016 with a Positive Affect of 0.925.</li></ul>
 
