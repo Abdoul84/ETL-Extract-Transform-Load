@@ -31,7 +31,7 @@ World Happiness Dataset:
 			• Changed Obesity column to float instead of string
 			• Rows with blanks were dropped to not falsely skew dataset
 
-<h2>Load:</2>
+<h2>Load:</h2>
 Type of final production database data is loaded into:
 
 			• Used Jupyter Notebook to load into dataframes into PostgreSQL
@@ -39,7 +39,7 @@ Type of final production database data is loaded into:
 			• Connected Jupyter Notebook to PostgreSQL and then pushed the data from World Happiness and Obesity as two tables
 			• Created CSV files from Jupyter notebook of the two tables pushed to SQL in the Resources folder
 
-<h2>Analysis:</2>
+<h2>Analysis:</h2>
 Final tables/collections that we used in the production database:
 
 			• View created in PostgreSQL to show positive affect vs obesity in table format ("ETLTable")
@@ -49,7 +49,7 @@ Final tables/collections that we used in the production database:
 			• Max Positive Affect was detemined per year and the country was identified in correlation
 			• All graphical outputs can be found in the "Resources" folder
 
-<h2>Conclusion:</2>
+<h2>Conclusion:</h2>
 <h3>Happiest countries based on "Positive Affect":</h3>
  <ul>
 	<li>There does not seem to be a strong correlation between "Positive Affect" from the Happiness Dataset and the Obesity % of Obesity Dataset. But there is a slight positive correlation between all the years where the higher the positive affect the higher the obesity level.</li> <ul>
