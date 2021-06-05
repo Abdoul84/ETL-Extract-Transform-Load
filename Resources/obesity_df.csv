@@ -1,1756 +1,1756 @@
 ,Country,Year,Obesity,Sex
-0,Afghanistan,2008,3.6,Both sexes
-1,Afghanistan,2009,3.8,Both sexes
-2,Afghanistan,2010,4.0,Both sexes
-3,Afghanistan,2011,4.2,Both sexes
-4,Afghanistan,2012,4.4,Both sexes
-5,Afghanistan,2013,4.7,Both sexes
-6,Afghanistan,2014,4.9,Both sexes
-7,Afghanistan,2015,5.2,Both sexes
-8,Afghanistan,2016,5.5,Both sexes
-9,Albania,2008,17.0,Both sexes
-10,Albania,2009,17.6,Both sexes
-11,Albania,2010,18.2,Both sexes
-12,Albania,2011,18.8,Both sexes
-13,Albania,2012,19.3,Both sexes
-14,Albania,2013,19.9,Both sexes
-15,Albania,2014,20.5,Both sexes
-16,Albania,2015,21.1,Both sexes
-17,Albania,2016,21.7,Both sexes
-18,Algeria,2008,22.0,Both sexes
-19,Algeria,2009,22.7,Both sexes
-20,Algeria,2010,23.3,Both sexes
-21,Algeria,2011,24.0,Both sexes
-22,Algeria,2012,24.7,Both sexes
-23,Algeria,2013,25.3,Both sexes
-24,Algeria,2014,26.0,Both sexes
-25,Algeria,2015,26.7,Both sexes
-26,Algeria,2016,27.4,Both sexes
-27,Andorra,2008,24.0,Both sexes
-28,Andorra,2009,24.2,Both sexes
-29,Andorra,2010,24.4,Both sexes
-30,Andorra,2011,24.6,Both sexes
-31,Andorra,2012,24.8,Both sexes
-32,Andorra,2013,25.0,Both sexes
-33,Andorra,2014,25.2,Both sexes
-34,Andorra,2015,25.4,Both sexes
-35,Andorra,2016,25.6,Both sexes
-36,Angola,2008,5.6,Both sexes
-37,Angola,2009,5.9,Both sexes
-38,Angola,2010,6.2,Both sexes
-39,Angola,2011,6.5,Both sexes
-40,Angola,2012,6.8,Both sexes
-41,Angola,2013,7.1,Both sexes
-42,Angola,2014,7.5,Both sexes
-43,Angola,2015,7.9,Both sexes
-44,Angola,2016,8.2,Both sexes
-45,Antigua and Barbuda,2008,15.5,Both sexes
-46,Antigua and Barbuda,2009,15.9,Both sexes
-47,Antigua and Barbuda,2010,16.2,Both sexes
-48,Antigua and Barbuda,2011,16.7,Both sexes
-49,Antigua and Barbuda,2012,17.1,Both sexes
-50,Antigua and Barbuda,2013,17.5,Both sexes
-51,Antigua and Barbuda,2014,18.0,Both sexes
-52,Antigua and Barbuda,2015,18.4,Both sexes
-53,Antigua and Barbuda,2016,18.9,Both sexes
-54,Argentina,2008,24.4,Both sexes
-55,Argentina,2009,24.8,Both sexes
-56,Argentina,2010,25.3,Both sexes
-57,Argentina,2011,25.8,Both sexes
-58,Argentina,2012,26.3,Both sexes
-59,Argentina,2013,26.8,Both sexes
-60,Argentina,2014,27.3,Both sexes
-61,Argentina,2015,27.8,Both sexes
-62,Argentina,2016,28.3,Both sexes
-63,Armenia,2008,16.7,Both sexes
-64,Armenia,2009,17.1,Both sexes
-65,Armenia,2010,17.5,Both sexes
-66,Armenia,2011,17.9,Both sexes
-67,Armenia,2012,18.3,Both sexes
-68,Armenia,2013,18.8,Both sexes
-69,Armenia,2014,19.2,Both sexes
-70,Armenia,2015,19.7,Both sexes
-71,Armenia,2016,20.2,Both sexes
-72,Australia,2008,24.6,Both sexes
-73,Australia,2009,25.1,Both sexes
-74,Australia,2010,25.6,Both sexes
-75,Australia,2011,26.2,Both sexes
-76,Australia,2012,26.7,Both sexes
-77,Australia,2013,27.3,Both sexes
-78,Australia,2014,27.9,Both sexes
-79,Australia,2015,28.4,Both sexes
-80,Australia,2016,29.0,Both sexes
-81,Austria,2008,16.9,Both sexes
-82,Austria,2009,17.3,Both sexes
-83,Austria,2010,17.6,Both sexes
-84,Austria,2011,18.0,Both sexes
-85,Austria,2012,18.4,Both sexes
-86,Austria,2013,18.8,Both sexes
-87,Austria,2014,19.2,Both sexes
-88,Austria,2015,19.7,Both sexes
-89,Austria,2016,20.1,Both sexes
-90,Azerbaijan,2008,15.7,Both sexes
-91,Azerbaijan,2009,16.2,Both sexes
-92,Azerbaijan,2010,16.6,Both sexes
-93,Azerbaijan,2011,17.2,Both sexes
-94,Azerbaijan,2012,17.7,Both sexes
-95,Azerbaijan,2013,18.2,Both sexes
-96,Azerbaijan,2014,18.8,Both sexes
-97,Azerbaijan,2015,19.3,Both sexes
-98,Azerbaijan,2016,19.9,Both sexes
-99,Bahamas,2008,27.6,Both sexes
-100,Bahamas,2009,28.1,Both sexes
-101,Bahamas,2010,28.5,Both sexes
-102,Bahamas,2011,29.0,Both sexes
-103,Bahamas,2012,29.5,Both sexes
-104,Bahamas,2013,30.0,Both sexes
-105,Bahamas,2014,30.5,Both sexes
-106,Bahamas,2015,31.0,Both sexes
-107,Bahamas,2016,31.6,Both sexes
-108,Bahrain,2008,25.8,Both sexes
-109,Bahrain,2009,26.2,Both sexes
-110,Bahrain,2010,26.6,Both sexes
-111,Bahrain,2011,27.1,Both sexes
-112,Bahrain,2012,27.6,Both sexes
-113,Bahrain,2013,28.2,Both sexes
-114,Bahrain,2014,28.8,Both sexes
-115,Bahrain,2015,29.3,Both sexes
-116,Bahrain,2016,29.8,Both sexes
-117,Bangladesh,2008,2.2,Both sexes
-118,Bangladesh,2009,2.3,Both sexes
-119,Bangladesh,2010,2.5,Both sexes
-120,Bangladesh,2011,2.6,Both sexes
-121,Bangladesh,2012,2.8,Both sexes
-122,Bangladesh,2013,3.0,Both sexes
-123,Bangladesh,2014,3.2,Both sexes
-124,Bangladesh,2015,3.4,Both sexes
-125,Bangladesh,2016,3.6,Both sexes
-126,Barbados,2008,18.9,Both sexes
-127,Barbados,2009,19.4,Both sexes
-128,Barbados,2010,19.8,Both sexes
-129,Barbados,2011,20.4,Both sexes
-130,Barbados,2012,20.9,Both sexes
-131,Barbados,2013,21.4,Both sexes
-132,Barbados,2014,22.0,Both sexes
-133,Barbados,2015,22.5,Both sexes
-134,Barbados,2016,23.1,Both sexes
-135,Belarus,2008,21.6,Both sexes
-136,Belarus,2009,21.9,Both sexes
-137,Belarus,2010,22.3,Both sexes
-138,Belarus,2011,22.7,Both sexes
-139,Belarus,2012,23.0,Both sexes
-140,Belarus,2013,23.4,Both sexes
-141,Belarus,2014,23.7,Both sexes
-142,Belarus,2015,24.1,Both sexes
-143,Belarus,2016,24.5,Both sexes
-144,Belgium,2008,19.5,Both sexes
-145,Belgium,2009,19.8,Both sexes
-146,Belgium,2010,20.1,Both sexes
-147,Belgium,2011,20.4,Both sexes
-148,Belgium,2012,20.7,Both sexes
-149,Belgium,2013,21.0,Both sexes
-150,Belgium,2014,21.4,Both sexes
-151,Belgium,2015,21.7,Both sexes
-152,Belgium,2016,22.1,Both sexes
-153,Belize,2008,20.0,Both sexes
-154,Belize,2009,20.5,Both sexes
-155,Belize,2010,21.0,Both sexes
-156,Belize,2011,21.5,Both sexes
-157,Belize,2012,22.0,Both sexes
-158,Belize,2013,22.5,Both sexes
-159,Belize,2014,23.0,Both sexes
-160,Belize,2015,23.6,Both sexes
-161,Belize,2016,24.1,Both sexes
-162,Benin,2008,7.0,Both sexes
-163,Benin,2009,7.3,Both sexes
-164,Benin,2010,7.6,Both sexes
-165,Benin,2011,7.9,Both sexes
-166,Benin,2012,8.2,Both sexes
-167,Benin,2013,8.6,Both sexes
-168,Benin,2014,8.9,Both sexes
-169,Benin,2015,9.3,Both sexes
-170,Benin,2016,9.6,Both sexes
-171,Bhutan,2008,4.1,Both sexes
-172,Bhutan,2009,4.4,Both sexes
-173,Bhutan,2010,4.6,Both sexes
-174,Bhutan,2011,4.9,Both sexes
-175,Bhutan,2012,5.2,Both sexes
-176,Bhutan,2013,5.5,Both sexes
-177,Bhutan,2014,5.7,Both sexes
-178,Bhutan,2015,6.1,Both sexes
-179,Bhutan,2016,6.4,Both sexes
-180,Bolivia (Plurinational State of),2008,16.5,Both sexes
-181,Bolivia (Plurinational State of),2009,17.0,Both sexes
-182,Bolivia (Plurinational State of),2010,17.4,Both sexes
-183,Bolivia (Plurinational State of),2011,17.9,Both sexes
-184,Bolivia (Plurinational State of),2012,18.3,Both sexes
-185,Bolivia (Plurinational State of),2013,18.8,Both sexes
-186,Bolivia (Plurinational State of),2014,19.3,Both sexes
-187,Bolivia (Plurinational State of),2015,19.7,Both sexes
-188,Bolivia (Plurinational State of),2016,20.2,Both sexes
-189,Bosnia and Herzegovina,2008,14.9,Both sexes
-190,Bosnia and Herzegovina,2009,15.3,Both sexes
-191,Bosnia and Herzegovina,2010,15.6,Both sexes
-192,Bosnia and Herzegovina,2011,16.0,Both sexes
-193,Bosnia and Herzegovina,2012,16.3,Both sexes
-194,Bosnia and Herzegovina,2013,16.7,Both sexes
-195,Bosnia and Herzegovina,2014,17.1,Both sexes
-196,Bosnia and Herzegovina,2015,17.5,Both sexes
-197,Bosnia and Herzegovina,2016,17.9,Both sexes
-198,Botswana,2008,16.2,Both sexes
-199,Botswana,2009,16.5,Both sexes
-200,Botswana,2010,16.9,Both sexes
-201,Botswana,2011,17.2,Both sexes
-202,Botswana,2012,17.5,Both sexes
-203,Botswana,2013,17.9,Both sexes
-204,Botswana,2014,18.2,Both sexes
-205,Botswana,2015,18.6,Both sexes
-206,Botswana,2016,18.9,Both sexes
-207,Brazil,2008,18.2,Both sexes
-208,Brazil,2009,18.7,Both sexes
-209,Brazil,2010,19.2,Both sexes
-210,Brazil,2011,19.6,Both sexes
-211,Brazil,2012,20.1,Both sexes
-212,Brazil,2013,20.6,Both sexes
-213,Brazil,2014,21.1,Both sexes
-214,Brazil,2015,21.6,Both sexes
-215,Brazil,2016,22.1,Both sexes
-216,Brunei Darussalam,2008,10.2,Both sexes
-217,Brunei Darussalam,2009,10.7,Both sexes
-218,Brunei Darussalam,2010,11.1,Both sexes
-219,Brunei Darussalam,2011,11.6,Both sexes
-220,Brunei Darussalam,2012,12.1,Both sexes
-221,Brunei Darussalam,2013,12.6,Both sexes
-222,Brunei Darussalam,2014,13.1,Both sexes
-223,Brunei Darussalam,2015,13.6,Both sexes
-224,Brunei Darussalam,2016,14.1,Both sexes
-225,Bulgaria,2008,21.6,Both sexes
-226,Bulgaria,2009,22.0,Both sexes
-227,Bulgaria,2010,22.4,Both sexes
-228,Bulgaria,2011,22.8,Both sexes
-229,Bulgaria,2012,23.2,Both sexes
-230,Bulgaria,2013,23.7,Both sexes
-231,Bulgaria,2014,24.1,Both sexes
-232,Bulgaria,2015,24.5,Both sexes
-233,Bulgaria,2016,25.0,Both sexes
-234,Burkina Faso,2008,3.5,Both sexes
-235,Burkina Faso,2009,3.7,Both sexes
-236,Burkina Faso,2010,4.0,Both sexes
-237,Burkina Faso,2011,4.2,Both sexes
-238,Burkina Faso,2012,4.5,Both sexes
-239,Burkina Faso,2013,4.7,Both sexes
-240,Burkina Faso,2014,5.0,Both sexes
-241,Burkina Faso,2015,5.3,Both sexes
-242,Burkina Faso,2016,5.6,Both sexes
-243,Burundi,2008,3.6,Both sexes
-244,Burundi,2009,3.8,Both sexes
-245,Burundi,2010,4.0,Both sexes
-246,Burundi,2011,4.2,Both sexes
-247,Burundi,2012,4.4,Both sexes
-248,Burundi,2013,4.6,Both sexes
-249,Burundi,2014,4.9,Both sexes
-250,Burundi,2015,5.1,Both sexes
-251,Burundi,2016,5.4,Both sexes
-252,Cabo Verde,2008,8.9,Both sexes
-253,Cabo Verde,2009,9.2,Both sexes
-254,Cabo Verde,2010,9.6,Both sexes
-255,Cabo Verde,2011,9.9,Both sexes
-256,Cabo Verde,2012,10.3,Both sexes
-257,Cabo Verde,2013,10.7,Both sexes
-258,Cabo Verde,2014,11.0,Both sexes
-259,Cabo Verde,2015,11.4,Both sexes
-260,Cabo Verde,2016,11.8,Both sexes
-261,Cambodia,2008,2.4,Both sexes
-262,Cambodia,2009,2.6,Both sexes
-263,Cambodia,2010,2.7,Both sexes
-264,Cambodia,2011,2.9,Both sexes
-265,Cambodia,2012,3.1,Both sexes
-266,Cambodia,2013,3.3,Both sexes
-267,Cambodia,2014,3.5,Both sexes
-268,Cambodia,2015,3.7,Both sexes
-269,Cambodia,2016,3.9,Both sexes
-270,Cameroon,2008,8.3,Both sexes
-271,Cameroon,2009,8.7,Both sexes
-272,Cameroon,2010,9.0,Both sexes
-273,Cameroon,2011,9.4,Both sexes
-274,Cameroon,2012,9.8,Both sexes
-275,Cameroon,2013,10.2,Both sexes
-276,Cameroon,2014,10.6,Both sexes
-277,Cameroon,2015,11.0,Both sexes
-278,Cameroon,2016,11.4,Both sexes
-279,Canada,2008,24.9,Both sexes
-280,Canada,2009,25.5,Both sexes
-281,Canada,2010,26.0,Both sexes
-282,Canada,2011,26.6,Both sexes
-283,Canada,2012,27.1,Both sexes
-284,Canada,2013,27.7,Both sexes
-285,Canada,2014,28.3,Both sexes
-286,Canada,2015,28.8,Both sexes
-287,Canada,2016,29.4,Both sexes
-288,Central African Republic,2008,5.4,Both sexes
-289,Central African Republic,2009,5.6,Both sexes
-290,Central African Republic,2010,5.9,Both sexes
-291,Central African Republic,2011,6.1,Both sexes
-292,Central African Republic,2012,6.4,Both sexes
-293,Central African Republic,2013,6.6,Both sexes
-294,Central African Republic,2014,6.9,Both sexes
-295,Central African Republic,2015,7.2,Both sexes
-296,Central African Republic,2016,7.5,Both sexes
-297,Chad,2008,4.3,Both sexes
-298,Chad,2009,4.5,Both sexes
-299,Chad,2010,4.7,Both sexes
-300,Chad,2011,4.9,Both sexes
-301,Chad,2012,5.1,Both sexes
-302,Chad,2013,5.3,Both sexes
-303,Chad,2014,5.6,Both sexes
-304,Chad,2015,5.8,Both sexes
-305,Chad,2016,6.1,Both sexes
-306,Chile,2008,24.2,Both sexes
-307,Chile,2009,24.7,Both sexes
-308,Chile,2010,25.1,Both sexes
-309,Chile,2011,25.6,Both sexes
-310,Chile,2012,26.1,Both sexes
-311,Chile,2013,26.5,Both sexes
-312,Chile,2014,27.0,Both sexes
-313,Chile,2015,27.5,Both sexes
-314,Chile,2016,28.0,Both sexes
-315,China,2008,3.9,Both sexes
-316,China,2009,4.1,Both sexes
-317,China,2010,4.4,Both sexes
-318,China,2011,4.7,Both sexes
-319,China,2012,5.0,Both sexes
-320,China,2013,5.2,Both sexes
-321,China,2014,5.5,Both sexes
-322,China,2015,5.9,Both sexes
-323,China,2016,6.2,Both sexes
-324,Colombia,2008,18.7,Both sexes
-325,Colombia,2009,19.1,Both sexes
-326,Colombia,2010,19.5,Both sexes
-327,Colombia,2011,20.0,Both sexes
-328,Colombia,2012,20.4,Both sexes
-329,Colombia,2013,20.9,Both sexes
-330,Colombia,2014,21.4,Both sexes
-331,Colombia,2015,21.9,Both sexes
-332,Colombia,2016,22.3,Both sexes
-333,Comoros,2008,5.7,Both sexes
-334,Comoros,2009,5.9,Both sexes
-335,Comoros,2010,6.2,Both sexes
-336,Comoros,2011,6.4,Both sexes
-337,Comoros,2012,6.7,Both sexes
-338,Comoros,2013,6.9,Both sexes
-339,Comoros,2014,7.2,Both sexes
-340,Comoros,2015,7.5,Both sexes
-341,Comoros,2016,7.8,Both sexes
-342,Congo,2008,7.1,Both sexes
-343,Congo,2009,7.4,Both sexes
-344,Congo,2010,7.7,Both sexes
-345,Congo,2011,8.0,Both sexes
-346,Congo,2012,8.3,Both sexes
-347,Congo,2013,8.6,Both sexes
-348,Congo,2014,8.9,Both sexes
-349,Congo,2015,9.2,Both sexes
-350,Congo,2016,9.6,Both sexes
-351,Cook Islands,2008,51.3,Both sexes
-352,Cook Islands,2009,52.0,Both sexes
-353,Cook Islands,2010,52.6,Both sexes
-354,Cook Islands,2011,53.2,Both sexes
-355,Cook Islands,2012,53.8,Both sexes
-356,Cook Islands,2013,54.3,Both sexes
-357,Cook Islands,2014,54.9,Both sexes
-358,Cook Islands,2015,55.4,Both sexes
-359,Cook Islands,2016,55.9,Both sexes
-360,Costa Rica,2008,20.0,Both sexes
-361,Costa Rica,2009,20.7,Both sexes
-362,Costa Rica,2010,21.4,Both sexes
-363,Costa Rica,2011,22.2,Both sexes
-364,Costa Rica,2012,22.9,Both sexes
-365,Costa Rica,2013,23.6,Both sexes
-366,Costa Rica,2014,24.3,Both sexes
-367,Costa Rica,2015,25.0,Both sexes
-368,Costa Rica,2016,25.7,Both sexes
-369,Croatia,2008,20.7,Both sexes
-370,Croatia,2009,21.1,Both sexes
-371,Croatia,2010,21.6,Both sexes
-372,Croatia,2011,22.0,Both sexes
-373,Croatia,2012,22.5,Both sexes
-374,Croatia,2013,22.9,Both sexes
-375,Croatia,2014,23.4,Both sexes
-376,Croatia,2015,23.9,Both sexes
-377,Croatia,2016,24.4,Both sexes
-378,Cuba,2008,20.8,Both sexes
-379,Cuba,2009,21.2,Both sexes
-380,Cuba,2010,21.7,Both sexes
-381,Cuba,2011,22.2,Both sexes
-382,Cuba,2012,22.6,Both sexes
-383,Cuba,2013,23.1,Both sexes
-384,Cuba,2014,23.6,Both sexes
-385,Cuba,2015,24.1,Both sexes
-386,Cuba,2016,24.6,Both sexes
-387,Cyprus,2008,19.1,Both sexes
-388,Cyprus,2009,19.4,Both sexes
-389,Cyprus,2010,19.8,Both sexes
-390,Cyprus,2011,20.1,Both sexes
-391,Cyprus,2012,20.4,Both sexes
-392,Cyprus,2013,20.7,Both sexes
-393,Cyprus,2014,21.1,Both sexes
-394,Cyprus,2015,21.4,Both sexes
-395,Cyprus,2016,21.8,Both sexes
-396,Czechia,2008,23.2,Both sexes
-397,Czechia,2009,23.6,Both sexes
-398,Czechia,2010,23.9,Both sexes
-399,Czechia,2011,24.2,Both sexes
-400,Czechia,2012,24.5,Both sexes
-401,Czechia,2013,24.9,Both sexes
-402,Czechia,2014,25.2,Both sexes
-403,Czechia,2015,25.6,Both sexes
-404,Czechia,2016,26.0,Both sexes
-405,Côte d'Ivoire,2008,7.2,Both sexes
-406,Côte d'Ivoire,2009,7.6,Both sexes
-407,Côte d'Ivoire,2010,7.9,Both sexes
-408,Côte d'Ivoire,2011,8.3,Both sexes
-409,Côte d'Ivoire,2012,8.7,Both sexes
-410,Côte d'Ivoire,2013,9.0,Both sexes
-411,Côte d'Ivoire,2014,9.4,Both sexes
-412,Côte d'Ivoire,2015,9.8,Both sexes
-413,Côte d'Ivoire,2016,10.3,Both sexes
-414,Democratic People's Republic of Korea,2008,5.2,Both sexes
-415,Democratic People's Republic of Korea,2009,5.4,Both sexes
-416,Democratic People's Republic of Korea,2010,5.5,Both sexes
-417,Democratic People's Republic of Korea,2011,5.7,Both sexes
-418,Democratic People's Republic of Korea,2012,5.9,Both sexes
-419,Democratic People's Republic of Korea,2013,6.1,Both sexes
-420,Democratic People's Republic of Korea,2014,6.3,Both sexes
-421,Democratic People's Republic of Korea,2015,6.5,Both sexes
-422,Democratic People's Republic of Korea,2016,6.8,Both sexes
-423,Democratic Republic of the Congo,2008,4.6,Both sexes
-424,Democratic Republic of the Congo,2009,4.8,Both sexes
-425,Democratic Republic of the Congo,2010,5.1,Both sexes
-426,Democratic Republic of the Congo,2011,5.3,Both sexes
-427,Democratic Republic of the Congo,2012,5.6,Both sexes
-428,Democratic Republic of the Congo,2013,5.9,Both sexes
-429,Democratic Republic of the Congo,2014,6.1,Both sexes
-430,Democratic Republic of the Congo,2015,6.4,Both sexes
-431,Democratic Republic of the Congo,2016,6.7,Both sexes
-432,Denmark,2008,16.7,Both sexes
-433,Denmark,2009,17.1,Both sexes
-434,Denmark,2010,17.4,Both sexes
-435,Denmark,2011,17.8,Both sexes
-436,Denmark,2012,18.1,Both sexes
-437,Denmark,2013,18.5,Both sexes
-438,Denmark,2014,18.9,Both sexes
-439,Denmark,2015,19.3,Both sexes
-440,Denmark,2016,19.7,Both sexes
-441,Djibouti,2008,11.2,Both sexes
-442,Djibouti,2009,11.5,Both sexes
-443,Djibouti,2010,11.8,Both sexes
-444,Djibouti,2011,12.0,Both sexes
-445,Djibouti,2012,12.3,Both sexes
-446,Djibouti,2013,12.6,Both sexes
-447,Djibouti,2014,12.9,Both sexes
-448,Djibouti,2015,13.2,Both sexes
-449,Djibouti,2016,13.5,Both sexes
-450,Dominica,2008,23.4,Both sexes
-451,Dominica,2009,23.9,Both sexes
-452,Dominica,2010,24.5,Both sexes
-453,Dominica,2011,25.0,Both sexes
-454,Dominica,2012,25.6,Both sexes
-455,Dominica,2013,26.2,Both sexes
-456,Dominica,2014,26.8,Both sexes
-457,Dominica,2015,27.3,Both sexes
-458,Dominica,2016,27.9,Both sexes
-459,Dominican Republic,2008,21.5,Both sexes
-460,Dominican Republic,2009,22.2,Both sexes
-461,Dominican Republic,2010,23.0,Both sexes
-462,Dominican Republic,2011,23.8,Both sexes
-463,Dominican Republic,2012,24.5,Both sexes
-464,Dominican Republic,2013,25.3,Both sexes
-465,Dominican Republic,2014,26.1,Both sexes
-466,Dominican Republic,2015,26.9,Both sexes
-467,Dominican Republic,2016,27.6,Both sexes
-468,Ecuador,2008,16.4,Both sexes
-469,Ecuador,2009,16.8,Both sexes
-470,Ecuador,2010,17.2,Both sexes
-471,Ecuador,2011,17.6,Both sexes
-472,Ecuador,2012,18.1,Both sexes
-473,Ecuador,2013,18.5,Both sexes
-474,Ecuador,2014,19.0,Both sexes
-475,Ecuador,2015,19.4,Both sexes
-476,Ecuador,2016,19.9,Both sexes
-477,Egypt,2008,26.7,Both sexes
-478,Egypt,2009,27.4,Both sexes
-479,Egypt,2010,28.0,Both sexes
-480,Egypt,2011,28.6,Both sexes
-481,Egypt,2012,29.3,Both sexes
-482,Egypt,2013,30.0,Both sexes
-483,Egypt,2014,30.6,Both sexes
-484,Egypt,2015,31.3,Both sexes
-485,Egypt,2016,32.0,Both sexes
-486,El Salvador,2008,20.0,Both sexes
-487,El Salvador,2009,20.6,Both sexes
-488,El Salvador,2010,21.1,Both sexes
-489,El Salvador,2011,21.7,Both sexes
-490,El Salvador,2012,22.2,Both sexes
-491,El Salvador,2013,22.8,Both sexes
-492,El Salvador,2014,23.4,Both sexes
-493,El Salvador,2015,24.0,Both sexes
-494,El Salvador,2016,24.6,Both sexes
-495,Equatorial Guinea,2008,5.8,Both sexes
-496,Equatorial Guinea,2009,6.0,Both sexes
-497,Equatorial Guinea,2010,6.3,Both sexes
-498,Equatorial Guinea,2011,6.5,Both sexes
-499,Equatorial Guinea,2012,6.8,Both sexes
-500,Equatorial Guinea,2013,7.1,Both sexes
-501,Equatorial Guinea,2014,7.4,Both sexes
-502,Equatorial Guinea,2015,7.7,Both sexes
-503,Equatorial Guinea,2016,8.0,Both sexes
-504,Eritrea,2008,3.4,Both sexes
-505,Eritrea,2009,3.5,Both sexes
-506,Eritrea,2010,3.7,Both sexes
-507,Eritrea,2011,3.9,Both sexes
-508,Eritrea,2012,4.1,Both sexes
-509,Eritrea,2013,4.3,Both sexes
-510,Eritrea,2014,4.5,Both sexes
-511,Eritrea,2015,4.8,Both sexes
-512,Eritrea,2016,5.0,Both sexes
-513,Estonia,2008,19.1,Both sexes
-514,Estonia,2009,19.4,Both sexes
-515,Estonia,2010,19.6,Both sexes
-516,Estonia,2011,19.9,Both sexes
-517,Estonia,2012,20.1,Both sexes
-518,Estonia,2013,20.4,Both sexes
-519,Estonia,2014,20.7,Both sexes
-520,Estonia,2015,20.9,Both sexes
-521,Estonia,2016,21.2,Both sexes
-522,Eswatini,2008,13.4,Both sexes
-523,Eswatini,2009,13.8,Both sexes
-524,Eswatini,2010,14.1,Both sexes
-525,Eswatini,2011,14.5,Both sexes
-526,Eswatini,2012,14.9,Both sexes
-527,Eswatini,2013,15.3,Both sexes
-528,Eswatini,2014,15.7,Both sexes
-529,Eswatini,2015,16.1,Both sexes
-530,Eswatini,2016,16.5,Both sexes
-531,Ethiopia,2008,2.9,Both sexes
-532,Ethiopia,2009,3.1,Both sexes
-533,Ethiopia,2010,3.3,Both sexes
-534,Ethiopia,2011,3.4,Both sexes
-535,Ethiopia,2012,3.6,Both sexes
-536,Ethiopia,2013,3.8,Both sexes
-537,Ethiopia,2014,4.0,Both sexes
-538,Ethiopia,2015,4.3,Both sexes
-539,Ethiopia,2016,4.5,Both sexes
-540,Fiji,2008,25.4,Both sexes
-541,Fiji,2009,26.0,Both sexes
-542,Fiji,2010,26.5,Both sexes
-543,Fiji,2011,27.1,Both sexes
-544,Fiji,2012,27.7,Both sexes
-545,Fiji,2013,28.3,Both sexes
-546,Fiji,2014,28.9,Both sexes
-547,Fiji,2015,29.5,Both sexes
-548,Fiji,2016,30.2,Both sexes
-549,Finland,2008,19.3,Both sexes
-550,Finland,2009,19.6,Both sexes
-551,Finland,2010,20.0,Both sexes
-552,Finland,2011,20.3,Both sexes
-553,Finland,2012,20.7,Both sexes
-554,Finland,2013,21.1,Both sexes
-555,Finland,2014,21.4,Both sexes
-556,Finland,2015,21.8,Both sexes
-557,Finland,2016,22.2,Both sexes
-558,France,2008,18.6,Both sexes
-559,France,2009,19.0,Both sexes
-560,France,2010,19.3,Both sexes
-561,France,2011,19.7,Both sexes
-562,France,2012,20.1,Both sexes
-563,France,2013,20.4,Both sexes
-564,France,2014,20.8,Both sexes
-565,France,2015,21.2,Both sexes
-566,France,2016,21.6,Both sexes
-567,Gabon,2008,12.1,Both sexes
-568,Gabon,2009,12.5,Both sexes
-569,Gabon,2010,12.8,Both sexes
-570,Gabon,2011,13.2,Both sexes
-571,Gabon,2012,13.5,Both sexes
-572,Gabon,2013,13.9,Both sexes
-573,Gabon,2014,14.3,Both sexes
-574,Gabon,2015,14.6,Both sexes
-575,Gabon,2016,15.0,Both sexes
-576,Gambia,2008,7.3,Both sexes
-577,Gambia,2009,7.6,Both sexes
-578,Gambia,2010,8.0,Both sexes
-579,Gambia,2011,8.4,Both sexes
-580,Gambia,2012,8.7,Both sexes
-581,Gambia,2013,9.1,Both sexes
-582,Gambia,2014,9.5,Both sexes
-583,Gambia,2015,9.9,Both sexes
-584,Gambia,2016,10.3,Both sexes
-585,Georgia,2008,17.1,Both sexes
-586,Georgia,2009,17.6,Both sexes
-587,Georgia,2010,18.2,Both sexes
-588,Georgia,2011,18.7,Both sexes
-589,Georgia,2012,19.3,Both sexes
-590,Georgia,2013,19.9,Both sexes
-591,Georgia,2014,20.5,Both sexes
-592,Georgia,2015,21.1,Both sexes
-593,Georgia,2016,21.7,Both sexes
-594,Germany,2008,19.2,Both sexes
-595,Germany,2009,19.5,Both sexes
-596,Germany,2010,19.9,Both sexes
-597,Germany,2011,20.3,Both sexes
-598,Germany,2012,20.7,Both sexes
-599,Germany,2013,21.1,Both sexes
-600,Germany,2014,21.5,Both sexes
-601,Germany,2015,21.9,Both sexes
-602,Germany,2016,22.3,Both sexes
-603,Ghana,2008,8.0,Both sexes
-604,Ghana,2009,8.4,Both sexes
-605,Ghana,2010,8.7,Both sexes
-606,Ghana,2011,9.1,Both sexes
-607,Ghana,2012,9.4,Both sexes
-608,Ghana,2013,9.8,Both sexes
-609,Ghana,2014,10.1,Both sexes
-610,Ghana,2015,10.5,Both sexes
-611,Ghana,2016,10.9,Both sexes
-612,Greece,2008,21.6,Both sexes
-613,Greece,2009,22.0,Both sexes
-614,Greece,2010,22.4,Both sexes
-615,Greece,2011,22.8,Both sexes
-616,Greece,2012,23.2,Both sexes
-617,Greece,2013,23.6,Both sexes
-618,Greece,2014,24.0,Both sexes
-619,Greece,2015,24.4,Both sexes
-620,Greece,2016,24.9,Both sexes
-621,Grenada,2008,17.1,Both sexes
-622,Grenada,2009,17.6,Both sexes
-623,Grenada,2010,18.1,Both sexes
-624,Grenada,2011,18.6,Both sexes
-625,Grenada,2012,19.1,Both sexes
-626,Grenada,2013,19.6,Both sexes
-627,Grenada,2014,20.2,Both sexes
-628,Grenada,2015,20.7,Both sexes
-629,Grenada,2016,21.3,Both sexes
-630,Guatemala,2008,16.8,Both sexes
-631,Guatemala,2009,17.3,Both sexes
-632,Guatemala,2010,17.8,Both sexes
-633,Guatemala,2011,18.4,Both sexes
-634,Guatemala,2012,18.9,Both sexes
-635,Guatemala,2013,19.5,Both sexes
-636,Guatemala,2014,20.0,Both sexes
-637,Guatemala,2015,20.6,Both sexes
-638,Guatemala,2016,21.2,Both sexes
-639,Guinea,2008,5.4,Both sexes
-640,Guinea,2009,5.6,Both sexes
-641,Guinea,2010,5.9,Both sexes
-642,Guinea,2011,6.2,Both sexes
-643,Guinea,2012,6.4,Both sexes
-644,Guinea,2013,6.7,Both sexes
-645,Guinea,2014,7.0,Both sexes
-646,Guinea,2015,7.4,Both sexes
-647,Guinea,2016,7.7,Both sexes
-648,Guinea-Bissau,2008,6.6,Both sexes
-649,Guinea-Bissau,2009,6.9,Both sexes
-650,Guinea-Bissau,2010,7.2,Both sexes
-651,Guinea-Bissau,2011,7.6,Both sexes
-652,Guinea-Bissau,2012,7.9,Both sexes
-653,Guinea-Bissau,2013,8.3,Both sexes
-654,Guinea-Bissau,2014,8.7,Both sexes
-655,Guinea-Bissau,2015,9.1,Both sexes
-656,Guinea-Bissau,2016,9.5,Both sexes
-657,Guyana,2008,15.8,Both sexes
-658,Guyana,2009,16.3,Both sexes
-659,Guyana,2010,16.8,Both sexes
-660,Guyana,2011,17.4,Both sexes
-661,Guyana,2012,17.9,Both sexes
-662,Guyana,2013,18.4,Both sexes
-663,Guyana,2014,19.0,Both sexes
-664,Guyana,2015,19.6,Both sexes
-665,Guyana,2016,20.2,Both sexes
-666,Haiti,2008,16.2,Both sexes
-667,Haiti,2009,16.9,Both sexes
-668,Haiti,2010,17.7,Both sexes
-669,Haiti,2011,18.6,Both sexes
-670,Haiti,2012,19.4,Both sexes
-671,Haiti,2013,20.2,Both sexes
-672,Haiti,2014,21.0,Both sexes
-673,Haiti,2015,21.8,Both sexes
-674,Haiti,2016,22.7,Both sexes
-675,Honduras,2008,16.7,Both sexes
-676,Honduras,2009,17.2,Both sexes
-677,Honduras,2010,17.8,Both sexes
-678,Honduras,2011,18.4,Both sexes
-679,Honduras,2012,19.0,Both sexes
-680,Honduras,2013,19.5,Both sexes
-681,Honduras,2014,20.1,Both sexes
-682,Honduras,2015,20.8,Both sexes
-683,Honduras,2016,21.4,Both sexes
-684,Hungary,2008,22.6,Both sexes
-685,Hungary,2009,23.1,Both sexes
-686,Hungary,2010,23.5,Both sexes
-687,Hungary,2011,24.0,Both sexes
-688,Hungary,2012,24.5,Both sexes
-689,Hungary,2013,25.0,Both sexes
-690,Hungary,2014,25.4,Both sexes
-691,Hungary,2015,25.9,Both sexes
-692,Hungary,2016,26.4,Both sexes
-693,Iceland,2008,18.9,Both sexes
-694,Iceland,2009,19.2,Both sexes
-695,Iceland,2010,19.6,Both sexes
-696,Iceland,2011,20.0,Both sexes
-697,Iceland,2012,20.3,Both sexes
-698,Iceland,2013,20.7,Both sexes
-699,Iceland,2014,21.1,Both sexes
-700,Iceland,2015,21.5,Both sexes
-701,Iceland,2016,21.9,Both sexes
-702,India,2008,2.5,Both sexes
-703,India,2009,2.7,Both sexes
-704,India,2010,2.8,Both sexes
-705,India,2011,3.0,Both sexes
-706,India,2012,3.1,Both sexes
-707,India,2013,3.3,Both sexes
-708,India,2014,3.5,Both sexes
-709,India,2015,3.7,Both sexes
-710,India,2016,3.9,Both sexes
-711,Indonesia,2008,4.3,Both sexes
-712,Indonesia,2009,4.6,Both sexes
-713,Indonesia,2010,4.9,Both sexes
-714,Indonesia,2011,5.2,Both sexes
-715,Indonesia,2012,5.5,Both sexes
-716,Indonesia,2013,5.8,Both sexes
-717,Indonesia,2014,6.1,Both sexes
-718,Indonesia,2015,6.5,Both sexes
-719,Indonesia,2016,6.9,Both sexes
-720,Iran (Islamic Republic of),2008,20.9,Both sexes
-721,Iran (Islamic Republic of),2009,21.5,Both sexes
-722,Iran (Islamic Republic of),2010,22.1,Both sexes
-723,Iran (Islamic Republic of),2011,22.7,Both sexes
-724,Iran (Islamic Republic of),2012,23.3,Both sexes
-725,Iran (Islamic Republic of),2013,24.0,Both sexes
-726,Iran (Islamic Republic of),2014,24.6,Both sexes
-727,Iran (Islamic Republic of),2015,25.2,Both sexes
-728,Iran (Islamic Republic of),2016,25.8,Both sexes
-729,Iraq,2008,25.9,Both sexes
-730,Iraq,2009,26.4,Both sexes
-731,Iraq,2010,26.9,Both sexes
-732,Iraq,2011,27.5,Both sexes
-733,Iraq,2012,28.0,Both sexes
-734,Iraq,2013,28.6,Both sexes
-735,Iraq,2014,29.2,Both sexes
-736,Iraq,2015,29.8,Both sexes
-737,Iraq,2016,30.4,Both sexes
-738,Ireland,2008,20.4,Both sexes
-739,Ireland,2009,21.0,Both sexes
-740,Ireland,2010,21.6,Both sexes
-741,Ireland,2011,22.2,Both sexes
-742,Ireland,2012,22.8,Both sexes
-743,Ireland,2013,23.4,Both sexes
-744,Ireland,2014,24.0,Both sexes
-745,Ireland,2015,24.7,Both sexes
-746,Ireland,2016,25.3,Both sexes
-747,Israel,2008,23.6,Both sexes
-748,Israel,2009,23.9,Both sexes
-749,Israel,2010,24.2,Both sexes
-750,Israel,2011,24.5,Both sexes
-751,Israel,2012,24.8,Both sexes
-752,Israel,2013,25.1,Both sexes
-753,Israel,2014,25.5,Both sexes
-754,Israel,2015,25.8,Both sexes
-755,Israel,2016,26.1,Both sexes
-756,Italy,2008,17.5,Both sexes
-757,Italy,2009,17.8,Both sexes
-758,Italy,2010,18.1,Both sexes
-759,Italy,2011,18.3,Both sexes
-760,Italy,2012,18.7,Both sexes
-761,Italy,2013,19.0,Both sexes
-762,Italy,2014,19.3,Both sexes
-763,Italy,2015,19.6,Both sexes
-764,Italy,2016,19.9,Both sexes
-765,Jamaica,2008,20.0,Both sexes
-766,Jamaica,2009,20.6,Both sexes
-767,Jamaica,2010,21.1,Both sexes
-768,Jamaica,2011,21.7,Both sexes
-769,Jamaica,2012,22.3,Both sexes
-770,Jamaica,2013,22.9,Both sexes
-771,Jamaica,2014,23.5,Both sexes
-772,Jamaica,2015,24.1,Both sexes
-773,Jamaica,2016,24.7,Both sexes
-774,Japan,2008,3.0,Both sexes
-775,Japan,2009,3.2,Both sexes
-776,Japan,2010,3.3,Both sexes
-777,Japan,2011,3.5,Both sexes
-778,Japan,2012,3.6,Both sexes
-779,Japan,2013,3.8,Both sexes
-780,Japan,2014,3.9,Both sexes
-781,Japan,2015,4.1,Both sexes
-782,Japan,2016,4.3,Both sexes
-783,Jordan,2008,30.8,Both sexes
-784,Jordan,2009,31.4,Both sexes
-785,Jordan,2010,31.9,Both sexes
-786,Jordan,2011,32.5,Both sexes
-787,Jordan,2012,33.1,Both sexes
-788,Jordan,2013,33.7,Both sexes
-789,Jordan,2014,34.3,Both sexes
-790,Jordan,2015,34.9,Both sexes
-791,Jordan,2016,35.5,Both sexes
-792,Kazakhstan,2008,17.1,Both sexes
-793,Kazakhstan,2009,17.6,Both sexes
-794,Kazakhstan,2010,18.0,Both sexes
-795,Kazakhstan,2011,18.5,Both sexes
-796,Kazakhstan,2012,19.0,Both sexes
-797,Kazakhstan,2013,19.5,Both sexes
-798,Kazakhstan,2014,20.0,Both sexes
-799,Kazakhstan,2015,20.5,Both sexes
-800,Kazakhstan,2016,21.0,Both sexes
-801,Kenya,2008,4.9,Both sexes
-802,Kenya,2009,5.1,Both sexes
-803,Kenya,2010,5.4,Both sexes
-804,Kenya,2011,5.6,Both sexes
-805,Kenya,2012,5.9,Both sexes
-806,Kenya,2013,6.2,Both sexes
-807,Kenya,2014,6.5,Both sexes
-808,Kenya,2015,6.8,Both sexes
-809,Kenya,2016,7.1,Both sexes
-810,Kiribati,2008,40.9,Both sexes
-811,Kiribati,2009,41.6,Both sexes
-812,Kiribati,2010,42.2,Both sexes
-813,Kiribati,2011,42.8,Both sexes
-814,Kiribati,2012,43.5,Both sexes
-815,Kiribati,2013,44.1,Both sexes
-816,Kiribati,2014,44.7,Both sexes
-817,Kiribati,2015,45.3,Both sexes
-818,Kiribati,2016,46.0,Both sexes
-819,Kuwait,2008,33.5,Both sexes
-820,Kuwait,2009,34.0,Both sexes
-821,Kuwait,2010,34.6,Both sexes
-822,Kuwait,2011,35.1,Both sexes
-823,Kuwait,2012,35.6,Both sexes
-824,Kuwait,2013,36.2,Both sexes
-825,Kuwait,2014,36.8,Both sexes
-826,Kuwait,2015,37.4,Both sexes
-827,Kuwait,2016,37.9,Both sexes
-828,Kyrgyzstan,2008,12.5,Both sexes
-829,Kyrgyzstan,2009,13.0,Both sexes
-830,Kyrgyzstan,2010,13.4,Both sexes
-831,Kyrgyzstan,2011,13.9,Both sexes
-832,Kyrgyzstan,2012,14.4,Both sexes
-833,Kyrgyzstan,2013,14.9,Both sexes
-834,Kyrgyzstan,2014,15.5,Both sexes
-835,Kyrgyzstan,2015,16.0,Both sexes
-836,Kyrgyzstan,2016,16.6,Both sexes
-837,Lao People's Democratic Republic,2008,3.1,Both sexes
-838,Lao People's Democratic Republic,2009,3.3,Both sexes
-839,Lao People's Democratic Republic,2010,3.5,Both sexes
-840,Lao People's Democratic Republic,2011,3.8,Both sexes
-841,Lao People's Democratic Republic,2012,4.1,Both sexes
-842,Lao People's Democratic Republic,2013,4.4,Both sexes
-843,Lao People's Democratic Republic,2014,4.7,Both sexes
-844,Lao People's Democratic Republic,2015,5.0,Both sexes
-845,Lao People's Democratic Republic,2016,5.3,Both sexes
-846,Latvia,2008,21.3,Both sexes
-847,Latvia,2009,21.5,Both sexes
-848,Latvia,2010,21.8,Both sexes
-849,Latvia,2011,22.1,Both sexes
-850,Latvia,2012,22.4,Both sexes
-851,Latvia,2013,22.7,Both sexes
-852,Latvia,2014,23.0,Both sexes
-853,Latvia,2015,23.3,Both sexes
-854,Latvia,2016,23.6,Both sexes
-855,Lebanon,2008,27.7,Both sexes
-856,Lebanon,2009,28.2,Both sexes
-857,Lebanon,2010,28.7,Both sexes
-858,Lebanon,2011,29.2,Both sexes
-859,Lebanon,2012,29.7,Both sexes
-860,Lebanon,2013,30.3,Both sexes
-861,Lebanon,2014,30.8,Both sexes
-862,Lebanon,2015,31.4,Both sexes
-863,Lebanon,2016,32.0,Both sexes
-864,Lesotho,2008,13.2,Both sexes
-865,Lesotho,2009,13.6,Both sexes
-866,Lesotho,2010,14.1,Both sexes
-867,Lesotho,2011,14.5,Both sexes
-868,Lesotho,2012,14.9,Both sexes
-869,Lesotho,2013,15.3,Both sexes
-870,Lesotho,2014,15.7,Both sexes
-871,Lesotho,2015,16.2,Both sexes
-872,Lesotho,2016,16.6,Both sexes
-873,Liberia,2008,7.4,Both sexes
-874,Liberia,2009,7.7,Both sexes
-875,Liberia,2010,8.0,Both sexes
-876,Liberia,2011,8.3,Both sexes
-877,Liberia,2012,8.6,Both sexes
-878,Liberia,2013,8.9,Both sexes
-879,Liberia,2014,9.2,Both sexes
-880,Liberia,2015,9.6,Both sexes
-881,Liberia,2016,9.9,Both sexes
-882,Libya,2008,27.6,Both sexes
-883,Libya,2009,28.2,Both sexes
-884,Libya,2010,28.8,Both sexes
-885,Libya,2011,29.4,Both sexes
-886,Libya,2012,30.0,Both sexes
-887,Libya,2013,30.6,Both sexes
-888,Libya,2014,31.3,Both sexes
-889,Libya,2015,31.9,Both sexes
-890,Libya,2016,32.5,Both sexes
-891,Lithuania,2008,23.8,Both sexes
-892,Lithuania,2009,24.1,Both sexes
-893,Lithuania,2010,24.4,Both sexes
-894,Lithuania,2011,24.7,Both sexes
-895,Lithuania,2012,25.0,Both sexes
-896,Lithuania,2013,25.3,Both sexes
-897,Lithuania,2014,25.6,Both sexes
-898,Lithuania,2015,26.0,Both sexes
-899,Lithuania,2016,26.3,Both sexes
-900,Luxembourg,2008,19.2,Both sexes
-901,Luxembourg,2009,19.6,Both sexes
-902,Luxembourg,2010,20.0,Both sexes
-903,Luxembourg,2011,20.4,Both sexes
-904,Luxembourg,2012,20.9,Both sexes
-905,Luxembourg,2013,21.3,Both sexes
-906,Luxembourg,2014,21.7,Both sexes
-907,Luxembourg,2015,22.2,Both sexes
-908,Luxembourg,2016,22.6,Both sexes
-909,Madagascar,2008,3.5,Both sexes
-910,Madagascar,2009,3.7,Both sexes
-911,Madagascar,2010,3.9,Both sexes
-912,Madagascar,2011,4.1,Both sexes
-913,Madagascar,2012,4.3,Both sexes
-914,Madagascar,2013,4.5,Both sexes
-915,Madagascar,2014,4.8,Both sexes
-916,Madagascar,2015,5.1,Both sexes
-917,Madagascar,2016,5.3,Both sexes
-918,Malawi,2008,4.0,Both sexes
-919,Malawi,2009,4.2,Both sexes
-920,Malawi,2010,4.4,Both sexes
-921,Malawi,2011,4.6,Both sexes
-922,Malawi,2012,4.8,Both sexes
-923,Malawi,2013,5.0,Both sexes
-924,Malawi,2014,5.3,Both sexes
-925,Malawi,2015,5.5,Both sexes
-926,Malawi,2016,5.8,Both sexes
-927,Malaysia,2008,10.9,Both sexes
-928,Malaysia,2009,11.5,Both sexes
-929,Malaysia,2010,12.0,Both sexes
-930,Malaysia,2011,12.6,Both sexes
-931,Malaysia,2012,13.1,Both sexes
-932,Malaysia,2013,13.7,Both sexes
-933,Malaysia,2014,14.3,Both sexes
-934,Malaysia,2015,14.9,Both sexes
-935,Malaysia,2016,15.6,Both sexes
-936,Maldives,2008,5.2,Both sexes
-937,Maldives,2009,5.5,Both sexes
-938,Maldives,2010,5.9,Both sexes
-939,Maldives,2011,6.3,Both sexes
-940,Maldives,2012,6.7,Both sexes
-941,Maldives,2013,7.2,Both sexes
-942,Maldives,2014,7.6,Both sexes
-943,Maldives,2015,8.1,Both sexes
-944,Maldives,2016,8.6,Both sexes
-945,Mali,2008,5.9,Both sexes
-946,Mali,2009,6.2,Both sexes
-947,Mali,2010,6.5,Both sexes
-948,Mali,2011,6.8,Both sexes
-949,Mali,2012,7.2,Both sexes
-950,Mali,2013,7.5,Both sexes
-951,Mali,2014,7.9,Both sexes
-952,Mali,2015,8.2,Both sexes
-953,Mali,2016,8.6,Both sexes
-954,Malta,2008,26.1,Both sexes
-955,Malta,2009,26.4,Both sexes
-956,Malta,2010,26.8,Both sexes
-957,Malta,2011,27.1,Both sexes
-958,Malta,2012,27.5,Both sexes
-959,Malta,2013,27.8,Both sexes
-960,Malta,2014,28.2,Both sexes
-961,Malta,2015,28.5,Both sexes
-962,Malta,2016,28.9,Both sexes
-963,Marshall Islands,2008,48.4,Both sexes
-964,Marshall Islands,2009,49.0,Both sexes
-965,Marshall Islands,2010,49.6,Both sexes
-966,Marshall Islands,2011,50.1,Both sexes
-967,Marshall Islands,2012,50.7,Both sexes
-968,Marshall Islands,2013,51.3,Both sexes
-969,Marshall Islands,2014,51.8,Both sexes
-970,Marshall Islands,2015,52.4,Both sexes
-971,Marshall Islands,2016,52.9,Both sexes
-972,Mauritania,2008,9.5,Both sexes
-973,Mauritania,2009,9.9,Both sexes
-974,Mauritania,2010,10.3,Both sexes
-975,Mauritania,2011,10.6,Both sexes
-976,Mauritania,2012,11.0,Both sexes
-977,Mauritania,2013,11.4,Both sexes
-978,Mauritania,2014,11.8,Both sexes
-979,Mauritania,2015,12.3,Both sexes
-980,Mauritania,2016,12.7,Both sexes
-981,Mauritius,2008,8.6,Both sexes
-982,Mauritius,2009,8.8,Both sexes
-983,Mauritius,2010,9.1,Both sexes
-984,Mauritius,2011,9.3,Both sexes
-985,Mauritius,2012,9.6,Both sexes
-986,Mauritius,2013,9.9,Both sexes
-987,Mauritius,2014,10.2,Both sexes
-988,Mauritius,2015,10.5,Both sexes
-989,Mauritius,2016,10.8,Both sexes
-990,Mexico,2008,24.8,Both sexes
-991,Mexico,2009,25.3,Both sexes
-992,Mexico,2010,25.8,Both sexes
-993,Mexico,2011,26.3,Both sexes
-994,Mexico,2012,26.8,Both sexes
-995,Mexico,2013,27.3,Both sexes
-996,Mexico,2014,27.8,Both sexes
-997,Mexico,2015,28.3,Both sexes
-998,Mexico,2016,28.9,Both sexes
-999,Micronesia (Federated States of),2008,40.1,Both sexes
-1000,Micronesia (Federated States of),2009,40.8,Both sexes
-1001,Micronesia (Federated States of),2010,41.5,Both sexes
-1002,Micronesia (Federated States of),2011,42.2,Both sexes
-1003,Micronesia (Federated States of),2012,42.9,Both sexes
-1004,Micronesia (Federated States of),2013,43.7,Both sexes
-1005,Micronesia (Federated States of),2014,44.4,Both sexes
-1006,Micronesia (Federated States of),2015,45.1,Both sexes
-1007,Micronesia (Federated States of),2016,45.8,Both sexes
-1008,Monaco,2008,No,Both sexes
-1009,Monaco,2009,No,Both sexes
-1010,Monaco,2010,No,Both sexes
-1011,Monaco,2011,No,Both sexes
-1012,Monaco,2012,No,Both sexes
-1013,Monaco,2013,No,Both sexes
-1014,Monaco,2014,No,Both sexes
-1015,Monaco,2015,No,Both sexes
-1016,Monaco,2016,No,Both sexes
-1017,Mongolia,2008,15.5,Both sexes
-1018,Mongolia,2009,16.1,Both sexes
-1019,Mongolia,2010,16.7,Both sexes
-1020,Mongolia,2011,17.3,Both sexes
-1021,Mongolia,2012,17.9,Both sexes
-1022,Mongolia,2013,18.6,Both sexes
-1023,Mongolia,2014,19.2,Both sexes
-1024,Mongolia,2015,19.9,Both sexes
-1025,Mongolia,2016,20.6,Both sexes
-1026,Montenegro,2008,20.0,Both sexes
-1027,Montenegro,2009,20.4,Both sexes
-1028,Montenegro,2010,20.8,Both sexes
-1029,Montenegro,2011,21.2,Both sexes
-1030,Montenegro,2012,21.6,Both sexes
-1031,Montenegro,2013,22.0,Both sexes
-1032,Montenegro,2014,22.4,Both sexes
-1033,Montenegro,2015,22.8,Both sexes
-1034,Montenegro,2016,23.3,Both sexes
-1035,Morocco,2008,20.9,Both sexes
-1036,Morocco,2009,21.5,Both sexes
-1037,Morocco,2010,22.1,Both sexes
-1038,Morocco,2011,22.8,Both sexes
-1039,Morocco,2012,23.4,Both sexes
-1040,Morocco,2013,24.1,Both sexes
-1041,Morocco,2014,24.7,Both sexes
-1042,Morocco,2015,25.4,Both sexes
-1043,Morocco,2016,26.1,Both sexes
-1044,Mozambique,2008,5.2,Both sexes
-1045,Mozambique,2009,5.4,Both sexes
-1046,Mozambique,2010,5.7,Both sexes
-1047,Mozambique,2011,5.9,Both sexes
-1048,Mozambique,2012,6.1,Both sexes
-1049,Mozambique,2013,6.4,Both sexes
-1050,Mozambique,2014,6.7,Both sexes
-1051,Mozambique,2015,6.9,Both sexes
-1052,Mozambique,2016,7.2,Both sexes
-1053,Myanmar,2008,3.6,Both sexes
-1054,Myanmar,2009,3.8,Both sexes
-1055,Myanmar,2010,4.0,Both sexes
-1056,Myanmar,2011,4.3,Both sexes
-1057,Myanmar,2012,4.6,Both sexes
-1058,Myanmar,2013,4.8,Both sexes
-1059,Myanmar,2014,5.1,Both sexes
-1060,Myanmar,2015,5.4,Both sexes
-1061,Myanmar,2016,5.8,Both sexes
-1062,Namibia,2008,13.0,Both sexes
-1063,Namibia,2009,13.5,Both sexes
-1064,Namibia,2010,14.0,Both sexes
-1065,Namibia,2011,14.6,Both sexes
-1066,Namibia,2012,15.1,Both sexes
-1067,Namibia,2013,15.6,Both sexes
-1068,Namibia,2014,16.1,Both sexes
-1069,Namibia,2015,16.7,Both sexes
-1070,Namibia,2016,17.2,Both sexes
-1071,Nauru,2008,58.2,Both sexes
-1072,Nauru,2009,58.5,Both sexes
-1073,Nauru,2010,58.9,Both sexes
-1074,Nauru,2011,59.3,Both sexes
-1075,Nauru,2012,59.6,Both sexes
-1076,Nauru,2013,60.0,Both sexes
-1077,Nauru,2014,60.3,Both sexes
-1078,Nauru,2015,60.7,Both sexes
-1079,Nauru,2016,61.0,Both sexes
-1080,Nepal,2008,2.6,Both sexes
-1081,Nepal,2009,2.7,Both sexes
-1082,Nepal,2010,2.9,Both sexes
-1083,Nepal,2011,3.1,Both sexes
-1084,Nepal,2012,3.3,Both sexes
-1085,Nepal,2013,3.5,Both sexes
-1086,Nepal,2014,3.7,Both sexes
-1087,Nepal,2015,3.9,Both sexes
-1088,Nepal,2016,4.1,Both sexes
-1089,Netherlands,2008,16.8,Both sexes
-1090,Netherlands,2009,17.3,Both sexes
-1091,Netherlands,2010,17.7,Both sexes
-1092,Netherlands,2011,18.2,Both sexes
-1093,Netherlands,2012,18.6,Both sexes
-1094,Netherlands,2013,19.1,Both sexes
-1095,Netherlands,2014,19.5,Both sexes
-1096,Netherlands,2015,20.0,Both sexes
-1097,Netherlands,2016,20.4,Both sexes
-1098,New Zealand,2008,26.1,Both sexes
-1099,New Zealand,2009,26.6,Both sexes
-1100,New Zealand,2010,27.2,Both sexes
-1101,New Zealand,2011,27.8,Both sexes
-1102,New Zealand,2012,28.4,Both sexes
-1103,New Zealand,2013,29.0,Both sexes
-1104,New Zealand,2014,29.6,Both sexes
-1105,New Zealand,2015,30.2,Both sexes
-1106,New Zealand,2016,30.8,Both sexes
-1107,Nicaragua,2008,19.4,Both sexes
-1108,Nicaragua,2009,19.9,Both sexes
-1109,Nicaragua,2010,20.4,Both sexes
-1110,Nicaragua,2011,20.9,Both sexes
-1111,Nicaragua,2012,21.5,Both sexes
-1112,Nicaragua,2013,22.0,Both sexes
-1113,Nicaragua,2014,22.5,Both sexes
-1114,Nicaragua,2015,23.1,Both sexes
-1115,Nicaragua,2016,23.7,Both sexes
-1116,Niger,2008,3.7,Both sexes
-1117,Niger,2009,3.9,Both sexes
-1118,Niger,2010,4.1,Both sexes
-1119,Niger,2011,4.3,Both sexes
-1120,Niger,2012,4.5,Both sexes
-1121,Niger,2013,4.8,Both sexes
-1122,Niger,2014,5.0,Both sexes
-1123,Niger,2015,5.2,Both sexes
-1124,Niger,2016,5.5,Both sexes
-1125,Nigeria,2008,6.0,Both sexes
-1126,Nigeria,2009,6.4,Both sexes
-1127,Nigeria,2010,6.7,Both sexes
-1128,Nigeria,2011,7.0,Both sexes
-1129,Nigeria,2012,7.4,Both sexes
-1130,Nigeria,2013,7.7,Both sexes
-1131,Nigeria,2014,8.1,Both sexes
-1132,Nigeria,2015,8.5,Both sexes
-1133,Nigeria,2016,8.9,Both sexes
-1134,Niue,2008,43.6,Both sexes
-1135,Niue,2009,44.4,Both sexes
-1136,Niue,2010,45.2,Both sexes
-1137,Niue,2011,46.0,Both sexes
-1138,Niue,2012,46.8,Both sexes
-1139,Niue,2013,47.6,Both sexes
-1140,Niue,2014,48.4,Both sexes
-1141,Niue,2015,49.2,Both sexes
-1142,Niue,2016,50.0,Both sexes
-1143,Norway,2008,19.5,Both sexes
-1144,Norway,2009,19.9,Both sexes
-1145,Norway,2010,20.4,Both sexes
-1146,Norway,2011,20.8,Both sexes
-1147,Norway,2012,21.3,Both sexes
-1148,Norway,2013,21.7,Both sexes
-1149,Norway,2014,22.2,Both sexes
-1150,Norway,2015,22.6,Both sexes
-1151,Norway,2016,23.1,Both sexes
-1152,Oman,2008,21.8,Both sexes
-1153,Oman,2009,22.4,Both sexes
-1154,Oman,2010,23.1,Both sexes
-1155,Oman,2011,23.7,Both sexes
-1156,Oman,2012,24.3,Both sexes
-1157,Oman,2013,24.9,Both sexes
-1158,Oman,2014,25.6,Both sexes
-1159,Oman,2015,26.3,Both sexes
-1160,Oman,2016,27.0,Both sexes
-1161,Pakistan,2008,5.9,Both sexes
-1162,Pakistan,2009,6.2,Both sexes
-1163,Pakistan,2010,6.5,Both sexes
-1164,Pakistan,2011,6.8,Both sexes
-1165,Pakistan,2012,7.1,Both sexes
-1166,Pakistan,2013,7.5,Both sexes
-1167,Pakistan,2014,7.8,Both sexes
-1168,Pakistan,2015,8.2,Both sexes
-1169,Pakistan,2016,8.6,Both sexes
-1170,Palau,2008,50.4,Both sexes
-1171,Palau,2009,51.1,Both sexes
-1172,Palau,2010,51.8,Both sexes
-1173,Palau,2011,52.4,Both sexes
-1174,Palau,2012,53.1,Both sexes
-1175,Palau,2013,53.7,Both sexes
-1176,Palau,2014,54.2,Both sexes
-1177,Palau,2015,54.8,Both sexes
-1178,Palau,2016,55.3,Both sexes
-1179,Panama,2008,18.6,Both sexes
-1180,Panama,2009,19.1,Both sexes
-1181,Panama,2010,19.6,Both sexes
-1182,Panama,2011,20.1,Both sexes
-1183,Panama,2012,20.6,Both sexes
-1184,Panama,2013,21.1,Both sexes
-1185,Panama,2014,21.6,Both sexes
-1186,Panama,2015,22.2,Both sexes
-1187,Panama,2016,22.7,Both sexes
-1188,Papua New Guinea,2008,16.9,Both sexes
-1189,Papua New Guinea,2009,17.4,Both sexes
-1190,Papua New Guinea,2010,17.9,Both sexes
-1191,Papua New Guinea,2011,18.5,Both sexes
-1192,Papua New Guinea,2012,19.0,Both sexes
-1193,Papua New Guinea,2013,19.6,Both sexes
-1194,Papua New Guinea,2014,20.1,Both sexes
-1195,Papua New Guinea,2015,20.7,Both sexes
-1196,Papua New Guinea,2016,21.3,Both sexes
-1197,Paraguay,2008,16.2,Both sexes
-1198,Paraguay,2009,16.7,Both sexes
-1199,Paraguay,2010,17.2,Both sexes
-1200,Paraguay,2011,17.7,Both sexes
-1201,Paraguay,2012,18.2,Both sexes
-1202,Paraguay,2013,18.7,Both sexes
-1203,Paraguay,2014,19.2,Both sexes
-1204,Paraguay,2015,19.8,Both sexes
-1205,Paraguay,2016,20.3,Both sexes
-1206,Peru,2008,16.5,Both sexes
-1207,Peru,2009,16.9,Both sexes
-1208,Peru,2010,17.3,Both sexes
-1209,Peru,2011,17.7,Both sexes
-1210,Peru,2012,18.1,Both sexes
-1211,Peru,2013,18.5,Both sexes
-1212,Peru,2014,18.9,Both sexes
-1213,Peru,2015,19.3,Both sexes
-1214,Peru,2016,19.7,Both sexes
-1215,Philippines,2008,4.6,Both sexes
-1216,Philippines,2009,4.8,Both sexes
-1217,Philippines,2010,5.0,Both sexes
-1218,Philippines,2011,5.2,Both sexes
-1219,Philippines,2012,5.4,Both sexes
-1220,Philippines,2013,5.7,Both sexes
-1221,Philippines,2014,5.9,Both sexes
-1222,Philippines,2015,6.2,Both sexes
-1223,Philippines,2016,6.4,Both sexes
-1224,Poland,2008,20.1,Both sexes
-1225,Poland,2009,20.5,Both sexes
-1226,Poland,2010,20.8,Both sexes
-1227,Poland,2011,21.2,Both sexes
-1228,Poland,2012,21.5,Both sexes
-1229,Poland,2013,21.9,Both sexes
-1230,Poland,2014,22.3,Both sexes
-1231,Poland,2015,22.7,Both sexes
-1232,Poland,2016,23.1,Both sexes
-1233,Portugal,2008,17.2,Both sexes
-1234,Portugal,2009,17.7,Both sexes
-1235,Portugal,2010,18.1,Both sexes
-1236,Portugal,2011,18.6,Both sexes
-1237,Portugal,2012,19.0,Both sexes
-1238,Portugal,2013,19.5,Both sexes
-1239,Portugal,2014,19.9,Both sexes
-1240,Portugal,2015,20.4,Both sexes
-1241,Portugal,2016,20.8,Both sexes
-1242,Qatar,2008,30.0,Both sexes
-1243,Qatar,2009,30.5,Both sexes
-1244,Qatar,2010,31.1,Both sexes
-1245,Qatar,2011,31.8,Both sexes
-1246,Qatar,2012,32.4,Both sexes
-1247,Qatar,2013,33.1,Both sexes
-1248,Qatar,2014,33.8,Both sexes
-1249,Qatar,2015,34.5,Both sexes
-1250,Qatar,2016,35.1,Both sexes
-1251,Republic of Korea,2008,3.7,Both sexes
-1252,Republic of Korea,2009,3.8,Both sexes
-1253,Republic of Korea,2010,3.9,Both sexes
-1254,Republic of Korea,2011,4.0,Both sexes
-1255,Republic of Korea,2012,4.1,Both sexes
-1256,Republic of Korea,2013,4.3,Both sexes
-1257,Republic of Korea,2014,4.4,Both sexes
-1258,Republic of Korea,2015,4.5,Both sexes
-1259,Republic of Korea,2016,4.7,Both sexes
-1260,Republic of Moldova,2008,16.3,Both sexes
-1261,Republic of Moldova,2009,16.6,Both sexes
-1262,Republic of Moldova,2010,16.9,Both sexes
-1263,Republic of Moldova,2011,17.2,Both sexes
-1264,Republic of Moldova,2012,17.5,Both sexes
-1265,Republic of Moldova,2013,17.8,Both sexes
-1266,Republic of Moldova,2014,18.2,Both sexes
-1267,Republic of Moldova,2015,18.5,Both sexes
-1268,Republic of Moldova,2016,18.9,Both sexes
-1269,Republic of North Macedonia,2008,19.4,Both sexes
-1270,Republic of North Macedonia,2009,19.8,Both sexes
-1271,Republic of North Macedonia,2010,20.1,Both sexes
-1272,Republic of North Macedonia,2011,20.5,Both sexes
-1273,Republic of North Macedonia,2012,20.8,Both sexes
-1274,Republic of North Macedonia,2013,21.2,Both sexes
-1275,Republic of North Macedonia,2014,21.6,Both sexes
-1276,Republic of North Macedonia,2015,22.0,Both sexes
-1277,Republic of North Macedonia,2016,22.4,Both sexes
-1278,Romania,2008,19.0,Both sexes
-1279,Romania,2009,19.4,Both sexes
-1280,Romania,2010,19.8,Both sexes
-1281,Romania,2011,20.2,Both sexes
-1282,Romania,2012,20.7,Both sexes
-1283,Romania,2013,21.1,Both sexes
-1284,Romania,2014,21.6,Both sexes
-1285,Romania,2015,22.1,Both sexes
-1286,Romania,2016,22.5,Both sexes
-1287,Russian Federation,2008,20.9,Both sexes
-1288,Russian Federation,2009,21.2,Both sexes
-1289,Russian Federation,2010,21.4,Both sexes
-1290,Russian Federation,2011,21.7,Both sexes
-1291,Russian Federation,2012,21.9,Both sexes
-1292,Russian Federation,2013,22.2,Both sexes
-1293,Russian Federation,2014,22.5,Both sexes
-1294,Russian Federation,2015,22.8,Both sexes
-1295,Russian Federation,2016,23.1,Both sexes
-1296,Rwanda,2008,3.8,Both sexes
-1297,Rwanda,2009,4.0,Both sexes
-1298,Rwanda,2010,4.2,Both sexes
-1299,Rwanda,2011,4.5,Both sexes
-1300,Rwanda,2012,4.7,Both sexes
-1301,Rwanda,2013,5.0,Both sexes
-1302,Rwanda,2014,5.3,Both sexes
-1303,Rwanda,2015,5.6,Both sexes
-1304,Rwanda,2016,5.8,Both sexes
-1305,Saint Kitts and Nevis,2008,18.2,Both sexes
-1306,Saint Kitts and Nevis,2009,18.7,Both sexes
-1307,Saint Kitts and Nevis,2010,19.3,Both sexes
-1308,Saint Kitts and Nevis,2011,19.8,Both sexes
-1309,Saint Kitts and Nevis,2012,20.4,Both sexes
-1310,Saint Kitts and Nevis,2013,21.0,Both sexes
-1311,Saint Kitts and Nevis,2014,21.6,Both sexes
-1312,Saint Kitts and Nevis,2015,22.3,Both sexes
-1313,Saint Kitts and Nevis,2016,22.9,Both sexes
-1314,Saint Lucia,2008,15.8,Both sexes
-1315,Saint Lucia,2009,16.2,Both sexes
-1316,Saint Lucia,2010,16.5,Both sexes
-1317,Saint Lucia,2011,17.0,Both sexes
-1318,Saint Lucia,2012,17.4,Both sexes
-1319,Saint Lucia,2013,18.0,Both sexes
-1320,Saint Lucia,2014,18.5,Both sexes
-1321,Saint Lucia,2015,19.1,Both sexes
-1322,Saint Lucia,2016,19.7,Both sexes
-1323,Saint Vincent and the Grenadines,2008,18.8,Both sexes
-1324,Saint Vincent and the Grenadines,2009,19.4,Both sexes
-1325,Saint Vincent and the Grenadines,2010,20.0,Both sexes
-1326,Saint Vincent and the Grenadines,2011,20.6,Both sexes
-1327,Saint Vincent and the Grenadines,2012,21.2,Both sexes
-1328,Saint Vincent and the Grenadines,2013,21.8,Both sexes
-1329,Saint Vincent and the Grenadines,2014,22.4,Both sexes
-1330,Saint Vincent and the Grenadines,2015,23.1,Both sexes
-1331,Saint Vincent and the Grenadines,2016,23.7,Both sexes
-1332,Samoa,2008,42.2,Both sexes
-1333,Samoa,2009,42.8,Both sexes
-1334,Samoa,2010,43.4,Both sexes
-1335,Samoa,2011,44.1,Both sexes
-1336,Samoa,2012,44.7,Both sexes
-1337,Samoa,2013,45.4,Both sexes
-1338,Samoa,2014,46.0,Both sexes
-1339,Samoa,2015,46.7,Both sexes
-1340,Samoa,2016,47.3,Both sexes
-1341,San Marino,2008,No,Both sexes
-1342,San Marino,2009,No,Both sexes
-1343,San Marino,2010,No,Both sexes
-1344,San Marino,2011,No,Both sexes
-1345,San Marino,2012,No,Both sexes
-1346,San Marino,2013,No,Both sexes
-1347,San Marino,2014,No,Both sexes
-1348,San Marino,2015,No,Both sexes
-1349,San Marino,2016,No,Both sexes
-1350,Sao Tome and Principe,2008,9.2,Both sexes
-1351,Sao Tome and Principe,2009,9.6,Both sexes
-1352,Sao Tome and Principe,2010,10.0,Both sexes
-1353,Sao Tome and Principe,2011,10.3,Both sexes
-1354,Sao Tome and Principe,2012,10.7,Both sexes
-1355,Sao Tome and Principe,2013,11.2,Both sexes
-1356,Sao Tome and Principe,2014,11.6,Both sexes
-1357,Sao Tome and Principe,2015,12.0,Both sexes
-1358,Sao Tome and Principe,2016,12.4,Both sexes
-1359,Saudi Arabia,2008,30.2,Both sexes
-1360,Saudi Arabia,2009,30.8,Both sexes
-1361,Saudi Arabia,2010,31.5,Both sexes
-1362,Saudi Arabia,2011,32.1,Both sexes
-1363,Saudi Arabia,2012,32.8,Both sexes
-1364,Saudi Arabia,2013,33.4,Both sexes
-1365,Saudi Arabia,2014,34.1,Both sexes
-1366,Saudi Arabia,2015,34.7,Both sexes
-1367,Saudi Arabia,2016,35.4,Both sexes
-1368,Senegal,2008,6.5,Both sexes
-1369,Senegal,2009,6.8,Both sexes
-1370,Senegal,2010,7.1,Both sexes
-1371,Senegal,2011,7.3,Both sexes
-1372,Senegal,2012,7.6,Both sexes
-1373,Senegal,2013,7.9,Both sexes
-1374,Senegal,2014,8.2,Both sexes
-1375,Senegal,2015,8.5,Both sexes
-1376,Senegal,2016,8.8,Both sexes
-1377,Serbia,2008,18.4,Both sexes
-1378,Serbia,2009,18.8,Both sexes
-1379,Serbia,2010,19.2,Both sexes
-1380,Serbia,2011,19.6,Both sexes
-1381,Serbia,2012,20.0,Both sexes
-1382,Serbia,2013,20.3,Both sexes
-1383,Serbia,2014,20.7,Both sexes
-1384,Serbia,2015,21.1,Both sexes
-1385,Serbia,2016,21.5,Both sexes
-1386,Seychelles,2008,11.0,Both sexes
-1387,Seychelles,2009,11.4,Both sexes
-1388,Seychelles,2010,11.7,Both sexes
-1389,Seychelles,2011,12.0,Both sexes
-1390,Seychelles,2012,12.4,Both sexes
-1391,Seychelles,2013,12.8,Both sexes
-1392,Seychelles,2014,13.2,Both sexes
-1393,Seychelles,2015,13.5,Both sexes
-1394,Seychelles,2016,14.0,Both sexes
-1395,Sierra Leone,2008,6.3,Both sexes
-1396,Sierra Leone,2009,6.5,Both sexes
-1397,Sierra Leone,2010,6.8,Both sexes
-1398,Sierra Leone,2011,7.1,Both sexes
-1399,Sierra Leone,2012,7.4,Both sexes
-1400,Sierra Leone,2013,7.7,Both sexes
-1401,Sierra Leone,2014,8.0,Both sexes
-1402,Sierra Leone,2015,8.3,Both sexes
-1403,Sierra Leone,2016,8.7,Both sexes
-1404,Singapore,2008,5.2,Both sexes
-1405,Singapore,2009,5.3,Both sexes
-1406,Singapore,2010,5.4,Both sexes
-1407,Singapore,2011,5.5,Both sexes
-1408,Singapore,2012,5.6,Both sexes
-1409,Singapore,2013,5.7,Both sexes
-1410,Singapore,2014,5.8,Both sexes
-1411,Singapore,2015,6.0,Both sexes
-1412,Singapore,2016,6.1,Both sexes
-1413,Slovakia,2008,17.8,Both sexes
-1414,Slovakia,2009,18.1,Both sexes
-1415,Slovakia,2010,18.4,Both sexes
-1416,Slovakia,2011,18.8,Both sexes
-1417,Slovakia,2012,19.1,Both sexes
-1418,Slovakia,2013,19.4,Both sexes
-1419,Slovakia,2014,19.8,Both sexes
-1420,Slovakia,2015,20.1,Both sexes
-1421,Slovakia,2016,20.5,Both sexes
-1422,Slovenia,2008,17.5,Both sexes
-1423,Slovenia,2009,17.8,Both sexes
-1424,Slovenia,2010,18.1,Both sexes
-1425,Slovenia,2011,18.4,Both sexes
-1426,Slovenia,2012,18.8,Both sexes
-1427,Slovenia,2013,19.1,Both sexes
-1428,Slovenia,2014,19.5,Both sexes
-1429,Slovenia,2015,19.8,Both sexes
-1430,Slovenia,2016,20.2,Both sexes
-1431,Solomon Islands,2008,17.6,Both sexes
-1432,Solomon Islands,2009,18.1,Both sexes
-1433,Solomon Islands,2010,18.7,Both sexes
-1434,Solomon Islands,2011,19.3,Both sexes
-1435,Solomon Islands,2012,19.9,Both sexes
-1436,Solomon Islands,2013,20.6,Both sexes
-1437,Solomon Islands,2014,21.2,Both sexes
-1438,Solomon Islands,2015,21.9,Both sexes
-1439,Solomon Islands,2016,22.5,Both sexes
-1440,Somalia,2008,5.9,Both sexes
-1441,Somalia,2009,6.2,Both sexes
-1442,Somalia,2010,6.4,Both sexes
-1443,Somalia,2011,6.7,Both sexes
-1444,Somalia,2012,7.0,Both sexes
-1445,Somalia,2013,7.3,Both sexes
-1446,Somalia,2014,7.6,Both sexes
-1447,Somalia,2015,7.9,Both sexes
-1448,Somalia,2016,8.3,Both sexes
-1449,South Africa,2008,24.0,Both sexes
-1450,South Africa,2009,24.5,Both sexes
-1451,South Africa,2010,25.1,Both sexes
-1452,South Africa,2011,25.6,Both sexes
-1453,South Africa,2012,26.1,Both sexes
-1454,South Africa,2013,26.7,Both sexes
-1455,South Africa,2014,27.2,Both sexes
-1456,South Africa,2015,27.8,Both sexes
-1457,South Africa,2016,28.3,Both sexes
-1458,South Sudan,2008,No,Both sexes
-1459,South Sudan,2009,No,Both sexes
-1460,South Sudan,2010,No,Both sexes
-1461,South Sudan,2011,No,Both sexes
-1462,South Sudan,2012,No,Both sexes
-1463,South Sudan,2013,No,Both sexes
-1464,South Sudan,2014,No,Both sexes
-1465,South Sudan,2015,No,Both sexes
-1466,South Sudan,2016,No,Both sexes
-1467,Spain,2008,21.0,Both sexes
-1468,Spain,2009,21.3,Both sexes
-1469,Spain,2010,21.7,Both sexes
-1470,Spain,2011,22.0,Both sexes
-1471,Spain,2012,22.4,Both sexes
-1472,Spain,2013,22.7,Both sexes
-1473,Spain,2014,23.1,Both sexes
-1474,Spain,2015,23.4,Both sexes
-1475,Spain,2016,23.8,Both sexes
-1476,Sri Lanka,2008,3.3,Both sexes
-1477,Sri Lanka,2009,3.5,Both sexes
-1478,Sri Lanka,2010,3.7,Both sexes
-1479,Sri Lanka,2011,3.9,Both sexes
-1480,Sri Lanka,2012,4.1,Both sexes
-1481,Sri Lanka,2013,4.4,Both sexes
-1482,Sri Lanka,2014,4.6,Both sexes
-1483,Sri Lanka,2015,4.9,Both sexes
-1484,Sri Lanka,2016,5.2,Both sexes
-1485,Sudan,2008,No,Both sexes
-1486,Sudan,2009,No,Both sexes
-1487,Sudan,2010,No,Both sexes
-1488,Sudan,2011,No,Both sexes
-1489,Sudan,2012,No,Both sexes
-1490,Sudan,2013,No,Both sexes
-1491,Sudan,2014,No,Both sexes
-1492,Sudan,2015,No,Both sexes
-1493,Sudan,2016,No,Both sexes
-1494,Sudan (former),2008,6.1,Both sexes
-1495,Sudan (former),2009,5.1,Both sexes
-1496,Sudan (former),2010,6.5,Both sexes
-1497,Sudan (former),2011,6.1,Both sexes
-1498,Sudan (former),2012,6.4,Both sexes
-1499,Sudan (former),2013,5.7,Both sexes
-1500,Sudan (former),2014,5.8,Both sexes
-1501,Sudan (former),2015,8.6,Both sexes
-1502,Sudan (former),2016,8.6,Both sexes
-1503,Suriname,2008,22.5,Both sexes
-1504,Suriname,2009,23.0,Both sexes
-1505,Suriname,2010,23.5,Both sexes
-1506,Suriname,2011,24.0,Both sexes
-1507,Suriname,2012,24.4,Both sexes
-1508,Suriname,2013,24.9,Both sexes
-1509,Suriname,2014,25.4,Both sexes
-1510,Suriname,2015,25.9,Both sexes
-1511,Suriname,2016,26.4,Both sexes
-1512,Sweden,2008,17.4,Both sexes
-1513,Sweden,2009,17.8,Both sexes
-1514,Sweden,2010,18.2,Both sexes
-1515,Sweden,2011,18.6,Both sexes
-1516,Sweden,2012,19.0,Both sexes
-1517,Sweden,2013,19.4,Both sexes
-1518,Sweden,2014,19.8,Both sexes
-1519,Sweden,2015,20.2,Both sexes
-1520,Sweden,2016,20.6,Both sexes
-1521,Switzerland,2008,16.5,Both sexes
-1522,Switzerland,2009,16.9,Both sexes
-1523,Switzerland,2010,17.3,Both sexes
-1524,Switzerland,2011,17.6,Both sexes
-1525,Switzerland,2012,18.0,Both sexes
-1526,Switzerland,2013,18.4,Both sexes
-1527,Switzerland,2014,18.7,Both sexes
-1528,Switzerland,2015,19.1,Both sexes
-1529,Switzerland,2016,19.5,Both sexes
-1530,Syrian Arab Republic,2008,22.5,Both sexes
-1531,Syrian Arab Republic,2009,23.1,Both sexes
-1532,Syrian Arab Republic,2010,23.8,Both sexes
-1533,Syrian Arab Republic,2011,24.4,Both sexes
-1534,Syrian Arab Republic,2012,25.1,Both sexes
-1535,Syrian Arab Republic,2013,25.8,Both sexes
-1536,Syrian Arab Republic,2014,26.4,Both sexes
-1537,Syrian Arab Republic,2015,27.1,Both sexes
-1538,Syrian Arab Republic,2016,27.8,Both sexes
-1539,Tajikistan,2008,10.5,Both sexes
-1540,Tajikistan,2009,10.9,Both sexes
-1541,Tajikistan,2010,11.3,Both sexes
-1542,Tajikistan,2011,11.8,Both sexes
-1543,Tajikistan,2012,12.2,Both sexes
-1544,Tajikistan,2013,12.7,Both sexes
-1545,Tajikistan,2014,13.2,Both sexes
-1546,Tajikistan,2015,13.7,Both sexes
-1547,Tajikistan,2016,14.2,Both sexes
-1548,Thailand,2008,6.1,Both sexes
-1549,Thailand,2009,6.5,Both sexes
-1550,Thailand,2010,7.0,Both sexes
-1551,Thailand,2011,7.4,Both sexes
-1552,Thailand,2012,7.9,Both sexes
-1553,Thailand,2013,8.4,Both sexes
-1554,Thailand,2014,8.9,Both sexes
-1555,Thailand,2015,9.4,Both sexes
-1556,Thailand,2016,10.0,Both sexes
-1557,Timor-Leste,2008,2.3,Both sexes
-1558,Timor-Leste,2009,2.4,Both sexes
-1559,Timor-Leste,2010,2.6,Both sexes
-1560,Timor-Leste,2011,2.8,Both sexes
-1561,Timor-Leste,2012,2.9,Both sexes
-1562,Timor-Leste,2013,3.1,Both sexes
-1563,Timor-Leste,2014,3.3,Both sexes
-1564,Timor-Leste,2015,3.6,Both sexes
-1565,Timor-Leste,2016,3.8,Both sexes
-1566,Togo,2008,6.0,Both sexes
-1567,Togo,2009,6.3,Both sexes
-1568,Togo,2010,6.5,Both sexes
-1569,Togo,2011,6.8,Both sexes
-1570,Togo,2012,7.1,Both sexes
-1571,Togo,2013,7.4,Both sexes
-1572,Togo,2014,7.8,Both sexes
-1573,Togo,2015,8.1,Both sexes
-1574,Togo,2016,8.4,Both sexes
-1575,Tonga,2008,42.7,Both sexes
-1576,Tonga,2009,43.4,Both sexes
-1577,Tonga,2010,44.1,Both sexes
-1578,Tonga,2011,44.7,Both sexes
-1579,Tonga,2012,45.4,Both sexes
-1580,Tonga,2013,46.1,Both sexes
-1581,Tonga,2014,46.8,Both sexes
-1582,Tonga,2015,47.5,Both sexes
-1583,Tonga,2016,48.2,Both sexes
-1584,Trinidad and Tobago,2008,14.3,Both sexes
-1585,Trinidad and Tobago,2009,14.8,Both sexes
-1586,Trinidad and Tobago,2010,15.3,Both sexes
-1587,Trinidad and Tobago,2011,15.8,Both sexes
-1588,Trinidad and Tobago,2012,16.3,Both sexes
-1589,Trinidad and Tobago,2013,16.9,Both sexes
-1590,Trinidad and Tobago,2014,17.4,Both sexes
-1591,Trinidad and Tobago,2015,18.0,Both sexes
-1592,Trinidad and Tobago,2016,18.6,Both sexes
-1593,Tunisia,2008,22.3,Both sexes
-1594,Tunisia,2009,22.9,Both sexes
-1595,Tunisia,2010,23.4,Both sexes
-1596,Tunisia,2011,24.0,Both sexes
-1597,Tunisia,2012,24.6,Both sexes
-1598,Tunisia,2013,25.1,Both sexes
-1599,Tunisia,2014,25.7,Both sexes
-1600,Tunisia,2015,26.3,Both sexes
-1601,Tunisia,2016,26.9,Both sexes
-1602,Turkey,2008,26.9,Both sexes
-1603,Turkey,2009,27.6,Both sexes
-1604,Turkey,2010,28.2,Both sexes
-1605,Turkey,2011,28.9,Both sexes
-1606,Turkey,2012,29.5,Both sexes
-1607,Turkey,2013,30.2,Both sexes
-1608,Turkey,2014,30.8,Both sexes
-1609,Turkey,2015,31.5,Both sexes
-1610,Turkey,2016,32.1,Both sexes
-1611,Turkmenistan,2008,14.3,Both sexes
-1612,Turkmenistan,2009,14.8,Both sexes
-1613,Turkmenistan,2010,15.3,Both sexes
-1614,Turkmenistan,2011,15.8,Both sexes
-1615,Turkmenistan,2012,16.3,Both sexes
-1616,Turkmenistan,2013,16.9,Both sexes
-1617,Turkmenistan,2014,17.4,Both sexes
-1618,Turkmenistan,2015,18.0,Both sexes
-1619,Turkmenistan,2016,18.6,Both sexes
-1620,Tuvalu,2008,45.5,Both sexes
-1621,Tuvalu,2009,46.2,Both sexes
-1622,Tuvalu,2010,47.0,Both sexes
-1623,Tuvalu,2011,47.8,Both sexes
-1624,Tuvalu,2012,48.6,Both sexes
-1625,Tuvalu,2013,49.4,Both sexes
-1626,Tuvalu,2014,50.1,Both sexes
-1627,Tuvalu,2015,50.9,Both sexes
-1628,Tuvalu,2016,51.6,Both sexes
-1629,Uganda,2008,3.5,Both sexes
-1630,Uganda,2009,3.7,Both sexes
-1631,Uganda,2010,3.9,Both sexes
-1632,Uganda,2011,4.1,Both sexes
-1633,Uganda,2012,4.3,Both sexes
-1634,Uganda,2013,4.5,Both sexes
-1635,Uganda,2014,4.8,Both sexes
-1636,Uganda,2015,5.0,Both sexes
-1637,Uganda,2016,5.3,Both sexes
-1638,Ukraine,2008,21.4,Both sexes
-1639,Ukraine,2009,21.7,Both sexes
-1640,Ukraine,2010,22.0,Both sexes
-1641,Ukraine,2011,22.4,Both sexes
-1642,Ukraine,2012,22.7,Both sexes
-1643,Ukraine,2013,23.0,Both sexes
-1644,Ukraine,2014,23.4,Both sexes
-1645,Ukraine,2015,23.7,Both sexes
-1646,Ukraine,2016,24.1,Both sexes
-1647,United Arab Emirates,2008,26.3,Both sexes
-1648,United Arab Emirates,2009,27.0,Both sexes
-1649,United Arab Emirates,2010,27.7,Both sexes
-1650,United Arab Emirates,2011,28.3,Both sexes
-1651,United Arab Emirates,2012,29.0,Both sexes
-1652,United Arab Emirates,2013,29.7,Both sexes
-1653,United Arab Emirates,2014,30.3,Both sexes
-1654,United Arab Emirates,2015,31.0,Both sexes
-1655,United Arab Emirates,2016,31.7,Both sexes
-1656,United Kingdom of Great Britain and Northern Ireland,2008,23.1,Both sexes
-1657,United Kingdom of Great Britain and Northern Ireland,2009,23.6,Both sexes
-1658,United Kingdom of Great Britain and Northern Ireland,2010,24.2,Both sexes
-1659,United Kingdom of Great Britain and Northern Ireland,2011,24.8,Both sexes
-1660,United Kingdom of Great Britain and Northern Ireland,2012,25.4,Both sexes
-1661,United Kingdom of Great Britain and Northern Ireland,2013,26.0,Both sexes
-1662,United Kingdom of Great Britain and Northern Ireland,2014,26.6,Both sexes
-1663,United Kingdom of Great Britain and Northern Ireland,2015,27.2,Both sexes
-1664,United Kingdom of Great Britain and Northern Ireland,2016,27.8,Both sexes
-1665,United Republic of Tanzania,2008,5.7,Both sexes
-1666,United Republic of Tanzania,2009,6.0,Both sexes
-1667,United Republic of Tanzania,2010,6.3,Both sexes
-1668,United Republic of Tanzania,2011,6.6,Both sexes
-1669,United Republic of Tanzania,2012,6.9,Both sexes
-1670,United Republic of Tanzania,2013,7.3,Both sexes
-1671,United Republic of Tanzania,2014,7.6,Both sexes
-1672,United Republic of Tanzania,2015,8.0,Both sexes
-1673,United Republic of Tanzania,2016,8.4,Both sexes
-1674,United States of America,2008,31.0,Both sexes
-1675,United States of America,2009,31.7,Both sexes
-1676,United States of America,2010,32.3,Both sexes
-1677,United States of America,2011,33.0,Both sexes
-1678,United States of America,2012,33.6,Both sexes
-1679,United States of America,2013,34.3,Both sexes
-1680,United States of America,2014,34.9,Both sexes
-1681,United States of America,2015,35.6,Both sexes
-1682,United States of America,2016,36.2,Both sexes
-1683,Uruguay,2008,24.1,Both sexes
-1684,Uruguay,2009,24.6,Both sexes
-1685,Uruguay,2010,25.1,Both sexes
-1686,Uruguay,2011,25.5,Both sexes
-1687,Uruguay,2012,26.0,Both sexes
-1688,Uruguay,2013,26.5,Both sexes
-1689,Uruguay,2014,27.0,Both sexes
-1690,Uruguay,2015,27.5,Both sexes
-1691,Uruguay,2016,27.9,Both sexes
-1692,Uzbekistan,2008,12.6,Both sexes
-1693,Uzbekistan,2009,13.0,Both sexes
-1694,Uzbekistan,2010,13.5,Both sexes
-1695,Uzbekistan,2011,13.9,Both sexes
-1696,Uzbekistan,2012,14.4,Both sexes
-1697,Uzbekistan,2013,14.9,Both sexes
-1698,Uzbekistan,2014,15.4,Both sexes
-1699,Uzbekistan,2015,16.0,Both sexes
-1700,Uzbekistan,2016,16.6,Both sexes
-1701,Vanuatu,2008,20.1,Both sexes
-1702,Vanuatu,2009,20.7,Both sexes
-1703,Vanuatu,2010,21.3,Both sexes
-1704,Vanuatu,2011,22.0,Both sexes
-1705,Vanuatu,2012,22.6,Both sexes
-1706,Vanuatu,2013,23.2,Both sexes
-1707,Vanuatu,2014,23.9,Both sexes
-1708,Vanuatu,2015,24.5,Both sexes
-1709,Vanuatu,2016,25.2,Both sexes
-1710,Venezuela (Bolivarian Republic of),2008,22.5,Both sexes
-1711,Venezuela (Bolivarian Republic of),2009,22.9,Both sexes
-1712,Venezuela (Bolivarian Republic of),2010,23.3,Both sexes
-1713,Venezuela (Bolivarian Republic of),2011,23.7,Both sexes
-1714,Venezuela (Bolivarian Republic of),2012,24.0,Both sexes
-1715,Venezuela (Bolivarian Republic of),2013,24.4,Both sexes
-1716,Venezuela (Bolivarian Republic of),2014,24.8,Both sexes
-1717,Venezuela (Bolivarian Republic of),2015,25.2,Both sexes
-1718,Venezuela (Bolivarian Republic of),2016,25.6,Both sexes
-1719,Viet Nam,2008,1.2,Both sexes
-1720,Viet Nam,2009,1.3,Both sexes
-1721,Viet Nam,2010,1.4,Both sexes
-1722,Viet Nam,2011,1.5,Both sexes
-1723,Viet Nam,2012,1.6,Both sexes
-1724,Viet Nam,2013,1.7,Both sexes
-1725,Viet Nam,2014,1.8,Both sexes
-1726,Viet Nam,2015,2.0,Both sexes
-1727,Viet Nam,2016,2.1,Both sexes
-1728,Yemen,2008,12.4,Both sexes
-1729,Yemen,2009,13.0,Both sexes
-1730,Yemen,2010,13.5,Both sexes
-1731,Yemen,2011,14.1,Both sexes
-1732,Yemen,2012,14.6,Both sexes
-1733,Yemen,2013,15.2,Both sexes
-1734,Yemen,2014,15.9,Both sexes
-1735,Yemen,2015,16.5,Both sexes
-1736,Yemen,2016,17.1,Both sexes
-1737,Zambia,2008,5.7,Both sexes
-1738,Zambia,2009,6.0,Both sexes
-1739,Zambia,2010,6.3,Both sexes
-1740,Zambia,2011,6.5,Both sexes
-1741,Zambia,2012,6.8,Both sexes
-1742,Zambia,2013,7.1,Both sexes
-1743,Zambia,2014,7.4,Both sexes
-1744,Zambia,2015,7.7,Both sexes
-1745,Zambia,2016,8.1,Both sexes
-1746,Zimbabwe,2008,13.2,Both sexes
-1747,Zimbabwe,2009,13.5,Both sexes
-1748,Zimbabwe,2010,13.8,Both sexes
-1749,Zimbabwe,2011,14.1,Both sexes
-1750,Zimbabwe,2012,14.3,Both sexes
-1751,Zimbabwe,2013,14.6,Both sexes
-1752,Zimbabwe,2014,14.9,Both sexes
-1753,Zimbabwe,2015,15.2,Both sexes
-1754,Zimbabwe,2016,15.5,Both sexes
+99,Afghanistan,2008,3.6,Both sexes
+102,Afghanistan,2009,3.8,Both sexes
+105,Afghanistan,2010,4.0,Both sexes
+108,Afghanistan,2011,4.2,Both sexes
+111,Afghanistan,2012,4.4,Both sexes
+114,Afghanistan,2013,4.7,Both sexes
+117,Afghanistan,2014,4.9,Both sexes
+120,Afghanistan,2015,5.2,Both sexes
+123,Afghanistan,2016,5.5,Both sexes
+225,Albania,2008,17.0,Both sexes
+228,Albania,2009,17.6,Both sexes
+231,Albania,2010,18.2,Both sexes
+234,Albania,2011,18.8,Both sexes
+237,Albania,2012,19.3,Both sexes
+240,Albania,2013,19.9,Both sexes
+243,Albania,2014,20.5,Both sexes
+246,Albania,2015,21.1,Both sexes
+249,Albania,2016,21.7,Both sexes
+351,Algeria,2008,22.0,Both sexes
+354,Algeria,2009,22.7,Both sexes
+357,Algeria,2010,23.3,Both sexes
+360,Algeria,2011,24.0,Both sexes
+363,Algeria,2012,24.7,Both sexes
+366,Algeria,2013,25.3,Both sexes
+369,Algeria,2014,26.0,Both sexes
+372,Algeria,2015,26.7,Both sexes
+375,Algeria,2016,27.4,Both sexes
+477,Andorra,2008,24.0,Both sexes
+480,Andorra,2009,24.2,Both sexes
+483,Andorra,2010,24.4,Both sexes
+486,Andorra,2011,24.6,Both sexes
+489,Andorra,2012,24.8,Both sexes
+492,Andorra,2013,25.0,Both sexes
+495,Andorra,2014,25.2,Both sexes
+498,Andorra,2015,25.4,Both sexes
+501,Andorra,2016,25.6,Both sexes
+603,Angola,2008,5.6,Both sexes
+606,Angola,2009,5.9,Both sexes
+609,Angola,2010,6.2,Both sexes
+612,Angola,2011,6.5,Both sexes
+615,Angola,2012,6.8,Both sexes
+618,Angola,2013,7.1,Both sexes
+621,Angola,2014,7.5,Both sexes
+624,Angola,2015,7.9,Both sexes
+627,Angola,2016,8.2,Both sexes
+729,Antigua and Barbuda,2008,15.5,Both sexes
+732,Antigua and Barbuda,2009,15.9,Both sexes
+735,Antigua and Barbuda,2010,16.2,Both sexes
+738,Antigua and Barbuda,2011,16.7,Both sexes
+741,Antigua and Barbuda,2012,17.1,Both sexes
+744,Antigua and Barbuda,2013,17.5,Both sexes
+747,Antigua and Barbuda,2014,18.0,Both sexes
+750,Antigua and Barbuda,2015,18.4,Both sexes
+753,Antigua and Barbuda,2016,18.9,Both sexes
+855,Argentina,2008,24.4,Both sexes
+858,Argentina,2009,24.8,Both sexes
+861,Argentina,2010,25.3,Both sexes
+864,Argentina,2011,25.8,Both sexes
+867,Argentina,2012,26.3,Both sexes
+870,Argentina,2013,26.8,Both sexes
+873,Argentina,2014,27.3,Both sexes
+876,Argentina,2015,27.8,Both sexes
+879,Argentina,2016,28.3,Both sexes
+981,Armenia,2008,16.7,Both sexes
+984,Armenia,2009,17.1,Both sexes
+987,Armenia,2010,17.5,Both sexes
+990,Armenia,2011,17.9,Both sexes
+993,Armenia,2012,18.3,Both sexes
+996,Armenia,2013,18.8,Both sexes
+999,Armenia,2014,19.2,Both sexes
+1002,Armenia,2015,19.7,Both sexes
+1005,Armenia,2016,20.2,Both sexes
+1107,Australia,2008,24.6,Both sexes
+1110,Australia,2009,25.1,Both sexes
+1113,Australia,2010,25.6,Both sexes
+1116,Australia,2011,26.2,Both sexes
+1119,Australia,2012,26.7,Both sexes
+1122,Australia,2013,27.3,Both sexes
+1125,Australia,2014,27.9,Both sexes
+1128,Australia,2015,28.4,Both sexes
+1131,Australia,2016,29.0,Both sexes
+1233,Austria,2008,16.9,Both sexes
+1236,Austria,2009,17.3,Both sexes
+1239,Austria,2010,17.6,Both sexes
+1242,Austria,2011,18.0,Both sexes
+1245,Austria,2012,18.4,Both sexes
+1248,Austria,2013,18.8,Both sexes
+1251,Austria,2014,19.2,Both sexes
+1254,Austria,2015,19.7,Both sexes
+1257,Austria,2016,20.1,Both sexes
+1359,Azerbaijan,2008,15.7,Both sexes
+1362,Azerbaijan,2009,16.2,Both sexes
+1365,Azerbaijan,2010,16.6,Both sexes
+1368,Azerbaijan,2011,17.2,Both sexes
+1371,Azerbaijan,2012,17.7,Both sexes
+1374,Azerbaijan,2013,18.2,Both sexes
+1377,Azerbaijan,2014,18.8,Both sexes
+1380,Azerbaijan,2015,19.3,Both sexes
+1383,Azerbaijan,2016,19.9,Both sexes
+1485,Bahamas,2008,27.6,Both sexes
+1488,Bahamas,2009,28.1,Both sexes
+1491,Bahamas,2010,28.5,Both sexes
+1494,Bahamas,2011,29.0,Both sexes
+1497,Bahamas,2012,29.5,Both sexes
+1500,Bahamas,2013,30.0,Both sexes
+1503,Bahamas,2014,30.5,Both sexes
+1506,Bahamas,2015,31.0,Both sexes
+1509,Bahamas,2016,31.6,Both sexes
+1611,Bahrain,2008,25.8,Both sexes
+1614,Bahrain,2009,26.2,Both sexes
+1617,Bahrain,2010,26.6,Both sexes
+1620,Bahrain,2011,27.1,Both sexes
+1623,Bahrain,2012,27.6,Both sexes
+1626,Bahrain,2013,28.2,Both sexes
+1629,Bahrain,2014,28.8,Both sexes
+1632,Bahrain,2015,29.3,Both sexes
+1635,Bahrain,2016,29.8,Both sexes
+1737,Bangladesh,2008,2.2,Both sexes
+1740,Bangladesh,2009,2.3,Both sexes
+1743,Bangladesh,2010,2.5,Both sexes
+1746,Bangladesh,2011,2.6,Both sexes
+1749,Bangladesh,2012,2.8,Both sexes
+1752,Bangladesh,2013,3.0,Both sexes
+1755,Bangladesh,2014,3.2,Both sexes
+1758,Bangladesh,2015,3.4,Both sexes
+1761,Bangladesh,2016,3.6,Both sexes
+1863,Barbados,2008,18.9,Both sexes
+1866,Barbados,2009,19.4,Both sexes
+1869,Barbados,2010,19.8,Both sexes
+1872,Barbados,2011,20.4,Both sexes
+1875,Barbados,2012,20.9,Both sexes
+1878,Barbados,2013,21.4,Both sexes
+1881,Barbados,2014,22.0,Both sexes
+1884,Barbados,2015,22.5,Both sexes
+1887,Barbados,2016,23.1,Both sexes
+1989,Belarus,2008,21.6,Both sexes
+1992,Belarus,2009,21.9,Both sexes
+1995,Belarus,2010,22.3,Both sexes
+1998,Belarus,2011,22.7,Both sexes
+2001,Belarus,2012,23.0,Both sexes
+2004,Belarus,2013,23.4,Both sexes
+2007,Belarus,2014,23.7,Both sexes
+2010,Belarus,2015,24.1,Both sexes
+2013,Belarus,2016,24.5,Both sexes
+2115,Belgium,2008,19.5,Both sexes
+2118,Belgium,2009,19.8,Both sexes
+2121,Belgium,2010,20.1,Both sexes
+2124,Belgium,2011,20.4,Both sexes
+2127,Belgium,2012,20.7,Both sexes
+2130,Belgium,2013,21.0,Both sexes
+2133,Belgium,2014,21.4,Both sexes
+2136,Belgium,2015,21.7,Both sexes
+2139,Belgium,2016,22.1,Both sexes
+2241,Belize,2008,20.0,Both sexes
+2244,Belize,2009,20.5,Both sexes
+2247,Belize,2010,21.0,Both sexes
+2250,Belize,2011,21.5,Both sexes
+2253,Belize,2012,22.0,Both sexes
+2256,Belize,2013,22.5,Both sexes
+2259,Belize,2014,23.0,Both sexes
+2262,Belize,2015,23.6,Both sexes
+2265,Belize,2016,24.1,Both sexes
+2367,Benin,2008,7.0,Both sexes
+2370,Benin,2009,7.3,Both sexes
+2373,Benin,2010,7.6,Both sexes
+2376,Benin,2011,7.9,Both sexes
+2379,Benin,2012,8.2,Both sexes
+2382,Benin,2013,8.6,Both sexes
+2385,Benin,2014,8.9,Both sexes
+2388,Benin,2015,9.3,Both sexes
+2391,Benin,2016,9.6,Both sexes
+2493,Bhutan,2008,4.1,Both sexes
+2496,Bhutan,2009,4.4,Both sexes
+2499,Bhutan,2010,4.6,Both sexes
+2502,Bhutan,2011,4.9,Both sexes
+2505,Bhutan,2012,5.2,Both sexes
+2508,Bhutan,2013,5.5,Both sexes
+2511,Bhutan,2014,5.7,Both sexes
+2514,Bhutan,2015,6.1,Both sexes
+2517,Bhutan,2016,6.4,Both sexes
+2619,Bolivia,2008,16.5,Both sexes
+2622,Bolivia,2009,17.0,Both sexes
+2625,Bolivia,2010,17.4,Both sexes
+2628,Bolivia,2011,17.9,Both sexes
+2631,Bolivia,2012,18.3,Both sexes
+2634,Bolivia,2013,18.8,Both sexes
+2637,Bolivia,2014,19.3,Both sexes
+2640,Bolivia,2015,19.7,Both sexes
+2643,Bolivia,2016,20.2,Both sexes
+2745,Bosnia and Herzegovina,2008,14.9,Both sexes
+2748,Bosnia and Herzegovina,2009,15.3,Both sexes
+2751,Bosnia and Herzegovina,2010,15.6,Both sexes
+2754,Bosnia and Herzegovina,2011,16.0,Both sexes
+2757,Bosnia and Herzegovina,2012,16.3,Both sexes
+2760,Bosnia and Herzegovina,2013,16.7,Both sexes
+2763,Bosnia and Herzegovina,2014,17.1,Both sexes
+2766,Bosnia and Herzegovina,2015,17.5,Both sexes
+2769,Bosnia and Herzegovina,2016,17.9,Both sexes
+2871,Botswana,2008,16.2,Both sexes
+2874,Botswana,2009,16.5,Both sexes
+2877,Botswana,2010,16.9,Both sexes
+2880,Botswana,2011,17.2,Both sexes
+2883,Botswana,2012,17.5,Both sexes
+2886,Botswana,2013,17.9,Both sexes
+2889,Botswana,2014,18.2,Both sexes
+2892,Botswana,2015,18.6,Both sexes
+2895,Botswana,2016,18.9,Both sexes
+2997,Brazil,2008,18.2,Both sexes
+3000,Brazil,2009,18.7,Both sexes
+3003,Brazil,2010,19.2,Both sexes
+3006,Brazil,2011,19.6,Both sexes
+3009,Brazil,2012,20.1,Both sexes
+3012,Brazil,2013,20.6,Both sexes
+3015,Brazil,2014,21.1,Both sexes
+3018,Brazil,2015,21.6,Both sexes
+3021,Brazil,2016,22.1,Both sexes
+3123,Brunei Darussalam,2008,10.2,Both sexes
+3126,Brunei Darussalam,2009,10.7,Both sexes
+3129,Brunei Darussalam,2010,11.1,Both sexes
+3132,Brunei Darussalam,2011,11.6,Both sexes
+3135,Brunei Darussalam,2012,12.1,Both sexes
+3138,Brunei Darussalam,2013,12.6,Both sexes
+3141,Brunei Darussalam,2014,13.1,Both sexes
+3144,Brunei Darussalam,2015,13.6,Both sexes
+3147,Brunei Darussalam,2016,14.1,Both sexes
+3249,Bulgaria,2008,21.6,Both sexes
+3252,Bulgaria,2009,22.0,Both sexes
+3255,Bulgaria,2010,22.4,Both sexes
+3258,Bulgaria,2011,22.8,Both sexes
+3261,Bulgaria,2012,23.2,Both sexes
+3264,Bulgaria,2013,23.7,Both sexes
+3267,Bulgaria,2014,24.1,Both sexes
+3270,Bulgaria,2015,24.5,Both sexes
+3273,Bulgaria,2016,25.0,Both sexes
+3375,Burkina Faso,2008,3.5,Both sexes
+3378,Burkina Faso,2009,3.7,Both sexes
+3381,Burkina Faso,2010,4.0,Both sexes
+3384,Burkina Faso,2011,4.2,Both sexes
+3387,Burkina Faso,2012,4.5,Both sexes
+3390,Burkina Faso,2013,4.7,Both sexes
+3393,Burkina Faso,2014,5.0,Both sexes
+3396,Burkina Faso,2015,5.3,Both sexes
+3399,Burkina Faso,2016,5.6,Both sexes
+3501,Burundi,2008,3.6,Both sexes
+3504,Burundi,2009,3.8,Both sexes
+3507,Burundi,2010,4.0,Both sexes
+3510,Burundi,2011,4.2,Both sexes
+3513,Burundi,2012,4.4,Both sexes
+3516,Burundi,2013,4.6,Both sexes
+3519,Burundi,2014,4.9,Both sexes
+3522,Burundi,2015,5.1,Both sexes
+3525,Burundi,2016,5.4,Both sexes
+3627,Cabo Verde,2008,8.9,Both sexes
+3630,Cabo Verde,2009,9.2,Both sexes
+3633,Cabo Verde,2010,9.6,Both sexes
+3636,Cabo Verde,2011,9.9,Both sexes
+3639,Cabo Verde,2012,10.3,Both sexes
+3642,Cabo Verde,2013,10.7,Both sexes
+3645,Cabo Verde,2014,11.0,Both sexes
+3648,Cabo Verde,2015,11.4,Both sexes
+3651,Cabo Verde,2016,11.8,Both sexes
+3753,Cambodia,2008,2.4,Both sexes
+3756,Cambodia,2009,2.6,Both sexes
+3759,Cambodia,2010,2.7,Both sexes
+3762,Cambodia,2011,2.9,Both sexes
+3765,Cambodia,2012,3.1,Both sexes
+3768,Cambodia,2013,3.3,Both sexes
+3771,Cambodia,2014,3.5,Both sexes
+3774,Cambodia,2015,3.7,Both sexes
+3777,Cambodia,2016,3.9,Both sexes
+3879,Cameroon,2008,8.3,Both sexes
+3882,Cameroon,2009,8.7,Both sexes
+3885,Cameroon,2010,9.0,Both sexes
+3888,Cameroon,2011,9.4,Both sexes
+3891,Cameroon,2012,9.8,Both sexes
+3894,Cameroon,2013,10.2,Both sexes
+3897,Cameroon,2014,10.6,Both sexes
+3900,Cameroon,2015,11.0,Both sexes
+3903,Cameroon,2016,11.4,Both sexes
+4005,Canada,2008,24.9,Both sexes
+4008,Canada,2009,25.5,Both sexes
+4011,Canada,2010,26.0,Both sexes
+4014,Canada,2011,26.6,Both sexes
+4017,Canada,2012,27.1,Both sexes
+4020,Canada,2013,27.7,Both sexes
+4023,Canada,2014,28.3,Both sexes
+4026,Canada,2015,28.8,Both sexes
+4029,Canada,2016,29.4,Both sexes
+4131,Central African Republic,2008,5.4,Both sexes
+4134,Central African Republic,2009,5.6,Both sexes
+4137,Central African Republic,2010,5.9,Both sexes
+4140,Central African Republic,2011,6.1,Both sexes
+4143,Central African Republic,2012,6.4,Both sexes
+4146,Central African Republic,2013,6.6,Both sexes
+4149,Central African Republic,2014,6.9,Both sexes
+4152,Central African Republic,2015,7.2,Both sexes
+4155,Central African Republic,2016,7.5,Both sexes
+4257,Chad,2008,4.3,Both sexes
+4260,Chad,2009,4.5,Both sexes
+4263,Chad,2010,4.7,Both sexes
+4266,Chad,2011,4.9,Both sexes
+4269,Chad,2012,5.1,Both sexes
+4272,Chad,2013,5.3,Both sexes
+4275,Chad,2014,5.6,Both sexes
+4278,Chad,2015,5.8,Both sexes
+4281,Chad,2016,6.1,Both sexes
+4383,Chile,2008,24.2,Both sexes
+4386,Chile,2009,24.7,Both sexes
+4389,Chile,2010,25.1,Both sexes
+4392,Chile,2011,25.6,Both sexes
+4395,Chile,2012,26.1,Both sexes
+4398,Chile,2013,26.5,Both sexes
+4401,Chile,2014,27.0,Both sexes
+4404,Chile,2015,27.5,Both sexes
+4407,Chile,2016,28.0,Both sexes
+4509,China,2008,3.9,Both sexes
+4512,China,2009,4.1,Both sexes
+4515,China,2010,4.4,Both sexes
+4518,China,2011,4.7,Both sexes
+4521,China,2012,5.0,Both sexes
+4524,China,2013,5.2,Both sexes
+4527,China,2014,5.5,Both sexes
+4530,China,2015,5.9,Both sexes
+4533,China,2016,6.2,Both sexes
+4635,Colombia,2008,18.7,Both sexes
+4638,Colombia,2009,19.1,Both sexes
+4641,Colombia,2010,19.5,Both sexes
+4644,Colombia,2011,20.0,Both sexes
+4647,Colombia,2012,20.4,Both sexes
+4650,Colombia,2013,20.9,Both sexes
+4653,Colombia,2014,21.4,Both sexes
+4656,Colombia,2015,21.9,Both sexes
+4659,Colombia,2016,22.3,Both sexes
+4761,Comoros,2008,5.7,Both sexes
+4764,Comoros,2009,5.9,Both sexes
+4767,Comoros,2010,6.2,Both sexes
+4770,Comoros,2011,6.4,Both sexes
+4773,Comoros,2012,6.7,Both sexes
+4776,Comoros,2013,6.9,Both sexes
+4779,Comoros,2014,7.2,Both sexes
+4782,Comoros,2015,7.5,Both sexes
+4785,Comoros,2016,7.8,Both sexes
+4887,Democratic Republic of the Congo,2008,7.1,Both sexes
+4890,Democratic Republic of the Congo,2009,7.4,Both sexes
+4893,Democratic Republic of the Congo,2010,7.7,Both sexes
+4896,Democratic Republic of the Congo,2011,8.0,Both sexes
+4899,Democratic Republic of the Congo,2012,8.3,Both sexes
+4902,Democratic Republic of the Congo,2013,8.6,Both sexes
+4905,Democratic Republic of the Congo,2014,8.9,Both sexes
+4908,Democratic Republic of the Congo,2015,9.2,Both sexes
+4911,Democratic Republic of the Congo,2016,9.6,Both sexes
+5013,Cook Islands,2008,51.3,Both sexes
+5016,Cook Islands,2009,52.0,Both sexes
+5019,Cook Islands,2010,52.6,Both sexes
+5022,Cook Islands,2011,53.2,Both sexes
+5025,Cook Islands,2012,53.8,Both sexes
+5028,Cook Islands,2013,54.3,Both sexes
+5031,Cook Islands,2014,54.9,Both sexes
+5034,Cook Islands,2015,55.4,Both sexes
+5037,Cook Islands,2016,55.9,Both sexes
+5139,Costa Rica,2008,20.0,Both sexes
+5142,Costa Rica,2009,20.7,Both sexes
+5145,Costa Rica,2010,21.4,Both sexes
+5148,Costa Rica,2011,22.2,Both sexes
+5151,Costa Rica,2012,22.9,Both sexes
+5154,Costa Rica,2013,23.6,Both sexes
+5157,Costa Rica,2014,24.3,Both sexes
+5160,Costa Rica,2015,25.0,Both sexes
+5163,Costa Rica,2016,25.7,Both sexes
+5265,Croatia,2008,20.7,Both sexes
+5268,Croatia,2009,21.1,Both sexes
+5271,Croatia,2010,21.6,Both sexes
+5274,Croatia,2011,22.0,Both sexes
+5277,Croatia,2012,22.5,Both sexes
+5280,Croatia,2013,22.9,Both sexes
+5283,Croatia,2014,23.4,Both sexes
+5286,Croatia,2015,23.9,Both sexes
+5289,Croatia,2016,24.4,Both sexes
+5391,Cuba,2008,20.8,Both sexes
+5394,Cuba,2009,21.2,Both sexes
+5397,Cuba,2010,21.7,Both sexes
+5400,Cuba,2011,22.2,Both sexes
+5403,Cuba,2012,22.6,Both sexes
+5406,Cuba,2013,23.1,Both sexes
+5409,Cuba,2014,23.6,Both sexes
+5412,Cuba,2015,24.1,Both sexes
+5415,Cuba,2016,24.6,Both sexes
+5517,Cyprus,2008,19.1,Both sexes
+5520,Cyprus,2009,19.4,Both sexes
+5523,Cyprus,2010,19.8,Both sexes
+5526,Cyprus,2011,20.1,Both sexes
+5529,Cyprus,2012,20.4,Both sexes
+5532,Cyprus,2013,20.7,Both sexes
+5535,Cyprus,2014,21.1,Both sexes
+5538,Cyprus,2015,21.4,Both sexes
+5541,Cyprus,2016,21.8,Both sexes
+5643,Czechia,2008,23.2,Both sexes
+5646,Czechia,2009,23.6,Both sexes
+5649,Czechia,2010,23.9,Both sexes
+5652,Czechia,2011,24.2,Both sexes
+5655,Czechia,2012,24.5,Both sexes
+5658,Czechia,2013,24.9,Both sexes
+5661,Czechia,2014,25.2,Both sexes
+5664,Czechia,2015,25.6,Both sexes
+5667,Czechia,2016,26.0,Both sexes
+5769,Côte d'Ivoire,2008,7.2,Both sexes
+5772,Côte d'Ivoire,2009,7.6,Both sexes
+5775,Côte d'Ivoire,2010,7.9,Both sexes
+5778,Côte d'Ivoire,2011,8.3,Both sexes
+5781,Côte d'Ivoire,2012,8.7,Both sexes
+5784,Côte d'Ivoire,2013,9.0,Both sexes
+5787,Côte d'Ivoire,2014,9.4,Both sexes
+5790,Côte d'Ivoire,2015,9.8,Both sexes
+5793,Côte d'Ivoire,2016,10.3,Both sexes
+5895,South Korea,2008,5.2,Both sexes
+5898,South Korea,2009,5.4,Both sexes
+5901,South Korea,2010,5.5,Both sexes
+5904,South Korea,2011,5.7,Both sexes
+5907,South Korea,2012,5.9,Both sexes
+5910,South Korea,2013,6.1,Both sexes
+5913,South Korea,2014,6.3,Both sexes
+5916,South Korea,2015,6.5,Both sexes
+5919,South Korea,2016,6.8,Both sexes
+6021,Democratic Republic of the Congo,2008,4.6,Both sexes
+6024,Democratic Republic of the Congo,2009,4.8,Both sexes
+6027,Democratic Republic of the Congo,2010,5.1,Both sexes
+6030,Democratic Republic of the Congo,2011,5.3,Both sexes
+6033,Democratic Republic of the Congo,2012,5.6,Both sexes
+6036,Democratic Republic of the Congo,2013,5.9,Both sexes
+6039,Democratic Republic of the Congo,2014,6.1,Both sexes
+6042,Democratic Republic of the Congo,2015,6.4,Both sexes
+6045,Democratic Republic of the Congo,2016,6.7,Both sexes
+6147,Denmark,2008,16.7,Both sexes
+6150,Denmark,2009,17.1,Both sexes
+6153,Denmark,2010,17.4,Both sexes
+6156,Denmark,2011,17.8,Both sexes
+6159,Denmark,2012,18.1,Both sexes
+6162,Denmark,2013,18.5,Both sexes
+6165,Denmark,2014,18.9,Both sexes
+6168,Denmark,2015,19.3,Both sexes
+6171,Denmark,2016,19.7,Both sexes
+6273,Djibouti,2008,11.2,Both sexes
+6276,Djibouti,2009,11.5,Both sexes
+6279,Djibouti,2010,11.8,Both sexes
+6282,Djibouti,2011,12.0,Both sexes
+6285,Djibouti,2012,12.3,Both sexes
+6288,Djibouti,2013,12.6,Both sexes
+6291,Djibouti,2014,12.9,Both sexes
+6294,Djibouti,2015,13.2,Both sexes
+6297,Djibouti,2016,13.5,Both sexes
+6399,Dominica,2008,23.4,Both sexes
+6402,Dominica,2009,23.9,Both sexes
+6405,Dominica,2010,24.5,Both sexes
+6408,Dominica,2011,25.0,Both sexes
+6411,Dominica,2012,25.6,Both sexes
+6414,Dominica,2013,26.2,Both sexes
+6417,Dominica,2014,26.8,Both sexes
+6420,Dominica,2015,27.3,Both sexes
+6423,Dominica,2016,27.9,Both sexes
+6525,Dominican Republic,2008,21.5,Both sexes
+6528,Dominican Republic,2009,22.2,Both sexes
+6531,Dominican Republic,2010,23.0,Both sexes
+6534,Dominican Republic,2011,23.8,Both sexes
+6537,Dominican Republic,2012,24.5,Both sexes
+6540,Dominican Republic,2013,25.3,Both sexes
+6543,Dominican Republic,2014,26.1,Both sexes
+6546,Dominican Republic,2015,26.9,Both sexes
+6549,Dominican Republic,2016,27.6,Both sexes
+6651,Ecuador,2008,16.4,Both sexes
+6654,Ecuador,2009,16.8,Both sexes
+6657,Ecuador,2010,17.2,Both sexes
+6660,Ecuador,2011,17.6,Both sexes
+6663,Ecuador,2012,18.1,Both sexes
+6666,Ecuador,2013,18.5,Both sexes
+6669,Ecuador,2014,19.0,Both sexes
+6672,Ecuador,2015,19.4,Both sexes
+6675,Ecuador,2016,19.9,Both sexes
+6777,Egypt,2008,26.7,Both sexes
+6780,Egypt,2009,27.4,Both sexes
+6783,Egypt,2010,28.0,Both sexes
+6786,Egypt,2011,28.6,Both sexes
+6789,Egypt,2012,29.3,Both sexes
+6792,Egypt,2013,30.0,Both sexes
+6795,Egypt,2014,30.6,Both sexes
+6798,Egypt,2015,31.3,Both sexes
+6801,Egypt,2016,32.0,Both sexes
+6903,El Salvador,2008,20.0,Both sexes
+6906,El Salvador,2009,20.6,Both sexes
+6909,El Salvador,2010,21.1,Both sexes
+6912,El Salvador,2011,21.7,Both sexes
+6915,El Salvador,2012,22.2,Both sexes
+6918,El Salvador,2013,22.8,Both sexes
+6921,El Salvador,2014,23.4,Both sexes
+6924,El Salvador,2015,24.0,Both sexes
+6927,El Salvador,2016,24.6,Both sexes
+7029,Guinea,2008,5.8,Both sexes
+7032,Guinea,2009,6.0,Both sexes
+7035,Guinea,2010,6.3,Both sexes
+7038,Guinea,2011,6.5,Both sexes
+7041,Guinea,2012,6.8,Both sexes
+7044,Guinea,2013,7.1,Both sexes
+7047,Guinea,2014,7.4,Both sexes
+7050,Guinea,2015,7.7,Both sexes
+7053,Guinea,2016,8.0,Both sexes
+7155,Eritrea,2008,3.4,Both sexes
+7158,Eritrea,2009,3.5,Both sexes
+7161,Eritrea,2010,3.7,Both sexes
+7164,Eritrea,2011,3.9,Both sexes
+7167,Eritrea,2012,4.1,Both sexes
+7170,Eritrea,2013,4.3,Both sexes
+7173,Eritrea,2014,4.5,Both sexes
+7176,Eritrea,2015,4.8,Both sexes
+7179,Eritrea,2016,5.0,Both sexes
+7281,Estonia,2008,19.1,Both sexes
+7284,Estonia,2009,19.4,Both sexes
+7287,Estonia,2010,19.6,Both sexes
+7290,Estonia,2011,19.9,Both sexes
+7293,Estonia,2012,20.1,Both sexes
+7296,Estonia,2013,20.4,Both sexes
+7299,Estonia,2014,20.7,Both sexes
+7302,Estonia,2015,20.9,Both sexes
+7305,Estonia,2016,21.2,Both sexes
+7407,Eswatini,2008,13.4,Both sexes
+7410,Eswatini,2009,13.8,Both sexes
+7413,Eswatini,2010,14.1,Both sexes
+7416,Eswatini,2011,14.5,Both sexes
+7419,Eswatini,2012,14.9,Both sexes
+7422,Eswatini,2013,15.3,Both sexes
+7425,Eswatini,2014,15.7,Both sexes
+7428,Eswatini,2015,16.1,Both sexes
+7431,Eswatini,2016,16.5,Both sexes
+7533,Ethiopia,2008,2.9,Both sexes
+7536,Ethiopia,2009,3.1,Both sexes
+7539,Ethiopia,2010,3.3,Both sexes
+7542,Ethiopia,2011,3.4,Both sexes
+7545,Ethiopia,2012,3.6,Both sexes
+7548,Ethiopia,2013,3.8,Both sexes
+7551,Ethiopia,2014,4.0,Both sexes
+7554,Ethiopia,2015,4.3,Both sexes
+7557,Ethiopia,2016,4.5,Both sexes
+7659,Fiji,2008,25.4,Both sexes
+7662,Fiji,2009,26.0,Both sexes
+7665,Fiji,2010,26.5,Both sexes
+7668,Fiji,2011,27.1,Both sexes
+7671,Fiji,2012,27.7,Both sexes
+7674,Fiji,2013,28.3,Both sexes
+7677,Fiji,2014,28.9,Both sexes
+7680,Fiji,2015,29.5,Both sexes
+7683,Fiji,2016,30.2,Both sexes
+7785,Finland,2008,19.3,Both sexes
+7788,Finland,2009,19.6,Both sexes
+7791,Finland,2010,20.0,Both sexes
+7794,Finland,2011,20.3,Both sexes
+7797,Finland,2012,20.7,Both sexes
+7800,Finland,2013,21.1,Both sexes
+7803,Finland,2014,21.4,Both sexes
+7806,Finland,2015,21.8,Both sexes
+7809,Finland,2016,22.2,Both sexes
+7911,France,2008,18.6,Both sexes
+7914,France,2009,19.0,Both sexes
+7917,France,2010,19.3,Both sexes
+7920,France,2011,19.7,Both sexes
+7923,France,2012,20.1,Both sexes
+7926,France,2013,20.4,Both sexes
+7929,France,2014,20.8,Both sexes
+7932,France,2015,21.2,Both sexes
+7935,France,2016,21.6,Both sexes
+8037,Gabon,2008,12.1,Both sexes
+8040,Gabon,2009,12.5,Both sexes
+8043,Gabon,2010,12.8,Both sexes
+8046,Gabon,2011,13.2,Both sexes
+8049,Gabon,2012,13.5,Both sexes
+8052,Gabon,2013,13.9,Both sexes
+8055,Gabon,2014,14.3,Both sexes
+8058,Gabon,2015,14.6,Both sexes
+8061,Gabon,2016,15.0,Both sexes
+8163,Gambia,2008,7.3,Both sexes
+8166,Gambia,2009,7.6,Both sexes
+8169,Gambia,2010,8.0,Both sexes
+8172,Gambia,2011,8.4,Both sexes
+8175,Gambia,2012,8.7,Both sexes
+8178,Gambia,2013,9.1,Both sexes
+8181,Gambia,2014,9.5,Both sexes
+8184,Gambia,2015,9.9,Both sexes
+8187,Gambia,2016,10.3,Both sexes
+8289,Georgia,2008,17.1,Both sexes
+8292,Georgia,2009,17.6,Both sexes
+8295,Georgia,2010,18.2,Both sexes
+8298,Georgia,2011,18.7,Both sexes
+8301,Georgia,2012,19.3,Both sexes
+8304,Georgia,2013,19.9,Both sexes
+8307,Georgia,2014,20.5,Both sexes
+8310,Georgia,2015,21.1,Both sexes
+8313,Georgia,2016,21.7,Both sexes
+8415,Germany,2008,19.2,Both sexes
+8418,Germany,2009,19.5,Both sexes
+8421,Germany,2010,19.9,Both sexes
+8424,Germany,2011,20.3,Both sexes
+8427,Germany,2012,20.7,Both sexes
+8430,Germany,2013,21.1,Both sexes
+8433,Germany,2014,21.5,Both sexes
+8436,Germany,2015,21.9,Both sexes
+8439,Germany,2016,22.3,Both sexes
+8541,Ghana,2008,8.0,Both sexes
+8544,Ghana,2009,8.4,Both sexes
+8547,Ghana,2010,8.7,Both sexes
+8550,Ghana,2011,9.1,Both sexes
+8553,Ghana,2012,9.4,Both sexes
+8556,Ghana,2013,9.8,Both sexes
+8559,Ghana,2014,10.1,Both sexes
+8562,Ghana,2015,10.5,Both sexes
+8565,Ghana,2016,10.9,Both sexes
+8667,Greece,2008,21.6,Both sexes
+8670,Greece,2009,22.0,Both sexes
+8673,Greece,2010,22.4,Both sexes
+8676,Greece,2011,22.8,Both sexes
+8679,Greece,2012,23.2,Both sexes
+8682,Greece,2013,23.6,Both sexes
+8685,Greece,2014,24.0,Both sexes
+8688,Greece,2015,24.4,Both sexes
+8691,Greece,2016,24.9,Both sexes
+8793,Grenada,2008,17.1,Both sexes
+8796,Grenada,2009,17.6,Both sexes
+8799,Grenada,2010,18.1,Both sexes
+8802,Grenada,2011,18.6,Both sexes
+8805,Grenada,2012,19.1,Both sexes
+8808,Grenada,2013,19.6,Both sexes
+8811,Grenada,2014,20.2,Both sexes
+8814,Grenada,2015,20.7,Both sexes
+8817,Grenada,2016,21.3,Both sexes
+8919,Guatemala,2008,16.8,Both sexes
+8922,Guatemala,2009,17.3,Both sexes
+8925,Guatemala,2010,17.8,Both sexes
+8928,Guatemala,2011,18.4,Both sexes
+8931,Guatemala,2012,18.9,Both sexes
+8934,Guatemala,2013,19.5,Both sexes
+8937,Guatemala,2014,20.0,Both sexes
+8940,Guatemala,2015,20.6,Both sexes
+8943,Guatemala,2016,21.2,Both sexes
+9045,Guinea,2008,5.4,Both sexes
+9048,Guinea,2009,5.6,Both sexes
+9051,Guinea,2010,5.9,Both sexes
+9054,Guinea,2011,6.2,Both sexes
+9057,Guinea,2012,6.4,Both sexes
+9060,Guinea,2013,6.7,Both sexes
+9063,Guinea,2014,7.0,Both sexes
+9066,Guinea,2015,7.4,Both sexes
+9069,Guinea,2016,7.7,Both sexes
+9171,Guinea-Bissau,2008,6.6,Both sexes
+9174,Guinea-Bissau,2009,6.9,Both sexes
+9177,Guinea-Bissau,2010,7.2,Both sexes
+9180,Guinea-Bissau,2011,7.6,Both sexes
+9183,Guinea-Bissau,2012,7.9,Both sexes
+9186,Guinea-Bissau,2013,8.3,Both sexes
+9189,Guinea-Bissau,2014,8.7,Both sexes
+9192,Guinea-Bissau,2015,9.1,Both sexes
+9195,Guinea-Bissau,2016,9.5,Both sexes
+9297,Guyana,2008,15.8,Both sexes
+9300,Guyana,2009,16.3,Both sexes
+9303,Guyana,2010,16.8,Both sexes
+9306,Guyana,2011,17.4,Both sexes
+9309,Guyana,2012,17.9,Both sexes
+9312,Guyana,2013,18.4,Both sexes
+9315,Guyana,2014,19.0,Both sexes
+9318,Guyana,2015,19.6,Both sexes
+9321,Guyana,2016,20.2,Both sexes
+9423,Haiti,2008,16.2,Both sexes
+9426,Haiti,2009,16.9,Both sexes
+9429,Haiti,2010,17.7,Both sexes
+9432,Haiti,2011,18.6,Both sexes
+9435,Haiti,2012,19.4,Both sexes
+9438,Haiti,2013,20.2,Both sexes
+9441,Haiti,2014,21.0,Both sexes
+9444,Haiti,2015,21.8,Both sexes
+9447,Haiti,2016,22.7,Both sexes
+9549,Honduras,2008,16.7,Both sexes
+9552,Honduras,2009,17.2,Both sexes
+9555,Honduras,2010,17.8,Both sexes
+9558,Honduras,2011,18.4,Both sexes
+9561,Honduras,2012,19.0,Both sexes
+9564,Honduras,2013,19.5,Both sexes
+9567,Honduras,2014,20.1,Both sexes
+9570,Honduras,2015,20.8,Both sexes
+9573,Honduras,2016,21.4,Both sexes
+9675,Hungary,2008,22.6,Both sexes
+9678,Hungary,2009,23.1,Both sexes
+9681,Hungary,2010,23.5,Both sexes
+9684,Hungary,2011,24.0,Both sexes
+9687,Hungary,2012,24.5,Both sexes
+9690,Hungary,2013,25.0,Both sexes
+9693,Hungary,2014,25.4,Both sexes
+9696,Hungary,2015,25.9,Both sexes
+9699,Hungary,2016,26.4,Both sexes
+9801,Iceland,2008,18.9,Both sexes
+9804,Iceland,2009,19.2,Both sexes
+9807,Iceland,2010,19.6,Both sexes
+9810,Iceland,2011,20.0,Both sexes
+9813,Iceland,2012,20.3,Both sexes
+9816,Iceland,2013,20.7,Both sexes
+9819,Iceland,2014,21.1,Both sexes
+9822,Iceland,2015,21.5,Both sexes
+9825,Iceland,2016,21.9,Both sexes
+9927,India,2008,2.5,Both sexes
+9930,India,2009,2.7,Both sexes
+9933,India,2010,2.8,Both sexes
+9936,India,2011,3.0,Both sexes
+9939,India,2012,3.1,Both sexes
+9942,India,2013,3.3,Both sexes
+9945,India,2014,3.5,Both sexes
+9948,India,2015,3.7,Both sexes
+9951,India,2016,3.9,Both sexes
+10053,Indonesia,2008,4.3,Both sexes
+10056,Indonesia,2009,4.6,Both sexes
+10059,Indonesia,2010,4.9,Both sexes
+10062,Indonesia,2011,5.2,Both sexes
+10065,Indonesia,2012,5.5,Both sexes
+10068,Indonesia,2013,5.8,Both sexes
+10071,Indonesia,2014,6.1,Both sexes
+10074,Indonesia,2015,6.5,Both sexes
+10077,Indonesia,2016,6.9,Both sexes
+10179,Iran,2008,20.9,Both sexes
+10182,Iran,2009,21.5,Both sexes
+10185,Iran,2010,22.1,Both sexes
+10188,Iran,2011,22.7,Both sexes
+10191,Iran,2012,23.3,Both sexes
+10194,Iran,2013,24.0,Both sexes
+10197,Iran,2014,24.6,Both sexes
+10200,Iran,2015,25.2,Both sexes
+10203,Iran,2016,25.8,Both sexes
+10305,Iraq,2008,25.9,Both sexes
+10308,Iraq,2009,26.4,Both sexes
+10311,Iraq,2010,26.9,Both sexes
+10314,Iraq,2011,27.5,Both sexes
+10317,Iraq,2012,28.0,Both sexes
+10320,Iraq,2013,28.6,Both sexes
+10323,Iraq,2014,29.2,Both sexes
+10326,Iraq,2015,29.8,Both sexes
+10329,Iraq,2016,30.4,Both sexes
+10431,Ireland,2008,20.4,Both sexes
+10434,Ireland,2009,21.0,Both sexes
+10437,Ireland,2010,21.6,Both sexes
+10440,Ireland,2011,22.2,Both sexes
+10443,Ireland,2012,22.8,Both sexes
+10446,Ireland,2013,23.4,Both sexes
+10449,Ireland,2014,24.0,Both sexes
+10452,Ireland,2015,24.7,Both sexes
+10455,Ireland,2016,25.3,Both sexes
+10557,Israel,2008,23.6,Both sexes
+10560,Israel,2009,23.9,Both sexes
+10563,Israel,2010,24.2,Both sexes
+10566,Israel,2011,24.5,Both sexes
+10569,Israel,2012,24.8,Both sexes
+10572,Israel,2013,25.1,Both sexes
+10575,Israel,2014,25.5,Both sexes
+10578,Israel,2015,25.8,Both sexes
+10581,Israel,2016,26.1,Both sexes
+10683,Italy,2008,17.5,Both sexes
+10686,Italy,2009,17.8,Both sexes
+10689,Italy,2010,18.1,Both sexes
+10692,Italy,2011,18.3,Both sexes
+10695,Italy,2012,18.7,Both sexes
+10698,Italy,2013,19.0,Both sexes
+10701,Italy,2014,19.3,Both sexes
+10704,Italy,2015,19.6,Both sexes
+10707,Italy,2016,19.9,Both sexes
+10809,Jamaica,2008,20.0,Both sexes
+10812,Jamaica,2009,20.6,Both sexes
+10815,Jamaica,2010,21.1,Both sexes
+10818,Jamaica,2011,21.7,Both sexes
+10821,Jamaica,2012,22.3,Both sexes
+10824,Jamaica,2013,22.9,Both sexes
+10827,Jamaica,2014,23.5,Both sexes
+10830,Jamaica,2015,24.1,Both sexes
+10833,Jamaica,2016,24.7,Both sexes
+10935,Japan,2008,3.0,Both sexes
+10938,Japan,2009,3.2,Both sexes
+10941,Japan,2010,3.3,Both sexes
+10944,Japan,2011,3.5,Both sexes
+10947,Japan,2012,3.6,Both sexes
+10950,Japan,2013,3.8,Both sexes
+10953,Japan,2014,3.9,Both sexes
+10956,Japan,2015,4.1,Both sexes
+10959,Japan,2016,4.3,Both sexes
+11061,Jordan,2008,30.8,Both sexes
+11064,Jordan,2009,31.4,Both sexes
+11067,Jordan,2010,31.9,Both sexes
+11070,Jordan,2011,32.5,Both sexes
+11073,Jordan,2012,33.1,Both sexes
+11076,Jordan,2013,33.7,Both sexes
+11079,Jordan,2014,34.3,Both sexes
+11082,Jordan,2015,34.9,Both sexes
+11085,Jordan,2016,35.5,Both sexes
+11187,Kazakhstan,2008,17.1,Both sexes
+11190,Kazakhstan,2009,17.6,Both sexes
+11193,Kazakhstan,2010,18.0,Both sexes
+11196,Kazakhstan,2011,18.5,Both sexes
+11199,Kazakhstan,2012,19.0,Both sexes
+11202,Kazakhstan,2013,19.5,Both sexes
+11205,Kazakhstan,2014,20.0,Both sexes
+11208,Kazakhstan,2015,20.5,Both sexes
+11211,Kazakhstan,2016,21.0,Both sexes
+11313,Kenya,2008,4.9,Both sexes
+11316,Kenya,2009,5.1,Both sexes
+11319,Kenya,2010,5.4,Both sexes
+11322,Kenya,2011,5.6,Both sexes
+11325,Kenya,2012,5.9,Both sexes
+11328,Kenya,2013,6.2,Both sexes
+11331,Kenya,2014,6.5,Both sexes
+11334,Kenya,2015,6.8,Both sexes
+11337,Kenya,2016,7.1,Both sexes
+11439,Kiribati,2008,40.9,Both sexes
+11442,Kiribati,2009,41.6,Both sexes
+11445,Kiribati,2010,42.2,Both sexes
+11448,Kiribati,2011,42.8,Both sexes
+11451,Kiribati,2012,43.5,Both sexes
+11454,Kiribati,2013,44.1,Both sexes
+11457,Kiribati,2014,44.7,Both sexes
+11460,Kiribati,2015,45.3,Both sexes
+11463,Kiribati,2016,46.0,Both sexes
+11565,Kuwait,2008,33.5,Both sexes
+11568,Kuwait,2009,34.0,Both sexes
+11571,Kuwait,2010,34.6,Both sexes
+11574,Kuwait,2011,35.1,Both sexes
+11577,Kuwait,2012,35.6,Both sexes
+11580,Kuwait,2013,36.2,Both sexes
+11583,Kuwait,2014,36.8,Both sexes
+11586,Kuwait,2015,37.4,Both sexes
+11589,Kuwait,2016,37.9,Both sexes
+11691,Kyrgyzstan,2008,12.5,Both sexes
+11694,Kyrgyzstan,2009,13.0,Both sexes
+11697,Kyrgyzstan,2010,13.4,Both sexes
+11700,Kyrgyzstan,2011,13.9,Both sexes
+11703,Kyrgyzstan,2012,14.4,Both sexes
+11706,Kyrgyzstan,2013,14.9,Both sexes
+11709,Kyrgyzstan,2014,15.5,Both sexes
+11712,Kyrgyzstan,2015,16.0,Both sexes
+11715,Kyrgyzstan,2016,16.6,Both sexes
+11817,Lao People's Democratic Republic,2008,3.1,Both sexes
+11820,Lao People's Democratic Republic,2009,3.3,Both sexes
+11823,Lao People's Democratic Republic,2010,3.5,Both sexes
+11826,Lao People's Democratic Republic,2011,3.8,Both sexes
+11829,Lao People's Democratic Republic,2012,4.1,Both sexes
+11832,Lao People's Democratic Republic,2013,4.4,Both sexes
+11835,Lao People's Democratic Republic,2014,4.7,Both sexes
+11838,Lao People's Democratic Republic,2015,5.0,Both sexes
+11841,Lao People's Democratic Republic,2016,5.3,Both sexes
+11943,Latvia,2008,21.3,Both sexes
+11946,Latvia,2009,21.5,Both sexes
+11949,Latvia,2010,21.8,Both sexes
+11952,Latvia,2011,22.1,Both sexes
+11955,Latvia,2012,22.4,Both sexes
+11958,Latvia,2013,22.7,Both sexes
+11961,Latvia,2014,23.0,Both sexes
+11964,Latvia,2015,23.3,Both sexes
+11967,Latvia,2016,23.6,Both sexes
+12069,Lebanon,2008,27.7,Both sexes
+12072,Lebanon,2009,28.2,Both sexes
+12075,Lebanon,2010,28.7,Both sexes
+12078,Lebanon,2011,29.2,Both sexes
+12081,Lebanon,2012,29.7,Both sexes
+12084,Lebanon,2013,30.3,Both sexes
+12087,Lebanon,2014,30.8,Both sexes
+12090,Lebanon,2015,31.4,Both sexes
+12093,Lebanon,2016,32.0,Both sexes
+12195,Lesotho,2008,13.2,Both sexes
+12198,Lesotho,2009,13.6,Both sexes
+12201,Lesotho,2010,14.1,Both sexes
+12204,Lesotho,2011,14.5,Both sexes
+12207,Lesotho,2012,14.9,Both sexes
+12210,Lesotho,2013,15.3,Both sexes
+12213,Lesotho,2014,15.7,Both sexes
+12216,Lesotho,2015,16.2,Both sexes
+12219,Lesotho,2016,16.6,Both sexes
+12321,Liberia,2008,7.4,Both sexes
+12324,Liberia,2009,7.7,Both sexes
+12327,Liberia,2010,8.0,Both sexes
+12330,Liberia,2011,8.3,Both sexes
+12333,Liberia,2012,8.6,Both sexes
+12336,Liberia,2013,8.9,Both sexes
+12339,Liberia,2014,9.2,Both sexes
+12342,Liberia,2015,9.6,Both sexes
+12345,Liberia,2016,9.9,Both sexes
+12447,Libya,2008,27.6,Both sexes
+12450,Libya,2009,28.2,Both sexes
+12453,Libya,2010,28.8,Both sexes
+12456,Libya,2011,29.4,Both sexes
+12459,Libya,2012,30.0,Both sexes
+12462,Libya,2013,30.6,Both sexes
+12465,Libya,2014,31.3,Both sexes
+12468,Libya,2015,31.9,Both sexes
+12471,Libya,2016,32.5,Both sexes
+12573,Lithuania,2008,23.8,Both sexes
+12576,Lithuania,2009,24.1,Both sexes
+12579,Lithuania,2010,24.4,Both sexes
+12582,Lithuania,2011,24.7,Both sexes
+12585,Lithuania,2012,25.0,Both sexes
+12588,Lithuania,2013,25.3,Both sexes
+12591,Lithuania,2014,25.6,Both sexes
+12594,Lithuania,2015,26.0,Both sexes
+12597,Lithuania,2016,26.3,Both sexes
+12699,Luxembourg,2008,19.2,Both sexes
+12702,Luxembourg,2009,19.6,Both sexes
+12705,Luxembourg,2010,20.0,Both sexes
+12708,Luxembourg,2011,20.4,Both sexes
+12711,Luxembourg,2012,20.9,Both sexes
+12714,Luxembourg,2013,21.3,Both sexes
+12717,Luxembourg,2014,21.7,Both sexes
+12720,Luxembourg,2015,22.2,Both sexes
+12723,Luxembourg,2016,22.6,Both sexes
+12825,Madagascar,2008,3.5,Both sexes
+12828,Madagascar,2009,3.7,Both sexes
+12831,Madagascar,2010,3.9,Both sexes
+12834,Madagascar,2011,4.1,Both sexes
+12837,Madagascar,2012,4.3,Both sexes
+12840,Madagascar,2013,4.5,Both sexes
+12843,Madagascar,2014,4.8,Both sexes
+12846,Madagascar,2015,5.1,Both sexes
+12849,Madagascar,2016,5.3,Both sexes
+12951,Malawi,2008,4.0,Both sexes
+12954,Malawi,2009,4.2,Both sexes
+12957,Malawi,2010,4.4,Both sexes
+12960,Malawi,2011,4.6,Both sexes
+12963,Malawi,2012,4.8,Both sexes
+12966,Malawi,2013,5.0,Both sexes
+12969,Malawi,2014,5.3,Both sexes
+12972,Malawi,2015,5.5,Both sexes
+12975,Malawi,2016,5.8,Both sexes
+13077,Malaysia,2008,10.9,Both sexes
+13080,Malaysia,2009,11.5,Both sexes
+13083,Malaysia,2010,12.0,Both sexes
+13086,Malaysia,2011,12.6,Both sexes
+13089,Malaysia,2012,13.1,Both sexes
+13092,Malaysia,2013,13.7,Both sexes
+13095,Malaysia,2014,14.3,Both sexes
+13098,Malaysia,2015,14.9,Both sexes
+13101,Malaysia,2016,15.6,Both sexes
+13203,Maldives,2008,5.2,Both sexes
+13206,Maldives,2009,5.5,Both sexes
+13209,Maldives,2010,5.9,Both sexes
+13212,Maldives,2011,6.3,Both sexes
+13215,Maldives,2012,6.7,Both sexes
+13218,Maldives,2013,7.2,Both sexes
+13221,Maldives,2014,7.6,Both sexes
+13224,Maldives,2015,8.1,Both sexes
+13227,Maldives,2016,8.6,Both sexes
+13329,Mali,2008,5.9,Both sexes
+13332,Mali,2009,6.2,Both sexes
+13335,Mali,2010,6.5,Both sexes
+13338,Mali,2011,6.8,Both sexes
+13341,Mali,2012,7.2,Both sexes
+13344,Mali,2013,7.5,Both sexes
+13347,Mali,2014,7.9,Both sexes
+13350,Mali,2015,8.2,Both sexes
+13353,Mali,2016,8.6,Both sexes
+13455,Malta,2008,26.1,Both sexes
+13458,Malta,2009,26.4,Both sexes
+13461,Malta,2010,26.8,Both sexes
+13464,Malta,2011,27.1,Both sexes
+13467,Malta,2012,27.5,Both sexes
+13470,Malta,2013,27.8,Both sexes
+13473,Malta,2014,28.2,Both sexes
+13476,Malta,2015,28.5,Both sexes
+13479,Malta,2016,28.9,Both sexes
+13581,Marshall Islands,2008,48.4,Both sexes
+13584,Marshall Islands,2009,49.0,Both sexes
+13587,Marshall Islands,2010,49.6,Both sexes
+13590,Marshall Islands,2011,50.1,Both sexes
+13593,Marshall Islands,2012,50.7,Both sexes
+13596,Marshall Islands,2013,51.3,Both sexes
+13599,Marshall Islands,2014,51.8,Both sexes
+13602,Marshall Islands,2015,52.4,Both sexes
+13605,Marshall Islands,2016,52.9,Both sexes
+13707,Mauritania,2008,9.5,Both sexes
+13710,Mauritania,2009,9.9,Both sexes
+13713,Mauritania,2010,10.3,Both sexes
+13716,Mauritania,2011,10.6,Both sexes
+13719,Mauritania,2012,11.0,Both sexes
+13722,Mauritania,2013,11.4,Both sexes
+13725,Mauritania,2014,11.8,Both sexes
+13728,Mauritania,2015,12.3,Both sexes
+13731,Mauritania,2016,12.7,Both sexes
+13833,Mauritius,2008,8.6,Both sexes
+13836,Mauritius,2009,8.8,Both sexes
+13839,Mauritius,2010,9.1,Both sexes
+13842,Mauritius,2011,9.3,Both sexes
+13845,Mauritius,2012,9.6,Both sexes
+13848,Mauritius,2013,9.9,Both sexes
+13851,Mauritius,2014,10.2,Both sexes
+13854,Mauritius,2015,10.5,Both sexes
+13857,Mauritius,2016,10.8,Both sexes
+13959,Mexico,2008,24.8,Both sexes
+13962,Mexico,2009,25.3,Both sexes
+13965,Mexico,2010,25.8,Both sexes
+13968,Mexico,2011,26.3,Both sexes
+13971,Mexico,2012,26.8,Both sexes
+13974,Mexico,2013,27.3,Both sexes
+13977,Mexico,2014,27.8,Both sexes
+13980,Mexico,2015,28.3,Both sexes
+13983,Mexico,2016,28.9,Both sexes
+14085,Micronesia,2008,40.1,Both sexes
+14088,Micronesia,2009,40.8,Both sexes
+14091,Micronesia,2010,41.5,Both sexes
+14094,Micronesia,2011,42.2,Both sexes
+14097,Micronesia,2012,42.9,Both sexes
+14100,Micronesia,2013,43.7,Both sexes
+14103,Micronesia,2014,44.4,Both sexes
+14106,Micronesia,2015,45.1,Both sexes
+14109,Micronesia,2016,45.8,Both sexes
+14211,Monaco,2008,No,Both sexes
+14214,Monaco,2009,No,Both sexes
+14217,Monaco,2010,No,Both sexes
+14220,Monaco,2011,No,Both sexes
+14223,Monaco,2012,No,Both sexes
+14226,Monaco,2013,No,Both sexes
+14229,Monaco,2014,No,Both sexes
+14232,Monaco,2015,No,Both sexes
+14235,Monaco,2016,No,Both sexes
+14337,Mongolia,2008,15.5,Both sexes
+14340,Mongolia,2009,16.1,Both sexes
+14343,Mongolia,2010,16.7,Both sexes
+14346,Mongolia,2011,17.3,Both sexes
+14349,Mongolia,2012,17.9,Both sexes
+14352,Mongolia,2013,18.6,Both sexes
+14355,Mongolia,2014,19.2,Both sexes
+14358,Mongolia,2015,19.9,Both sexes
+14361,Mongolia,2016,20.6,Both sexes
+14463,Montenegro,2008,20.0,Both sexes
+14466,Montenegro,2009,20.4,Both sexes
+14469,Montenegro,2010,20.8,Both sexes
+14472,Montenegro,2011,21.2,Both sexes
+14475,Montenegro,2012,21.6,Both sexes
+14478,Montenegro,2013,22.0,Both sexes
+14481,Montenegro,2014,22.4,Both sexes
+14484,Montenegro,2015,22.8,Both sexes
+14487,Montenegro,2016,23.3,Both sexes
+14589,Morocco,2008,20.9,Both sexes
+14592,Morocco,2009,21.5,Both sexes
+14595,Morocco,2010,22.1,Both sexes
+14598,Morocco,2011,22.8,Both sexes
+14601,Morocco,2012,23.4,Both sexes
+14604,Morocco,2013,24.1,Both sexes
+14607,Morocco,2014,24.7,Both sexes
+14610,Morocco,2015,25.4,Both sexes
+14613,Morocco,2016,26.1,Both sexes
+14715,Mozambique,2008,5.2,Both sexes
+14718,Mozambique,2009,5.4,Both sexes
+14721,Mozambique,2010,5.7,Both sexes
+14724,Mozambique,2011,5.9,Both sexes
+14727,Mozambique,2012,6.1,Both sexes
+14730,Mozambique,2013,6.4,Both sexes
+14733,Mozambique,2014,6.7,Both sexes
+14736,Mozambique,2015,6.9,Both sexes
+14739,Mozambique,2016,7.2,Both sexes
+14841,Myanmar,2008,3.6,Both sexes
+14844,Myanmar,2009,3.8,Both sexes
+14847,Myanmar,2010,4.0,Both sexes
+14850,Myanmar,2011,4.3,Both sexes
+14853,Myanmar,2012,4.6,Both sexes
+14856,Myanmar,2013,4.8,Both sexes
+14859,Myanmar,2014,5.1,Both sexes
+14862,Myanmar,2015,5.4,Both sexes
+14865,Myanmar,2016,5.8,Both sexes
+14967,Namibia,2008,13.0,Both sexes
+14970,Namibia,2009,13.5,Both sexes
+14973,Namibia,2010,14.0,Both sexes
+14976,Namibia,2011,14.6,Both sexes
+14979,Namibia,2012,15.1,Both sexes
+14982,Namibia,2013,15.6,Both sexes
+14985,Namibia,2014,16.1,Both sexes
+14988,Namibia,2015,16.7,Both sexes
+14991,Namibia,2016,17.2,Both sexes
+15093,Nauru,2008,58.2,Both sexes
+15096,Nauru,2009,58.5,Both sexes
+15099,Nauru,2010,58.9,Both sexes
+15102,Nauru,2011,59.3,Both sexes
+15105,Nauru,2012,59.6,Both sexes
+15108,Nauru,2013,60.0,Both sexes
+15111,Nauru,2014,60.3,Both sexes
+15114,Nauru,2015,60.7,Both sexes
+15117,Nauru,2016,61.0,Both sexes
+15219,Nepal,2008,2.6,Both sexes
+15222,Nepal,2009,2.7,Both sexes
+15225,Nepal,2010,2.9,Both sexes
+15228,Nepal,2011,3.1,Both sexes
+15231,Nepal,2012,3.3,Both sexes
+15234,Nepal,2013,3.5,Both sexes
+15237,Nepal,2014,3.7,Both sexes
+15240,Nepal,2015,3.9,Both sexes
+15243,Nepal,2016,4.1,Both sexes
+15345,Netherlands,2008,16.8,Both sexes
+15348,Netherlands,2009,17.3,Both sexes
+15351,Netherlands,2010,17.7,Both sexes
+15354,Netherlands,2011,18.2,Both sexes
+15357,Netherlands,2012,18.6,Both sexes
+15360,Netherlands,2013,19.1,Both sexes
+15363,Netherlands,2014,19.5,Both sexes
+15366,Netherlands,2015,20.0,Both sexes
+15369,Netherlands,2016,20.4,Both sexes
+15471,New Zealand,2008,26.1,Both sexes
+15474,New Zealand,2009,26.6,Both sexes
+15477,New Zealand,2010,27.2,Both sexes
+15480,New Zealand,2011,27.8,Both sexes
+15483,New Zealand,2012,28.4,Both sexes
+15486,New Zealand,2013,29.0,Both sexes
+15489,New Zealand,2014,29.6,Both sexes
+15492,New Zealand,2015,30.2,Both sexes
+15495,New Zealand,2016,30.8,Both sexes
+15597,Nicaragua,2008,19.4,Both sexes
+15600,Nicaragua,2009,19.9,Both sexes
+15603,Nicaragua,2010,20.4,Both sexes
+15606,Nicaragua,2011,20.9,Both sexes
+15609,Nicaragua,2012,21.5,Both sexes
+15612,Nicaragua,2013,22.0,Both sexes
+15615,Nicaragua,2014,22.5,Both sexes
+15618,Nicaragua,2015,23.1,Both sexes
+15621,Nicaragua,2016,23.7,Both sexes
+15723,Niger,2008,3.7,Both sexes
+15726,Niger,2009,3.9,Both sexes
+15729,Niger,2010,4.1,Both sexes
+15732,Niger,2011,4.3,Both sexes
+15735,Niger,2012,4.5,Both sexes
+15738,Niger,2013,4.8,Both sexes
+15741,Niger,2014,5.0,Both sexes
+15744,Niger,2015,5.2,Both sexes
+15747,Niger,2016,5.5,Both sexes
+15849,Nigeria,2008,6.0,Both sexes
+15852,Nigeria,2009,6.4,Both sexes
+15855,Nigeria,2010,6.7,Both sexes
+15858,Nigeria,2011,7.0,Both sexes
+15861,Nigeria,2012,7.4,Both sexes
+15864,Nigeria,2013,7.7,Both sexes
+15867,Nigeria,2014,8.1,Both sexes
+15870,Nigeria,2015,8.5,Both sexes
+15873,Nigeria,2016,8.9,Both sexes
+15975,Niue,2008,43.6,Both sexes
+15978,Niue,2009,44.4,Both sexes
+15981,Niue,2010,45.2,Both sexes
+15984,Niue,2011,46.0,Both sexes
+15987,Niue,2012,46.8,Both sexes
+15990,Niue,2013,47.6,Both sexes
+15993,Niue,2014,48.4,Both sexes
+15996,Niue,2015,49.2,Both sexes
+15999,Niue,2016,50.0,Both sexes
+16101,Norway,2008,19.5,Both sexes
+16104,Norway,2009,19.9,Both sexes
+16107,Norway,2010,20.4,Both sexes
+16110,Norway,2011,20.8,Both sexes
+16113,Norway,2012,21.3,Both sexes
+16116,Norway,2013,21.7,Both sexes
+16119,Norway,2014,22.2,Both sexes
+16122,Norway,2015,22.6,Both sexes
+16125,Norway,2016,23.1,Both sexes
+16227,Oman,2008,21.8,Both sexes
+16230,Oman,2009,22.4,Both sexes
+16233,Oman,2010,23.1,Both sexes
+16236,Oman,2011,23.7,Both sexes
+16239,Oman,2012,24.3,Both sexes
+16242,Oman,2013,24.9,Both sexes
+16245,Oman,2014,25.6,Both sexes
+16248,Oman,2015,26.3,Both sexes
+16251,Oman,2016,27.0,Both sexes
+16353,Pakistan,2008,5.9,Both sexes
+16356,Pakistan,2009,6.2,Both sexes
+16359,Pakistan,2010,6.5,Both sexes
+16362,Pakistan,2011,6.8,Both sexes
+16365,Pakistan,2012,7.1,Both sexes
+16368,Pakistan,2013,7.5,Both sexes
+16371,Pakistan,2014,7.8,Both sexes
+16374,Pakistan,2015,8.2,Both sexes
+16377,Pakistan,2016,8.6,Both sexes
+16479,Palau,2008,50.4,Both sexes
+16482,Palau,2009,51.1,Both sexes
+16485,Palau,2010,51.8,Both sexes
+16488,Palau,2011,52.4,Both sexes
+16491,Palau,2012,53.1,Both sexes
+16494,Palau,2013,53.7,Both sexes
+16497,Palau,2014,54.2,Both sexes
+16500,Palau,2015,54.8,Both sexes
+16503,Palau,2016,55.3,Both sexes
+16605,Panama,2008,18.6,Both sexes
+16608,Panama,2009,19.1,Both sexes
+16611,Panama,2010,19.6,Both sexes
+16614,Panama,2011,20.1,Both sexes
+16617,Panama,2012,20.6,Both sexes
+16620,Panama,2013,21.1,Both sexes
+16623,Panama,2014,21.6,Both sexes
+16626,Panama,2015,22.2,Both sexes
+16629,Panama,2016,22.7,Both sexes
+16731,Papua New Guinea,2008,16.9,Both sexes
+16734,Papua New Guinea,2009,17.4,Both sexes
+16737,Papua New Guinea,2010,17.9,Both sexes
+16740,Papua New Guinea,2011,18.5,Both sexes
+16743,Papua New Guinea,2012,19.0,Both sexes
+16746,Papua New Guinea,2013,19.6,Both sexes
+16749,Papua New Guinea,2014,20.1,Both sexes
+16752,Papua New Guinea,2015,20.7,Both sexes
+16755,Papua New Guinea,2016,21.3,Both sexes
+16857,Paraguay,2008,16.2,Both sexes
+16860,Paraguay,2009,16.7,Both sexes
+16863,Paraguay,2010,17.2,Both sexes
+16866,Paraguay,2011,17.7,Both sexes
+16869,Paraguay,2012,18.2,Both sexes
+16872,Paraguay,2013,18.7,Both sexes
+16875,Paraguay,2014,19.2,Both sexes
+16878,Paraguay,2015,19.8,Both sexes
+16881,Paraguay,2016,20.3,Both sexes
+16983,Peru,2008,16.5,Both sexes
+16986,Peru,2009,16.9,Both sexes
+16989,Peru,2010,17.3,Both sexes
+16992,Peru,2011,17.7,Both sexes
+16995,Peru,2012,18.1,Both sexes
+16998,Peru,2013,18.5,Both sexes
+17001,Peru,2014,18.9,Both sexes
+17004,Peru,2015,19.3,Both sexes
+17007,Peru,2016,19.7,Both sexes
+17109,Philippines,2008,4.6,Both sexes
+17112,Philippines,2009,4.8,Both sexes
+17115,Philippines,2010,5.0,Both sexes
+17118,Philippines,2011,5.2,Both sexes
+17121,Philippines,2012,5.4,Both sexes
+17124,Philippines,2013,5.7,Both sexes
+17127,Philippines,2014,5.9,Both sexes
+17130,Philippines,2015,6.2,Both sexes
+17133,Philippines,2016,6.4,Both sexes
+17235,Poland,2008,20.1,Both sexes
+17238,Poland,2009,20.5,Both sexes
+17241,Poland,2010,20.8,Both sexes
+17244,Poland,2011,21.2,Both sexes
+17247,Poland,2012,21.5,Both sexes
+17250,Poland,2013,21.9,Both sexes
+17253,Poland,2014,22.3,Both sexes
+17256,Poland,2015,22.7,Both sexes
+17259,Poland,2016,23.1,Both sexes
+17361,Portugal,2008,17.2,Both sexes
+17364,Portugal,2009,17.7,Both sexes
+17367,Portugal,2010,18.1,Both sexes
+17370,Portugal,2011,18.6,Both sexes
+17373,Portugal,2012,19.0,Both sexes
+17376,Portugal,2013,19.5,Both sexes
+17379,Portugal,2014,19.9,Both sexes
+17382,Portugal,2015,20.4,Both sexes
+17385,Portugal,2016,20.8,Both sexes
+17487,Qatar,2008,30.0,Both sexes
+17490,Qatar,2009,30.5,Both sexes
+17493,Qatar,2010,31.1,Both sexes
+17496,Qatar,2011,31.8,Both sexes
+17499,Qatar,2012,32.4,Both sexes
+17502,Qatar,2013,33.1,Both sexes
+17505,Qatar,2014,33.8,Both sexes
+17508,Qatar,2015,34.5,Both sexes
+17511,Qatar,2016,35.1,Both sexes
+17613,North Korea,2008,3.7,Both sexes
+17616,North Korea,2009,3.8,Both sexes
+17619,North Korea,2010,3.9,Both sexes
+17622,North Korea,2011,4.0,Both sexes
+17625,North Korea,2012,4.1,Both sexes
+17628,North Korea,2013,4.3,Both sexes
+17631,North Korea,2014,4.4,Both sexes
+17634,North Korea,2015,4.5,Both sexes
+17637,North Korea,2016,4.7,Both sexes
+17739,Moldova,2008,16.3,Both sexes
+17742,Moldova,2009,16.6,Both sexes
+17745,Moldova,2010,16.9,Both sexes
+17748,Moldova,2011,17.2,Both sexes
+17751,Moldova,2012,17.5,Both sexes
+17754,Moldova,2013,17.8,Both sexes
+17757,Moldova,2014,18.2,Both sexes
+17760,Moldova,2015,18.5,Both sexes
+17763,Moldova,2016,18.9,Both sexes
+17865,North Macedonia,2008,19.4,Both sexes
+17868,North Macedonia,2009,19.8,Both sexes
+17871,North Macedonia,2010,20.1,Both sexes
+17874,North Macedonia,2011,20.5,Both sexes
+17877,North Macedonia,2012,20.8,Both sexes
+17880,North Macedonia,2013,21.2,Both sexes
+17883,North Macedonia,2014,21.6,Both sexes
+17886,North Macedonia,2015,22.0,Both sexes
+17889,North Macedonia,2016,22.4,Both sexes
+17991,Romania,2008,19.0,Both sexes
+17994,Romania,2009,19.4,Both sexes
+17997,Romania,2010,19.8,Both sexes
+18000,Romania,2011,20.2,Both sexes
+18003,Romania,2012,20.7,Both sexes
+18006,Romania,2013,21.1,Both sexes
+18009,Romania,2014,21.6,Both sexes
+18012,Romania,2015,22.1,Both sexes
+18015,Romania,2016,22.5,Both sexes
+18117,Russia,2008,20.9,Both sexes
+18120,Russia,2009,21.2,Both sexes
+18123,Russia,2010,21.4,Both sexes
+18126,Russia,2011,21.7,Both sexes
+18129,Russia,2012,21.9,Both sexes
+18132,Russia,2013,22.2,Both sexes
+18135,Russia,2014,22.5,Both sexes
+18138,Russia,2015,22.8,Both sexes
+18141,Russia,2016,23.1,Both sexes
+18243,Rwanda,2008,3.8,Both sexes
+18246,Rwanda,2009,4.0,Both sexes
+18249,Rwanda,2010,4.2,Both sexes
+18252,Rwanda,2011,4.5,Both sexes
+18255,Rwanda,2012,4.7,Both sexes
+18258,Rwanda,2013,5.0,Both sexes
+18261,Rwanda,2014,5.3,Both sexes
+18264,Rwanda,2015,5.6,Both sexes
+18267,Rwanda,2016,5.8,Both sexes
+18369,Saint Kitts and Nevis,2008,18.2,Both sexes
+18372,Saint Kitts and Nevis,2009,18.7,Both sexes
+18375,Saint Kitts and Nevis,2010,19.3,Both sexes
+18378,Saint Kitts and Nevis,2011,19.8,Both sexes
+18381,Saint Kitts and Nevis,2012,20.4,Both sexes
+18384,Saint Kitts and Nevis,2013,21.0,Both sexes
+18387,Saint Kitts and Nevis,2014,21.6,Both sexes
+18390,Saint Kitts and Nevis,2015,22.3,Both sexes
+18393,Saint Kitts and Nevis,2016,22.9,Both sexes
+18495,Saint Lucia,2008,15.8,Both sexes
+18498,Saint Lucia,2009,16.2,Both sexes
+18501,Saint Lucia,2010,16.5,Both sexes
+18504,Saint Lucia,2011,17.0,Both sexes
+18507,Saint Lucia,2012,17.4,Both sexes
+18510,Saint Lucia,2013,18.0,Both sexes
+18513,Saint Lucia,2014,18.5,Both sexes
+18516,Saint Lucia,2015,19.1,Both sexes
+18519,Saint Lucia,2016,19.7,Both sexes
+18621,Saint Vincent and the Grenadines,2008,18.8,Both sexes
+18624,Saint Vincent and the Grenadines,2009,19.4,Both sexes
+18627,Saint Vincent and the Grenadines,2010,20.0,Both sexes
+18630,Saint Vincent and the Grenadines,2011,20.6,Both sexes
+18633,Saint Vincent and the Grenadines,2012,21.2,Both sexes
+18636,Saint Vincent and the Grenadines,2013,21.8,Both sexes
+18639,Saint Vincent and the Grenadines,2014,22.4,Both sexes
+18642,Saint Vincent and the Grenadines,2015,23.1,Both sexes
+18645,Saint Vincent and the Grenadines,2016,23.7,Both sexes
+18747,Samoa,2008,42.2,Both sexes
+18750,Samoa,2009,42.8,Both sexes
+18753,Samoa,2010,43.4,Both sexes
+18756,Samoa,2011,44.1,Both sexes
+18759,Samoa,2012,44.7,Both sexes
+18762,Samoa,2013,45.4,Both sexes
+18765,Samoa,2014,46.0,Both sexes
+18768,Samoa,2015,46.7,Both sexes
+18771,Samoa,2016,47.3,Both sexes
+18873,San Marino,2008,No,Both sexes
+18876,San Marino,2009,No,Both sexes
+18879,San Marino,2010,No,Both sexes
+18882,San Marino,2011,No,Both sexes
+18885,San Marino,2012,No,Both sexes
+18888,San Marino,2013,No,Both sexes
+18891,San Marino,2014,No,Both sexes
+18894,San Marino,2015,No,Both sexes
+18897,San Marino,2016,No,Both sexes
+18999,Sao Tome and Principe,2008,9.2,Both sexes
+19002,Sao Tome and Principe,2009,9.6,Both sexes
+19005,Sao Tome and Principe,2010,10.0,Both sexes
+19008,Sao Tome and Principe,2011,10.3,Both sexes
+19011,Sao Tome and Principe,2012,10.7,Both sexes
+19014,Sao Tome and Principe,2013,11.2,Both sexes
+19017,Sao Tome and Principe,2014,11.6,Both sexes
+19020,Sao Tome and Principe,2015,12.0,Both sexes
+19023,Sao Tome and Principe,2016,12.4,Both sexes
+19125,Saudi Arabia,2008,30.2,Both sexes
+19128,Saudi Arabia,2009,30.8,Both sexes
+19131,Saudi Arabia,2010,31.5,Both sexes
+19134,Saudi Arabia,2011,32.1,Both sexes
+19137,Saudi Arabia,2012,32.8,Both sexes
+19140,Saudi Arabia,2013,33.4,Both sexes
+19143,Saudi Arabia,2014,34.1,Both sexes
+19146,Saudi Arabia,2015,34.7,Both sexes
+19149,Saudi Arabia,2016,35.4,Both sexes
+19251,Senegal,2008,6.5,Both sexes
+19254,Senegal,2009,6.8,Both sexes
+19257,Senegal,2010,7.1,Both sexes
+19260,Senegal,2011,7.3,Both sexes
+19263,Senegal,2012,7.6,Both sexes
+19266,Senegal,2013,7.9,Both sexes
+19269,Senegal,2014,8.2,Both sexes
+19272,Senegal,2015,8.5,Both sexes
+19275,Senegal,2016,8.8,Both sexes
+19377,Serbia,2008,18.4,Both sexes
+19380,Serbia,2009,18.8,Both sexes
+19383,Serbia,2010,19.2,Both sexes
+19386,Serbia,2011,19.6,Both sexes
+19389,Serbia,2012,20.0,Both sexes
+19392,Serbia,2013,20.3,Both sexes
+19395,Serbia,2014,20.7,Both sexes
+19398,Serbia,2015,21.1,Both sexes
+19401,Serbia,2016,21.5,Both sexes
+19503,Seychelles,2008,11.0,Both sexes
+19506,Seychelles,2009,11.4,Both sexes
+19509,Seychelles,2010,11.7,Both sexes
+19512,Seychelles,2011,12.0,Both sexes
+19515,Seychelles,2012,12.4,Both sexes
+19518,Seychelles,2013,12.8,Both sexes
+19521,Seychelles,2014,13.2,Both sexes
+19524,Seychelles,2015,13.5,Both sexes
+19527,Seychelles,2016,14.0,Both sexes
+19629,Sierra Leone,2008,6.3,Both sexes
+19632,Sierra Leone,2009,6.5,Both sexes
+19635,Sierra Leone,2010,6.8,Both sexes
+19638,Sierra Leone,2011,7.1,Both sexes
+19641,Sierra Leone,2012,7.4,Both sexes
+19644,Sierra Leone,2013,7.7,Both sexes
+19647,Sierra Leone,2014,8.0,Both sexes
+19650,Sierra Leone,2015,8.3,Both sexes
+19653,Sierra Leone,2016,8.7,Both sexes
+19755,Singapore,2008,5.2,Both sexes
+19758,Singapore,2009,5.3,Both sexes
+19761,Singapore,2010,5.4,Both sexes
+19764,Singapore,2011,5.5,Both sexes
+19767,Singapore,2012,5.6,Both sexes
+19770,Singapore,2013,5.7,Both sexes
+19773,Singapore,2014,5.8,Both sexes
+19776,Singapore,2015,6.0,Both sexes
+19779,Singapore,2016,6.1,Both sexes
+19881,Slovakia,2008,17.8,Both sexes
+19884,Slovakia,2009,18.1,Both sexes
+19887,Slovakia,2010,18.4,Both sexes
+19890,Slovakia,2011,18.8,Both sexes
+19893,Slovakia,2012,19.1,Both sexes
+19896,Slovakia,2013,19.4,Both sexes
+19899,Slovakia,2014,19.8,Both sexes
+19902,Slovakia,2015,20.1,Both sexes
+19905,Slovakia,2016,20.5,Both sexes
+20007,Slovenia,2008,17.5,Both sexes
+20010,Slovenia,2009,17.8,Both sexes
+20013,Slovenia,2010,18.1,Both sexes
+20016,Slovenia,2011,18.4,Both sexes
+20019,Slovenia,2012,18.8,Both sexes
+20022,Slovenia,2013,19.1,Both sexes
+20025,Slovenia,2014,19.5,Both sexes
+20028,Slovenia,2015,19.8,Both sexes
+20031,Slovenia,2016,20.2,Both sexes
+20133,Solomon Islands,2008,17.6,Both sexes
+20136,Solomon Islands,2009,18.1,Both sexes
+20139,Solomon Islands,2010,18.7,Both sexes
+20142,Solomon Islands,2011,19.3,Both sexes
+20145,Solomon Islands,2012,19.9,Both sexes
+20148,Solomon Islands,2013,20.6,Both sexes
+20151,Solomon Islands,2014,21.2,Both sexes
+20154,Solomon Islands,2015,21.9,Both sexes
+20157,Solomon Islands,2016,22.5,Both sexes
+20259,Somalia,2008,5.9,Both sexes
+20262,Somalia,2009,6.2,Both sexes
+20265,Somalia,2010,6.4,Both sexes
+20268,Somalia,2011,6.7,Both sexes
+20271,Somalia,2012,7.0,Both sexes
+20274,Somalia,2013,7.3,Both sexes
+20277,Somalia,2014,7.6,Both sexes
+20280,Somalia,2015,7.9,Both sexes
+20283,Somalia,2016,8.3,Both sexes
+20385,South Africa,2008,24.0,Both sexes
+20388,South Africa,2009,24.5,Both sexes
+20391,South Africa,2010,25.1,Both sexes
+20394,South Africa,2011,25.6,Both sexes
+20397,South Africa,2012,26.1,Both sexes
+20400,South Africa,2013,26.7,Both sexes
+20403,South Africa,2014,27.2,Both sexes
+20406,South Africa,2015,27.8,Both sexes
+20409,South Africa,2016,28.3,Both sexes
+20511,South Sudan,2008,No,Both sexes
+20514,South Sudan,2009,No,Both sexes
+20517,South Sudan,2010,No,Both sexes
+20520,South Sudan,2011,No,Both sexes
+20523,South Sudan,2012,No,Both sexes
+20526,South Sudan,2013,No,Both sexes
+20529,South Sudan,2014,No,Both sexes
+20532,South Sudan,2015,No,Both sexes
+20535,South Sudan,2016,No,Both sexes
+20637,Spain,2008,21.0,Both sexes
+20640,Spain,2009,21.3,Both sexes
+20643,Spain,2010,21.7,Both sexes
+20646,Spain,2011,22.0,Both sexes
+20649,Spain,2012,22.4,Both sexes
+20652,Spain,2013,22.7,Both sexes
+20655,Spain,2014,23.1,Both sexes
+20658,Spain,2015,23.4,Both sexes
+20661,Spain,2016,23.8,Both sexes
+20763,Sri Lanka,2008,3.3,Both sexes
+20766,Sri Lanka,2009,3.5,Both sexes
+20769,Sri Lanka,2010,3.7,Both sexes
+20772,Sri Lanka,2011,3.9,Both sexes
+20775,Sri Lanka,2012,4.1,Both sexes
+20778,Sri Lanka,2013,4.4,Both sexes
+20781,Sri Lanka,2014,4.6,Both sexes
+20784,Sri Lanka,2015,4.9,Both sexes
+20787,Sri Lanka,2016,5.2,Both sexes
+20889,Sudan,2008,No,Both sexes
+20892,Sudan,2009,No,Both sexes
+20895,Sudan,2010,No,Both sexes
+20898,Sudan,2011,No,Both sexes
+20901,Sudan,2012,No,Both sexes
+20904,Sudan,2013,No,Both sexes
+20907,Sudan,2014,No,Both sexes
+20910,Sudan,2015,No,Both sexes
+20913,Sudan,2016,No,Both sexes
+21015,Sudan (former),2008,6.1,Both sexes
+21018,Sudan (former),2009,5.1,Both sexes
+21021,Sudan (former),2010,6.5,Both sexes
+21024,Sudan (former),2011,6.1,Both sexes
+21027,Sudan (former),2012,6.4,Both sexes
+21030,Sudan (former),2013,5.7,Both sexes
+21033,Sudan (former),2014,5.8,Both sexes
+21036,Sudan (former),2015,8.6,Both sexes
+21039,Sudan (former),2016,8.6,Both sexes
+21141,Suriname,2008,22.5,Both sexes
+21144,Suriname,2009,23.0,Both sexes
+21147,Suriname,2010,23.5,Both sexes
+21150,Suriname,2011,24.0,Both sexes
+21153,Suriname,2012,24.4,Both sexes
+21156,Suriname,2013,24.9,Both sexes
+21159,Suriname,2014,25.4,Both sexes
+21162,Suriname,2015,25.9,Both sexes
+21165,Suriname,2016,26.4,Both sexes
+21267,Sweden,2008,17.4,Both sexes
+21270,Sweden,2009,17.8,Both sexes
+21273,Sweden,2010,18.2,Both sexes
+21276,Sweden,2011,18.6,Both sexes
+21279,Sweden,2012,19.0,Both sexes
+21282,Sweden,2013,19.4,Both sexes
+21285,Sweden,2014,19.8,Both sexes
+21288,Sweden,2015,20.2,Both sexes
+21291,Sweden,2016,20.6,Both sexes
+21393,Switzerland,2008,16.5,Both sexes
+21396,Switzerland,2009,16.9,Both sexes
+21399,Switzerland,2010,17.3,Both sexes
+21402,Switzerland,2011,17.6,Both sexes
+21405,Switzerland,2012,18.0,Both sexes
+21408,Switzerland,2013,18.4,Both sexes
+21411,Switzerland,2014,18.7,Both sexes
+21414,Switzerland,2015,19.1,Both sexes
+21417,Switzerland,2016,19.5,Both sexes
+21519,Syria,2008,22.5,Both sexes
+21522,Syria,2009,23.1,Both sexes
+21525,Syria,2010,23.8,Both sexes
+21528,Syria,2011,24.4,Both sexes
+21531,Syria,2012,25.1,Both sexes
+21534,Syria,2013,25.8,Both sexes
+21537,Syria,2014,26.4,Both sexes
+21540,Syria,2015,27.1,Both sexes
+21543,Syria,2016,27.8,Both sexes
+21645,Tajikistan,2008,10.5,Both sexes
+21648,Tajikistan,2009,10.9,Both sexes
+21651,Tajikistan,2010,11.3,Both sexes
+21654,Tajikistan,2011,11.8,Both sexes
+21657,Tajikistan,2012,12.2,Both sexes
+21660,Tajikistan,2013,12.7,Both sexes
+21663,Tajikistan,2014,13.2,Both sexes
+21666,Tajikistan,2015,13.7,Both sexes
+21669,Tajikistan,2016,14.2,Both sexes
+21771,Thailand,2008,6.1,Both sexes
+21774,Thailand,2009,6.5,Both sexes
+21777,Thailand,2010,7.0,Both sexes
+21780,Thailand,2011,7.4,Both sexes
+21783,Thailand,2012,7.9,Both sexes
+21786,Thailand,2013,8.4,Both sexes
+21789,Thailand,2014,8.9,Both sexes
+21792,Thailand,2015,9.4,Both sexes
+21795,Thailand,2016,10.0,Both sexes
+21897,Timor-Leste,2008,2.3,Both sexes
+21900,Timor-Leste,2009,2.4,Both sexes
+21903,Timor-Leste,2010,2.6,Both sexes
+21906,Timor-Leste,2011,2.8,Both sexes
+21909,Timor-Leste,2012,2.9,Both sexes
+21912,Timor-Leste,2013,3.1,Both sexes
+21915,Timor-Leste,2014,3.3,Both sexes
+21918,Timor-Leste,2015,3.6,Both sexes
+21921,Timor-Leste,2016,3.8,Both sexes
+22023,Togo,2008,6.0,Both sexes
+22026,Togo,2009,6.3,Both sexes
+22029,Togo,2010,6.5,Both sexes
+22032,Togo,2011,6.8,Both sexes
+22035,Togo,2012,7.1,Both sexes
+22038,Togo,2013,7.4,Both sexes
+22041,Togo,2014,7.8,Both sexes
+22044,Togo,2015,8.1,Both sexes
+22047,Togo,2016,8.4,Both sexes
+22149,Tonga,2008,42.7,Both sexes
+22152,Tonga,2009,43.4,Both sexes
+22155,Tonga,2010,44.1,Both sexes
+22158,Tonga,2011,44.7,Both sexes
+22161,Tonga,2012,45.4,Both sexes
+22164,Tonga,2013,46.1,Both sexes
+22167,Tonga,2014,46.8,Both sexes
+22170,Tonga,2015,47.5,Both sexes
+22173,Tonga,2016,48.2,Both sexes
+22275,Trinidad and Tobago,2008,14.3,Both sexes
+22278,Trinidad and Tobago,2009,14.8,Both sexes
+22281,Trinidad and Tobago,2010,15.3,Both sexes
+22284,Trinidad and Tobago,2011,15.8,Both sexes
+22287,Trinidad and Tobago,2012,16.3,Both sexes
+22290,Trinidad and Tobago,2013,16.9,Both sexes
+22293,Trinidad and Tobago,2014,17.4,Both sexes
+22296,Trinidad and Tobago,2015,18.0,Both sexes
+22299,Trinidad and Tobago,2016,18.6,Both sexes
+22401,Tunisia,2008,22.3,Both sexes
+22404,Tunisia,2009,22.9,Both sexes
+22407,Tunisia,2010,23.4,Both sexes
+22410,Tunisia,2011,24.0,Both sexes
+22413,Tunisia,2012,24.6,Both sexes
+22416,Tunisia,2013,25.1,Both sexes
+22419,Tunisia,2014,25.7,Both sexes
+22422,Tunisia,2015,26.3,Both sexes
+22425,Tunisia,2016,26.9,Both sexes
+22527,Turkey,2008,26.9,Both sexes
+22530,Turkey,2009,27.6,Both sexes
+22533,Turkey,2010,28.2,Both sexes
+22536,Turkey,2011,28.9,Both sexes
+22539,Turkey,2012,29.5,Both sexes
+22542,Turkey,2013,30.2,Both sexes
+22545,Turkey,2014,30.8,Both sexes
+22548,Turkey,2015,31.5,Both sexes
+22551,Turkey,2016,32.1,Both sexes
+22653,Turkmenistan,2008,14.3,Both sexes
+22656,Turkmenistan,2009,14.8,Both sexes
+22659,Turkmenistan,2010,15.3,Both sexes
+22662,Turkmenistan,2011,15.8,Both sexes
+22665,Turkmenistan,2012,16.3,Both sexes
+22668,Turkmenistan,2013,16.9,Both sexes
+22671,Turkmenistan,2014,17.4,Both sexes
+22674,Turkmenistan,2015,18.0,Both sexes
+22677,Turkmenistan,2016,18.6,Both sexes
+22779,Tuvalu,2008,45.5,Both sexes
+22782,Tuvalu,2009,46.2,Both sexes
+22785,Tuvalu,2010,47.0,Both sexes
+22788,Tuvalu,2011,47.8,Both sexes
+22791,Tuvalu,2012,48.6,Both sexes
+22794,Tuvalu,2013,49.4,Both sexes
+22797,Tuvalu,2014,50.1,Both sexes
+22800,Tuvalu,2015,50.9,Both sexes
+22803,Tuvalu,2016,51.6,Both sexes
+22905,Uganda,2008,3.5,Both sexes
+22908,Uganda,2009,3.7,Both sexes
+22911,Uganda,2010,3.9,Both sexes
+22914,Uganda,2011,4.1,Both sexes
+22917,Uganda,2012,4.3,Both sexes
+22920,Uganda,2013,4.5,Both sexes
+22923,Uganda,2014,4.8,Both sexes
+22926,Uganda,2015,5.0,Both sexes
+22929,Uganda,2016,5.3,Both sexes
+23031,Ukraine,2008,21.4,Both sexes
+23034,Ukraine,2009,21.7,Both sexes
+23037,Ukraine,2010,22.0,Both sexes
+23040,Ukraine,2011,22.4,Both sexes
+23043,Ukraine,2012,22.7,Both sexes
+23046,Ukraine,2013,23.0,Both sexes
+23049,Ukraine,2014,23.4,Both sexes
+23052,Ukraine,2015,23.7,Both sexes
+23055,Ukraine,2016,24.1,Both sexes
+23157,United Arab Emirates,2008,26.3,Both sexes
+23160,United Arab Emirates,2009,27.0,Both sexes
+23163,United Arab Emirates,2010,27.7,Both sexes
+23166,United Arab Emirates,2011,28.3,Both sexes
+23169,United Arab Emirates,2012,29.0,Both sexes
+23172,United Arab Emirates,2013,29.7,Both sexes
+23175,United Arab Emirates,2014,30.3,Both sexes
+23178,United Arab Emirates,2015,31.0,Both sexes
+23181,United Arab Emirates,2016,31.7,Both sexes
+23283,United Kingdom,2008,23.1,Both sexes
+23286,United Kingdom,2009,23.6,Both sexes
+23289,United Kingdom,2010,24.2,Both sexes
+23292,United Kingdom,2011,24.8,Both sexes
+23295,United Kingdom,2012,25.4,Both sexes
+23298,United Kingdom,2013,26.0,Both sexes
+23301,United Kingdom,2014,26.6,Both sexes
+23304,United Kingdom,2015,27.2,Both sexes
+23307,United Kingdom,2016,27.8,Both sexes
+23409,Tanzania,2008,5.7,Both sexes
+23412,Tanzania,2009,6.0,Both sexes
+23415,Tanzania,2010,6.3,Both sexes
+23418,Tanzania,2011,6.6,Both sexes
+23421,Tanzania,2012,6.9,Both sexes
+23424,Tanzania,2013,7.3,Both sexes
+23427,Tanzania,2014,7.6,Both sexes
+23430,Tanzania,2015,8.0,Both sexes
+23433,Tanzania,2016,8.4,Both sexes
+23535,United States,2008,31.0,Both sexes
+23538,United States,2009,31.7,Both sexes
+23541,United States,2010,32.3,Both sexes
+23544,United States,2011,33.0,Both sexes
+23547,United States,2012,33.6,Both sexes
+23550,United States,2013,34.3,Both sexes
+23553,United States,2014,34.9,Both sexes
+23556,United States,2015,35.6,Both sexes
+23559,United States,2016,36.2,Both sexes
+23661,Uruguay,2008,24.1,Both sexes
+23664,Uruguay,2009,24.6,Both sexes
+23667,Uruguay,2010,25.1,Both sexes
+23670,Uruguay,2011,25.5,Both sexes
+23673,Uruguay,2012,26.0,Both sexes
+23676,Uruguay,2013,26.5,Both sexes
+23679,Uruguay,2014,27.0,Both sexes
+23682,Uruguay,2015,27.5,Both sexes
+23685,Uruguay,2016,27.9,Both sexes
+23787,Uzbekistan,2008,12.6,Both sexes
+23790,Uzbekistan,2009,13.0,Both sexes
+23793,Uzbekistan,2010,13.5,Both sexes
+23796,Uzbekistan,2011,13.9,Both sexes
+23799,Uzbekistan,2012,14.4,Both sexes
+23802,Uzbekistan,2013,14.9,Both sexes
+23805,Uzbekistan,2014,15.4,Both sexes
+23808,Uzbekistan,2015,16.0,Both sexes
+23811,Uzbekistan,2016,16.6,Both sexes
+23913,Vanuatu,2008,20.1,Both sexes
+23916,Vanuatu,2009,20.7,Both sexes
+23919,Vanuatu,2010,21.3,Both sexes
+23922,Vanuatu,2011,22.0,Both sexes
+23925,Vanuatu,2012,22.6,Both sexes
+23928,Vanuatu,2013,23.2,Both sexes
+23931,Vanuatu,2014,23.9,Both sexes
+23934,Vanuatu,2015,24.5,Both sexes
+23937,Vanuatu,2016,25.2,Both sexes
+24039,Venezuela,2008,22.5,Both sexes
+24042,Venezuela,2009,22.9,Both sexes
+24045,Venezuela,2010,23.3,Both sexes
+24048,Venezuela,2011,23.7,Both sexes
+24051,Venezuela,2012,24.0,Both sexes
+24054,Venezuela,2013,24.4,Both sexes
+24057,Venezuela,2014,24.8,Both sexes
+24060,Venezuela,2015,25.2,Both sexes
+24063,Venezuela,2016,25.6,Both sexes
+24165,Vietnam,2008,1.2,Both sexes
+24168,Vietnam,2009,1.3,Both sexes
+24171,Vietnam,2010,1.4,Both sexes
+24174,Vietnam,2011,1.5,Both sexes
+24177,Vietnam,2012,1.6,Both sexes
+24180,Vietnam,2013,1.7,Both sexes
+24183,Vietnam,2014,1.8,Both sexes
+24186,Vietnam,2015,2.0,Both sexes
+24189,Vietnam,2016,2.1,Both sexes
+24291,Yemen,2008,12.4,Both sexes
+24294,Yemen,2009,13.0,Both sexes
+24297,Yemen,2010,13.5,Both sexes
+24300,Yemen,2011,14.1,Both sexes
+24303,Yemen,2012,14.6,Both sexes
+24306,Yemen,2013,15.2,Both sexes
+24309,Yemen,2014,15.9,Both sexes
+24312,Yemen,2015,16.5,Both sexes
+24315,Yemen,2016,17.1,Both sexes
+24417,Zambia,2008,5.7,Both sexes
+24420,Zambia,2009,6.0,Both sexes
+24423,Zambia,2010,6.3,Both sexes
+24426,Zambia,2011,6.5,Both sexes
+24429,Zambia,2012,6.8,Both sexes
+24432,Zambia,2013,7.1,Both sexes
+24435,Zambia,2014,7.4,Both sexes
+24438,Zambia,2015,7.7,Both sexes
+24441,Zambia,2016,8.1,Both sexes
+24543,Zimbabwe,2008,13.2,Both sexes
+24546,Zimbabwe,2009,13.5,Both sexes
+24549,Zimbabwe,2010,13.8,Both sexes
+24552,Zimbabwe,2011,14.1,Both sexes
+24555,Zimbabwe,2012,14.3,Both sexes
+24558,Zimbabwe,2013,14.6,Both sexes
+24561,Zimbabwe,2014,14.9,Both sexes
+24564,Zimbabwe,2015,15.2,Both sexes
+24567,Zimbabwe,2016,15.5,Both sexes

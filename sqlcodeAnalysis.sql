@@ -6,8 +6,6 @@ Create table obesity(
 	"Year" Varchar not Null,
 	"Obesity" Float not Null,
 	"Sex" Varchar not Null);
-	
-
 
 select * from obesity;
 
