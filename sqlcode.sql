@@ -1,12 +1,15 @@
+Drop table if exists obesity;
+Drop table if exists worldhappiness;
+
 Create table obesity(
-	Country Varchar not null,
-	Year Varchar not Null,
-	Obesity Float not Null,
-	Sex Varchar not Null);
+	"Country" Varchar not null,
+	"Year" Varchar not Null,
+	"Obesity" Float not Null,
+	"Sex" Varchar not Null);
 	
 
 
-select * from Obesity;
+select * from obesity;
 
 
 Create table worldhappiness(
@@ -22,6 +25,15 @@ Create table worldhappiness(
 	Positive_Affect Float,
 	Negative_Affect Float);
 	
-Select * from worldhappiness
+Select * from worldhappiness;
 
+Create view ETLTable as
+	Select obesity."Country",
+		obesity."Year",
+		obesity."Obesity",
+		worldhappiness."Positive_Affect"
+		From obesity
+		Join worldhappiness on obesity."Country" = worldhappiness."Country";
+
+Select * from ETLTable;
 
