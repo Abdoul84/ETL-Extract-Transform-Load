@@ -12,11 +12,13 @@ Transformation of the data:
 Obesity Dataset:
 
 			• Columns were split
-			• Rows reduced to one sex category and years 2008 or greater 
+			• Rows reduced to one sex category and years 2008 or greater
+			• Changed Obesity column to float instead of string
 
 World Happiness Dataset:
 
 			• Column names were changed
+			• Names of country changed
 
 Type of final production database data is loaded into:
 
