@@ -314,15 +314,15 @@
 4401,Chile,2014,27.0,Both sexes
 4404,Chile,2015,27.5,Both sexes
 4407,Chile,2016,28.0,Both sexes
-4509,China,2008,3.9,Both sexes
-4512,China,2009,4.1,Both sexes
-4515,China,2010,4.4,Both sexes
-4518,China,2011,4.7,Both sexes
-4521,China,2012,5.0,Both sexes
-4524,China,2013,5.2,Both sexes
-4527,China,2014,5.5,Both sexes
-4530,China,2015,5.9,Both sexes
-4533,China,2016,6.2,Both sexes
+4509,China and Taiwan,2008,3.9,Both sexes
+4512,China and Taiwan,2009,4.1,Both sexes
+4515,China and Taiwan,2010,4.4,Both sexes
+4518,China and Taiwan,2011,4.7,Both sexes
+4521,China and Taiwan,2012,5.0,Both sexes
+4524,China and Taiwan,2013,5.2,Both sexes
+4527,China and Taiwan,2014,5.5,Both sexes
+4530,China and Taiwan,2015,5.9,Both sexes
+4533,China and Taiwan,2016,6.2,Both sexes
 4635,Colombia,2008,18.7,Both sexes
 4638,Colombia,2009,19.1,Both sexes
 4641,Colombia,2010,19.5,Both sexes
@@ -341,15 +341,15 @@
 4779,Comoros,2014,7.2,Both sexes
 4782,Comoros,2015,7.5,Both sexes
 4785,Comoros,2016,7.8,Both sexes
-4887,Democratic Republic of the Congo,2008,7.1,Both sexes
-4890,Democratic Republic of the Congo,2009,7.4,Both sexes
-4893,Democratic Republic of the Congo,2010,7.7,Both sexes
-4896,Democratic Republic of the Congo,2011,8.0,Both sexes
-4899,Democratic Republic of the Congo,2012,8.3,Both sexes
-4902,Democratic Republic of the Congo,2013,8.6,Both sexes
-4905,Democratic Republic of the Congo,2014,8.9,Both sexes
-4908,Democratic Republic of the Congo,2015,9.2,Both sexes
-4911,Democratic Republic of the Congo,2016,9.6,Both sexes
+4887,Congo,2008,7.1,Both sexes
+4890,Congo,2009,7.4,Both sexes
+4893,Congo,2010,7.7,Both sexes
+4896,Congo,2011,8.0,Both sexes
+4899,Congo,2012,8.3,Both sexes
+4902,Congo,2013,8.6,Both sexes
+4905,Congo,2014,8.9,Both sexes
+4908,Congo,2015,9.2,Both sexes
+4911,Congo,2016,9.6,Both sexes
 5013,Cook Islands,2008,51.3,Both sexes
 5016,Cook Islands,2009,52.0,Both sexes
 5019,Cook Islands,2010,52.6,Both sexes
@@ -395,24 +395,24 @@
 5535,Cyprus,2014,21.1,Both sexes
 5538,Cyprus,2015,21.4,Both sexes
 5541,Cyprus,2016,21.8,Both sexes
-5643,Czechia,2008,23.2,Both sexes
-5646,Czechia,2009,23.6,Both sexes
-5649,Czechia,2010,23.9,Both sexes
-5652,Czechia,2011,24.2,Both sexes
-5655,Czechia,2012,24.5,Both sexes
-5658,Czechia,2013,24.9,Both sexes
-5661,Czechia,2014,25.2,Both sexes
-5664,Czechia,2015,25.6,Both sexes
-5667,Czechia,2016,26.0,Both sexes
-5769,Côte d'Ivoire,2008,7.2,Both sexes
-5772,Côte d'Ivoire,2009,7.6,Both sexes
-5775,Côte d'Ivoire,2010,7.9,Both sexes
-5778,Côte d'Ivoire,2011,8.3,Both sexes
-5781,Côte d'Ivoire,2012,8.7,Both sexes
-5784,Côte d'Ivoire,2013,9.0,Both sexes
-5787,Côte d'Ivoire,2014,9.4,Both sexes
-5790,Côte d'Ivoire,2015,9.8,Both sexes
-5793,Côte d'Ivoire,2016,10.3,Both sexes
+5643,Czech Republic,2008,23.2,Both sexes
+5646,Czech Republic,2009,23.6,Both sexes
+5649,Czech Republic,2010,23.9,Both sexes
+5652,Czech Republic,2011,24.2,Both sexes
+5655,Czech Republic,2012,24.5,Both sexes
+5658,Czech Republic,2013,24.9,Both sexes
+5661,Czech Republic,2014,25.2,Both sexes
+5664,Czech Republic,2015,25.6,Both sexes
+5667,Czech Republic,2016,26.0,Both sexes
+5769,Ivory Coast,2008,7.2,Both sexes
+5772,Ivory Coast,2009,7.6,Both sexes
+5775,Ivory Coast,2010,7.9,Both sexes
+5778,Ivory Coast,2011,8.3,Both sexes
+5781,Ivory Coast,2012,8.7,Both sexes
+5784,Ivory Coast,2013,9.0,Both sexes
+5787,Ivory Coast,2014,9.4,Both sexes
+5790,Ivory Coast,2015,9.8,Both sexes
+5793,Ivory Coast,2016,10.3,Both sexes
 5895,South Korea,2008,5.2,Both sexes
 5898,South Korea,2009,5.4,Both sexes
 5901,South Korea,2010,5.5,Both sexes
@@ -422,15 +422,15 @@
 5913,South Korea,2014,6.3,Both sexes
 5916,South Korea,2015,6.5,Both sexes
 5919,South Korea,2016,6.8,Both sexes
-6021,Democratic Republic of the Congo,2008,4.6,Both sexes
-6024,Democratic Republic of the Congo,2009,4.8,Both sexes
-6027,Democratic Republic of the Congo,2010,5.1,Both sexes
-6030,Democratic Republic of the Congo,2011,5.3,Both sexes
-6033,Democratic Republic of the Congo,2012,5.6,Both sexes
-6036,Democratic Republic of the Congo,2013,5.9,Both sexes
-6039,Democratic Republic of the Congo,2014,6.1,Both sexes
-6042,Democratic Republic of the Congo,2015,6.4,Both sexes
-6045,Democratic Republic of the Congo,2016,6.7,Both sexes
+6021,Congo,2008,4.6,Both sexes
+6024,Congo,2009,4.8,Both sexes
+6027,Congo,2010,5.1,Both sexes
+6030,Congo,2011,5.3,Both sexes
+6033,Congo,2012,5.6,Both sexes
+6036,Congo,2013,5.9,Both sexes
+6039,Congo,2014,6.1,Both sexes
+6042,Congo,2015,6.4,Both sexes
+6045,Congo,2016,6.7,Both sexes
 6147,Denmark,2008,16.7,Both sexes
 6150,Denmark,2009,17.1,Both sexes
 6153,Denmark,2010,17.4,Both sexes
@@ -494,15 +494,15 @@
 6921,El Salvador,2014,23.4,Both sexes
 6924,El Salvador,2015,24.0,Both sexes
 6927,El Salvador,2016,24.6,Both sexes
-7029,Guinea,2008,5.8,Both sexes
-7032,Guinea,2009,6.0,Both sexes
-7035,Guinea,2010,6.3,Both sexes
-7038,Guinea,2011,6.5,Both sexes
-7041,Guinea,2012,6.8,Both sexes
-7044,Guinea,2013,7.1,Both sexes
-7047,Guinea,2014,7.4,Both sexes
-7050,Guinea,2015,7.7,Both sexes
-7053,Guinea,2016,8.0,Both sexes
+7029,Equatorial Guinea,2008,5.8,Both sexes
+7032,Equatorial Guinea,2009,6.0,Both sexes
+7035,Equatorial Guinea,2010,6.3,Both sexes
+7038,Equatorial Guinea,2011,6.5,Both sexes
+7041,Equatorial Guinea,2012,6.8,Both sexes
+7044,Equatorial Guinea,2013,7.1,Both sexes
+7047,Equatorial Guinea,2014,7.4,Both sexes
+7050,Equatorial Guinea,2015,7.7,Both sexes
+7053,Equatorial Guinea,2016,8.0,Both sexes
 7155,Eritrea,2008,3.4,Both sexes
 7158,Eritrea,2009,3.5,Both sexes
 7161,Eritrea,2010,3.7,Both sexes
@@ -836,15 +836,15 @@
 11709,Kyrgyzstan,2014,15.5,Both sexes
 11712,Kyrgyzstan,2015,16.0,Both sexes
 11715,Kyrgyzstan,2016,16.6,Both sexes
-11817,Lao People's Democratic Republic,2008,3.1,Both sexes
-11820,Lao People's Democratic Republic,2009,3.3,Both sexes
-11823,Lao People's Democratic Republic,2010,3.5,Both sexes
-11826,Lao People's Democratic Republic,2011,3.8,Both sexes
-11829,Lao People's Democratic Republic,2012,4.1,Both sexes
-11832,Lao People's Democratic Republic,2013,4.4,Both sexes
-11835,Lao People's Democratic Republic,2014,4.7,Both sexes
-11838,Lao People's Democratic Republic,2015,5.0,Both sexes
-11841,Lao People's Democratic Republic,2016,5.3,Both sexes
+11817,Laos,2008,3.1,Both sexes
+11820,Laos,2009,3.3,Both sexes
+11823,Laos,2010,3.5,Both sexes
+11826,Laos,2011,3.8,Both sexes
+11829,Laos,2012,4.1,Both sexes
+11832,Laos,2013,4.4,Both sexes
+11835,Laos,2014,4.7,Both sexes
+11838,Laos,2015,5.0,Both sexes
+11841,Laos,2016,5.3,Both sexes
 11943,Latvia,2008,21.3,Both sexes
 11946,Latvia,2009,21.5,Both sexes
 11949,Latvia,2010,21.8,Both sexes
@@ -998,24 +998,15 @@
 13977,Mexico,2014,27.8,Both sexes
 13980,Mexico,2015,28.3,Both sexes
 13983,Mexico,2016,28.9,Both sexes
-14085,Micronesia,2008,40.1,Both sexes
-14088,Micronesia,2009,40.8,Both sexes
-14091,Micronesia,2010,41.5,Both sexes
-14094,Micronesia,2011,42.2,Both sexes
-14097,Micronesia,2012,42.9,Both sexes
-14100,Micronesia,2013,43.7,Both sexes
-14103,Micronesia,2014,44.4,Both sexes
-14106,Micronesia,2015,45.1,Both sexes
-14109,Micronesia,2016,45.8,Both sexes
-14211,Monaco,2008,No,Both sexes
-14214,Monaco,2009,No,Both sexes
-14217,Monaco,2010,No,Both sexes
-14220,Monaco,2011,No,Both sexes
-14223,Monaco,2012,No,Both sexes
-14226,Monaco,2013,No,Both sexes
-14229,Monaco,2014,No,Both sexes
-14232,Monaco,2015,No,Both sexes
-14235,Monaco,2016,No,Both sexes
+14085,Micronesia (Federated States of),2008,40.1,Both sexes
+14088,Micronesia (Federated States of),2009,40.8,Both sexes
+14091,Micronesia (Federated States of),2010,41.5,Both sexes
+14094,Micronesia (Federated States of),2011,42.2,Both sexes
+14097,Micronesia (Federated States of),2012,42.9,Both sexes
+14100,Micronesia (Federated States of),2013,43.7,Both sexes
+14103,Micronesia (Federated States of),2014,44.4,Both sexes
+14106,Micronesia (Federated States of),2015,45.1,Both sexes
+14109,Micronesia (Federated States of),2016,45.8,Both sexes
 14337,Mongolia,2008,15.5,Both sexes
 14340,Mongolia,2009,16.1,Both sexes
 14343,Mongolia,2010,16.7,Both sexes
@@ -1250,15 +1241,15 @@
 17505,Qatar,2014,33.8,Both sexes
 17508,Qatar,2015,34.5,Both sexes
 17511,Qatar,2016,35.1,Both sexes
-17613,North Korea,2008,3.7,Both sexes
-17616,North Korea,2009,3.8,Both sexes
-17619,North Korea,2010,3.9,Both sexes
-17622,North Korea,2011,4.0,Both sexes
-17625,North Korea,2012,4.1,Both sexes
-17628,North Korea,2013,4.3,Both sexes
-17631,North Korea,2014,4.4,Both sexes
-17634,North Korea,2015,4.5,Both sexes
-17637,North Korea,2016,4.7,Both sexes
+17613,Republic of Korea,2008,3.7,Both sexes
+17616,Republic of Korea,2009,3.8,Both sexes
+17619,Republic of Korea,2010,3.9,Both sexes
+17622,Republic of Korea,2011,4.0,Both sexes
+17625,Republic of Korea,2012,4.1,Both sexes
+17628,Republic of Korea,2013,4.3,Both sexes
+17631,Republic of Korea,2014,4.4,Both sexes
+17634,Republic of Korea,2015,4.5,Both sexes
+17637,Republic of Korea,2016,4.7,Both sexes
 17739,Moldova,2008,16.3,Both sexes
 17742,Moldova,2009,16.6,Both sexes
 17745,Moldova,2010,16.9,Both sexes
@@ -1340,15 +1331,6 @@
 18765,Samoa,2014,46.0,Both sexes
 18768,Samoa,2015,46.7,Both sexes
 18771,Samoa,2016,47.3,Both sexes
-18873,San Marino,2008,No,Both sexes
-18876,San Marino,2009,No,Both sexes
-18879,San Marino,2010,No,Both sexes
-18882,San Marino,2011,No,Both sexes
-18885,San Marino,2012,No,Both sexes
-18888,San Marino,2013,No,Both sexes
-18891,San Marino,2014,No,Both sexes
-18894,San Marino,2015,No,Both sexes
-18897,San Marino,2016,No,Both sexes
 18999,Sao Tome and Principe,2008,9.2,Both sexes
 19002,Sao Tome and Principe,2009,9.6,Both sexes
 19005,Sao Tome and Principe,2010,10.0,Both sexes
@@ -1457,15 +1439,6 @@
 20403,South Africa,2014,27.2,Both sexes
 20406,South Africa,2015,27.8,Both sexes
 20409,South Africa,2016,28.3,Both sexes
-20511,South Sudan,2008,No,Both sexes
-20514,South Sudan,2009,No,Both sexes
-20517,South Sudan,2010,No,Both sexes
-20520,South Sudan,2011,No,Both sexes
-20523,South Sudan,2012,No,Both sexes
-20526,South Sudan,2013,No,Both sexes
-20529,South Sudan,2014,No,Both sexes
-20532,South Sudan,2015,No,Both sexes
-20535,South Sudan,2016,No,Both sexes
 20637,Spain,2008,21.0,Both sexes
 20640,Spain,2009,21.3,Both sexes
 20643,Spain,2010,21.7,Both sexes
@@ -1484,24 +1457,15 @@
 20781,Sri Lanka,2014,4.6,Both sexes
 20784,Sri Lanka,2015,4.9,Both sexes
 20787,Sri Lanka,2016,5.2,Both sexes
-20889,Sudan,2008,No,Both sexes
-20892,Sudan,2009,No,Both sexes
-20895,Sudan,2010,No,Both sexes
-20898,Sudan,2011,No,Both sexes
-20901,Sudan,2012,No,Both sexes
-20904,Sudan,2013,No,Both sexes
-20907,Sudan,2014,No,Both sexes
-20910,Sudan,2015,No,Both sexes
-20913,Sudan,2016,No,Both sexes
-21015,Sudan (former),2008,6.1,Both sexes
-21018,Sudan (former),2009,5.1,Both sexes
-21021,Sudan (former),2010,6.5,Both sexes
-21024,Sudan (former),2011,6.1,Both sexes
-21027,Sudan (former),2012,6.4,Both sexes
-21030,Sudan (former),2013,5.7,Both sexes
-21033,Sudan (former),2014,5.8,Both sexes
-21036,Sudan (former),2015,8.6,Both sexes
-21039,Sudan (former),2016,8.6,Both sexes
+21015,Sudan,2008,6.1,Both sexes
+21018,Sudan,2009,5.1,Both sexes
+21021,Sudan,2010,6.5,Both sexes
+21024,Sudan,2011,6.1,Both sexes
+21027,Sudan,2012,6.4,Both sexes
+21030,Sudan,2013,5.7,Both sexes
+21033,Sudan,2014,5.8,Both sexes
+21036,Sudan,2015,8.6,Both sexes
+21039,Sudan,2016,8.6,Both sexes
 21141,Suriname,2008,22.5,Both sexes
 21144,Suriname,2009,23.0,Both sexes
 21147,Suriname,2010,23.5,Both sexes
@@ -1673,15 +1637,15 @@
 23427,Tanzania,2014,7.6,Both sexes
 23430,Tanzania,2015,8.0,Both sexes
 23433,Tanzania,2016,8.4,Both sexes
-23535,United States,2008,31.0,Both sexes
-23538,United States,2009,31.7,Both sexes
-23541,United States,2010,32.3,Both sexes
-23544,United States,2011,33.0,Both sexes
-23547,United States,2012,33.6,Both sexes
-23550,United States,2013,34.3,Both sexes
-23553,United States,2014,34.9,Both sexes
-23556,United States,2015,35.6,Both sexes
-23559,United States,2016,36.2,Both sexes
+23535,United States of America,2008,31.0,Both sexes
+23538,United States of America,2009,31.7,Both sexes
+23541,United States of America,2010,32.3,Both sexes
+23544,United States of America,2011,33.0,Both sexes
+23547,United States of America,2012,33.6,Both sexes
+23550,United States of America,2013,34.3,Both sexes
+23553,United States of America,2014,34.9,Both sexes
+23556,United States of America,2015,35.6,Both sexes
+23559,United States of America,2016,36.2,Both sexes
 23661,Uruguay,2008,24.1,Both sexes
 23664,Uruguay,2009,24.6,Both sexes
 23667,Uruguay,2010,25.1,Both sexes

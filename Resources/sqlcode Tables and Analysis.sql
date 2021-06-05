@@ -1,3 +1,4 @@
+--Creating tables obesity and worldhappiness, do this before loading
 Drop table if exists obesity;
 Drop table if exists worldhappiness;
 
@@ -25,6 +26,8 @@ Create table worldhappiness(
 	
 Select * from worldhappiness;
 
+
+--Creating a query by joining obesity and worldhappiness together by country and date, do this only right before Analysis
 drop view if exists ETLTable;
 
 Create view ETLTable as
