@@ -27,13 +27,15 @@ Create table worldhappiness(
 	
 Select * from worldhappiness;
 
+drop view if exists ETLTable;
+
 Create view ETLTable as
 	Select obesity."Country",
 		obesity."Year",
 		obesity."Obesity",
 		worldhappiness."Positive_Affect"
 		From obesity
-		Join worldhappiness on obesity."Country" = worldhappiness."Country";
+		Join worldhappiness on obesity."Country" = worldhappiness."Country" and obesity."Year" = worldhappiness."Year";
 
 Select * from ETLTable;
 
