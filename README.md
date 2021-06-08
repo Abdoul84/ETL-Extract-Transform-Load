@@ -45,7 +45,7 @@ Type of final production database data is loaded into:
 Final tables/collections that we used in the production database:
 
 			• View created in PostgreSQL to show positive affect vs obesity in table format ("ETLTable")
-			• View loaded onto Jupyter Notebook to create a Dataframe]
+			• View loaded onto Jupyter Notebook to create a Dataframe
 			• Graphs were created per year to find if there is a correlation between obesity and Positive Affect
 			• Linear regressions were calculated to determine the strenth of the correlation
 			• Max Positive Affect was detemined per year and the country was identified in correlation
