@@ -39,7 +39,7 @@ Type of final production database data is loaded into:
 			• Tables and columns were first created in PostgreSQL
 			• Connected Jupyter Notebook to PostgreSQL and then pushed the data from World Happiness and Obesity as two tables
 			• Created CSV files from Jupyter notebook of the two tables pushed to SQL in the Resources folder
-			• Loaded the two tables as separate tables to allow the freedom of analysis for the analyzer to match and represent the dataset.
+			• Loaded the two tables as separate tables to allow the freedom of analysis for the analyzer to personalize the analysis
 
 <h2>Analysis:</h2>
 Final tables/collections that we used in the production database:
