@@ -28,7 +28,7 @@ Obesity Dataset:
 World Happiness Dataset:
 
 			• Columns were renamed
-			• Names of country changed to be in alignment with Obesity Dataset")
+			• Names of country changed to be in alignment with Obesity Dataset
 			• Changed Obesity column to float instead of string
 			• Rows with blanks were dropped to not falsely skew dataset
 
